@@ -1,0 +1,894 @@
+Sony|Sony|D6503|MSM8974|D6503|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+Sony|Sony|C6903|MSM8974|C6903|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+Xiaomi|Xiaomi|Redmi Note 3|msm8952|kenzo|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+HUAWEI|hi6210sft|ALE-L21|hi6210sft|hwALE-H|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+HTC|htc|HTC One_M8|MSM8974|htc_m8|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+LGE|lge|LG-H440n|msm8916|c70n|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+LGE|google|Nexus 5|hammerhead|hammerhead|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+HUAWEI|HUAWEI|HUAWEI GRA-L09|GRA-L09|HWGRA|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+LGE|lge|VS985 4G|MSM8974|g3|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+Micromax|Micromax|Micromax E481|E481|E481|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+LGE|lge|LG-H815|msm8992|p1|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+ZTE|ZTE|Z820|MT6735M|P675T07|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+LENOVO|Lenovo|Lenovo A2010-a|A2010-a|A2010-a|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+ZTE|ZTE|ZTE T620|MT6735P|ZTE_T620|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+motorola|motorola|XT1254|APQ8084|quark|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+Sony|Sony|D6633|MSM8974|D6633|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+Google|Google Pixel 5|Pixel 5|Snapdragon 765G|Pixel 5|37.7749|-122.4194|70.0|6.0|Verizon|311|US|Android|arm64-v8a|12.0.0
+Honor|Honor 50|NTH-AL00|Snapdragon 778G|Honor 50|31.2304|121.4737|55.0|6.57|China Unicom|460|CN|Android|arm64-v8a|11.0.0
+LG|LG Velvet|LM-G900|Snapdragon 765G|Velvet|37.7749|-122.4194|70.0|6.8|T-Mobile|310|US|Android|arm64-v8a|10.0.0
+HUAWEI|HUAWEI GRA-L09|GRA-L09|HWGRA|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+LGE|lge VS985 4G|MSM8974|g3|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+Micromax|Micromax E481|E481|E481|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+LGE|lge LG-H815|msm8992|p1|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+ZTE|ZTE Z820|MT6735M|P675T07|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+LENOVO|Lenovo A2010-a|A2010-a|A2010-a|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+ZTE|ZTE T620|MT6735P|ZTE_T620|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+motorola|motorola XT1254|APQ8084|quark|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+Samsung|Galaxy Note 20|SM-N981|Exynos 990|Note 20|51.5074|-0.1278|100.0|10.0|Verizon|311|US|Android|x86|9.0.0-uvwxyz
+Samsung|Galaxy A32|SM-A325|Mediatek Helio G80|A32|48.8566|2.3522|35.0|4.0|Sprint|311|US|Android|arm64-v8a|11.0.0-pqrstuv
+Samsung|Galaxy S10 Lite|SM-G770|Snapdragon 855|S10 Lite|35.6895|139.6917|50.0|5.5|T-Mobile|310|US|Android|armv8-a|8.0.0-wxyzabc
+LG|Wing|LM-F100|Snapdragon 765G|Wing|55.7558|37.6176|80.0|8.0|AT&T|310|US|Android|x86_64|9.0.0-defghij
+LG|K92 5G|LM-K920|Snapdragon 690|K92 5G|25.2048|55.2708|10.0|1.0|Verizon|311|US|Android|arm64-v8a|8.1.0-klmnop
+LG|Velvet|LM-G900|Snapdragon 765|Velvet|40.7306|-73.9352|15.0|2.0|T-Mobile|310|US|Android|arm64-v8a|10.0.0-mnopqr
+LG|Stylo 7|LM-Q730|Mediatek Helio P35|Stylo 7|34.0522|-118.2437|75.0|7.0|Sprint|311|US|Android|arm64-v8a|9.0.0-stuvwxyz
+HUAWEI|P40 Pro|ELS-NX9|Kirin 990 5G|P40 Pro|51.5074|-0.1278|100.0|10.0|Verizon|311|US|Android|x86|9.0.0-abcdefghijklmnopqrstuvwxyz
+HUAWEI|Mate 30 Pro|LIO-L29|Kirin 990|Mate 30 Pro|48.8566|2.3522|35.0|4.0|Sprint|311|US|Android|arm64-v8a|11.0.0-pqrstuvwxyz
+HUAWEI|P30 Lite|MAR-LX3A|Kirin 710|P30 Lite|35.6895|139.6917|50.0|5.5|T-Mobile|310|US|Android|armv8-a|8.0.0-abcdefghijklmnop
+Xiaomi|Mi 11 Ultra|M2102K1C|Snapdragon 888|Mi 11 Ultra|55.7558|37.6176|80.0|8.0|AT&T|310|US|Android|x86_64|9.0.0-defghijklm
+Xiaomi|Redmi Note 10|M2101K7AI|Snapdragon 678|Redmi Note 10|25.2048|55.2708|10.0|1.0|Verizon|311|US|Android|arm64-v8a|8.1.0-nopqrstuvwxyz
+Xiaomi|Poco X3 NFC|M2007J20CG|Snapdragon 732G|Poco X3 NFC|40.7306|-73.9352|15.0|2.0|T-Mobile|310|US|Android|arm64-v8a|10.0.0-abcdefghijkl
+Sony|Xperia 1 II|XQ-AT51|Snapdragon 865|Xperia 1 II|34.0522|-118.2437|75.0|7.0|Sprint|311|US|Android|arm64-v8a|9.0.0-mnopqrstuvwxyz
+Sony|Xperia 5 II|XQ-AT42|Snapdragon 865|Xperia 5 II|51.5074|-0.1278|100.0|10.0|Verizon|311|US|Android|x86|9.0.0-abcdefghijklmnopqrst
+Sony|Xperia 10 III|XQ-BT52|Snapdragon 690|Xperia 10 III|48.8566|2.3522|35.0|4.0|Sprint|311|US|Android|arm64-v8a|11.0.0-pqrstuvwxyzabcdefg
+TCL|10 Pro|T799B|Snapdragon 675|10 Pro|35.6895|139.6917|50.0|5.5|T-Mobile|310|US|Android|armv8-a|8.0.0-abcdefghijklmno
+TCL|20 Pro 5G|T781H|Snapdragon 750G|20 Pro 5G|55.7558|37.6176|80.0|8.0|AT&T|310|US|Android|x86_64|9.0.0-defghijklmnop
+TCL|L10 Pro|T779B|UNISOC SC9863A|L10 Pro|25.2048|55.2708|10.0|1.0|Verizon|311|US|Android|arm64-v8a|8.1.0-qrstuvwxyzabcdef
+Tecno|Camon 16 Premier|CE9|Mediatek Helio G90T|Camon 16 Premier|40.7306|-73.9352|15.0|2.0|T-Mobile|310|US|Android|arm64-v8a|10.0.0-abcdefghijklmn
+Tecno|Spark 7P|KE7|Mediatek Helio G70|Spark 7P|34.0522|-118.2437|75.0|7.0|Sprint|311|US|Android|arm64-v8a|9.0.0-opqrstuvwxyzabcde
+Tecno|Pova 2|LD7|Mediatek Helio G85|Pova 2|51.5074|-0.1278|100.0|10.0|Verizon|311|US|Android|x86|9.0.0-abcdefghijklmnopqrstuvwxyz
+Ulefone|Armor 11|Armor11|Dimensity 800|Armor 11|48.8566|2.3522|35.0|4.0|Sprint|311|US|Android|arm64-v8a|11.0.0-pqrstuvwxyzabcdef
+Ulefone|Note 11P|Note11P|Helio G80|Note 11P|35.6895|139.6917|50.0|5.5|T-Mobile|310|US|Android|armv8-a|8.0.0-abcdefghijklmno
+Ulefone|Power Armor 13|PowerArmor13|Dimensity 1200|Power Armor 13|55.7558|37.6176|80.0|8.0|AT&T|310|US|Android|x86_64|9.0.0-defghijklmnop
+Umidigi|A11|A11|MT6761|A11|25.2048|55.2708|10.0|1.0|Verizon|311|US|Android|arm64-v8a|8.1.0-qrstuvwxyzabcdefg
+Umidigi|Bison GT|BisonGT|Helio G95|Bison GT|40.7306|-73.9352|15.0|2.0|T-Mobile|310|US|Android|arm64-v8a|10.0.0-abcdefghijklmnop
+Umidigi|Power 5|Power5|MT6765|Power 5|34.0522|-118.2437|75.0|7.0|Sprint|311|US|Android|arm64-v8a|9.0.0-mnopqrstuvwxyzabcd
+VIVO|X60 Pro|V2047A|Snapdragon 870|X60 Pro|51.5074|-0.1278|100.0|10.0|Verizon|311|US|Android|x86|9.0.0-abcdefghijklmnopqrstuvwxyz
+VIVO|Y72 5G|V2069|Dimensity 700|Y72 5G|48.8566|2.3522|35.0|4.0|Sprint|311|US|Android|arm64-v8a|11.0.0-pqrstuvwxyzabcdefg
+VIVO|V21e|V2055|Dimensity 700|V21e|35.6895|139.6917|50.0|5.5|T-Mobile|310|US|Android|armv8-a|8.0.0-abcdefghijklmno
+Wiko|View5|V5320|MT6762|View5|55.7558|37.6176|80.0|8.0|AT&T|310|US|Android|x86_64|9.0.0-defghijklmnop
+Wiko|Ride 4G|W-U300|MT6739|Ride 4G|25.2048|55.2708|10.0|1.0|Verizon|311|US|Android|arm64-v8a|8.1.0-qrstuvwxyzabcdefg
+Wiko|Y61|W-K510|MT6580|Y61|40.7306|-73.9352|15.0|2.0|T-Mobile|310|US|Android|arm64-v8a|10.0.0-abcdefghijklmnop
+Xiaomi|Mi 11 Lite|Globa|Snapdragon 732G|Mi 11 Lite|34.0522|-118.2437|75.0|7.0|Sprint|311|US|Android|arm64-v8a|9.0.0-mnopqrstuvwxyzabcd
+Xiaomi|Redmi Note 9|Merlin|Helio G85|Redmi Note 9|51.5074|-0.1278|100.0|10.0|Verizon|311|US|Android|x86|9.0.0-abcdefghijklmnopqrstuvwxyz
+Xiaomi|Poco F3|Alps|Snapdragon 870|Poco F3|48.8566|2.3522|35.0|4.0|Sprint|311|US|Android|arm64-v8a|11.0.0-pqrstuvwxyzabcdef
+Samsung|Galaxy A52 5G|SM-A526U|Snapdragon 750G|A52 5G|35.6895|139.6917|50.0|5.5|T-Mobile|310|US|Android|armv8-a|8.0.0-abcdefghijklmno
+Samsung|Galaxy S21 Ultra|SM-G998U|Snapdragon 888|S21 Ultra|40.7306|-73.9352|15.0|2.0|T-Mobile|310|US|Android|arm64-v8a|10.0.0-abcdefghijklmnop
+Samsung|Galaxy Z Fold 3|SM-F926U|Snapdragon 888|Z Fold 3|34.0522|-118.2437|75.0|7.0|Sprint|311|US|Android|arm64-v8a|9.0.0-mnopqrstuvwxyzabcd
+LG|Wing 5G|LM-F100|Snapdragon 765G|Wing 5G|51.5074|-0.1278|100.0|10.0|Verizon|311|US|Android|x86|9.0.0-abcdefghijklmnopqrstuvwxyz
+LG|K92 5G|LM-K920|Snapdragon 690|K92 5G|48.8566|2.3522|35.0|4.0|Sprint|311|US|Android|arm64-v8a|11.0.0-pqrstuvwxyzabcdef
+LG|Velvet|LM-G900|Snapdragon 765|Velvet|35.6895|139.6917|50.0|5.5|T-Mobile|310|US|Android|armv8-a|8.0.0-abcdefghijklmno
+LG|Stylo 7|LM-Q730|Mediatek Helio P35|Stylo 7|40.7306|-73.9352|15.0|2.0|T-Mobile|310|US|Android|arm64-v8a|10.0.0-abcdefghijklmnop
+HUAWEI|P40 Pro|ELS-NX9|Kirin 990 5G|P40 Pro|34.0522|-118.2437|75.0|7.0|Sprint|311|US|Android|arm64-v8a|9.0.0-mnopqrstuvwxyzabcd
+HUAWEI|Mate 30 Pro|LIO-L29|Kirin 990|Mate 30 Pro|51.5074|-0.1278|100.0|10.0|Verizon|311|US|Android|x86|9.0.0-abcdefghijklmnopqrstuvwxyz
+HUAWEI|P30 Lite|MAR-LX3A|Kirin 710|P30 Lite|48.8566|2.3522|35.0|4.0|Sprint|311|US|Android|arm64-v8a|11.0.0-pqrstuvwxyzabcdef
+Xiaomi|Mi 11 Ultra|M2102K1C|Snapdragon 888|Mi 11 Ultra|35.6895|139.6917|50.0|5.5|T-Mobile|310|US|Android|armv8-a|8.0.0-abcdefghijklmno
+Xiaomi|Redmi Note 10|M2101K7AI|Snapdragon 678|Redmi Note 10|40.7306|-73.9352|15.0|2.0|T-Mobile|310|US|Android|arm64-v8a|10.0.0-abcdefghijklmnop
+Xiaomi|Poco X3 NFC|M2007J20CG|Snapdragon 732G|Poco X3 NFC|34.0522|-118.2437|75.0|7.0|Sprint|311|US|Android|arm64-v8a|9.0.0-mnopqrstuvwxyzabcd
+Sony|Xperia 1 II|XQ-AT51|Snapdragon 865|Xperia 1 II|51.5074|-0.1278|100.0|10.0|Verizon|311|US|Android|x86|9.0.0-abcdefghijklmnopqrstuvwxyz
+Sony|Xperia 5 II|XQ-AT42|Snapdragon 865|Xperia 5 II|48.8566|2.3522|35.0|4.0|Sprint|311|US|Android|arm64-v8a|11.0.0-pqrstuvwxyzabcdef
+Sony|Xperia 10 III|XQ-BT52|Snapdragon 690|Xperia 10 III|35.6895|139.6917|50.0|5.5|T-Mobile|310|US|Android|armv8-a|8.0.0-abcdefghijklmno
+TCL|10 Pro|T799B|Snapdragon 675|10 Pro|40.7306|-73.9352|15.0|2.0|T-Mobile|310|US|Android|arm64-v8a|10.0.0-abcdefghijklmnop
+TCL|20 Pro 5G|T781H|Snapdragon 750G|20 Pro 5G|34.0522|-118.2437|75.0|7.0|Sprint|311|US|Android|arm64-v8a|9.0.0-mnopqrstuvwxyzabcd
+TCL|L10 Pro|T779B|UNISOC SC9863A|L10 Pro|51.5074|-0.1278|100.0|10.0|Verizon|311|US|Android|x86|9.0.0-abcdefghijklmnopqrstuvwxyz
+Tecno|Camon 16 Premier|CE9|Mediatek Helio G90T|Camon 16 Premier|48.8566|2.3522|35.0|4.0|Sprint|311|US|Android|arm64-v8a|11.0.0-pqrstuvwxyzabcdef
+Tecno|Spark 7P|KE7|Mediatek Helio G70|Spark 7P|35.6895|139.6917|50.0|5.5|T-Mobile|310|US|Android|armv8-a|8.0.0-abcdefghijklmno
+Tecno|Pova 2|LD7|Mediatek Helio G85|Pova 2|40.7306|-73.9352|15.0|2.0|T-Mobile|310|US|Android|arm64-v8a|10.0.0-abcdefghijklmnop
+Ulefone|Armor 11|Armor11|Dimensity 800|Armor 11|34.0522|-118.2437|75.0|7.0|Sprint|311|US|Android|arm64-v8a|9.0.0-mnopqrstuvwxyzabcd
+Ulefone|Note 11P|Note11P|Helio G80|Note 11P|51.5074|-0.1278|100.0|10.0|Verizon|311|US|Android|x86|9.0.0-abcdefghijklmnopqrstuvwxyz
+Ulefone|Power Armor 13|PowerArmor13|Dimensity 1200|Power Armor 13|48.8566|2.3522|35.0|4.0|Sprint|311|US|Android|arm64-v8a|11.0.0-pqrstuvwxyzabcdef
+Umidigi|A11|A11|MT6761|A11|35.6895|139.6917|50.0|5.5|T-Mobile|310|US|Android|armv8-a|8.0.0-abcdefghijklmno
+VIVO|Y72 5G|V2069|Dimensity 700|Y72 5G|48.8566|2.3522|35.0|4.0|Sprint|311|US|Android|arm64-v8a|11.0.0-pqrstuvwxyzabcdef
+Wiko|Ride 4G|W-U300|MT6739|Ride 4G|25.2048|55.2708|10.0|1.0|Verizon|311|US|Android|arm64-v8a|8.1.0-qrstuvwxyzabcdef
+Google|Google Pixel 6|G010M|SM8350|Pixel 6|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|12.0.0-abcd123
+Honor|Honor 10|COL-L29|Kirin 970|Honor 10|51.5074|-0.1278|100.0|10.0|EE|234|UK|Android|arm64-v8a|10.0.0-efgh456
+Hotwav|Hotwav Symbol S3|Symbol_S3|MT6580|Symbol_S3|27.82516672|125.0678861|125.06|3.7|MTN|621|NG|Android|armv7l|6.0.0-ijkl789
+HiSense|HiSense F16|F16|MT6737|F16|27.82516672|125.0678861|125.06|3.7|Airtel|621|NG|Android|armv7l|7.0.0-mnopqr0
+HTC|HTC U12+|2Q55100|Snapdragon 845|U12+|27.82516672|125.0678861|125.06|3.7|Verizon|311|US|Android|arm64-v8a|9.0.0-stuvwx1
+Huawei|Huawei P40 Pro|ELS-NX9|Kirin 990 5G|P40 Pro|27.82516672|125.0678861|125.06|3.7|T-Mobile|310|US|Android|arm64-v8a|10.0.0-yzab234
+Infinix|Infinix Hot 10|X682B|Helio G70|Hot 10|27.82516672|125.0678861|125.06|3.7|MTN|621|NG|Android|armv7l|10.0.0-cdef567
+ITEL|ITEL A56|A56|SC7731E|A56|27.82516672|125.0678861|125.06|3.7|Airtel|621|NG|Android|armv7l|9.0.0-ghijk890
+Lava|Lava Z92|Z92|Helio P22|Z92|27.82516672|125.0678861|125.06|3.7|MTN|621|NG|Android|armv7l|10.0.0-lmnop123
+LG|LG V60 ThinQ 5G|LM-V600TM|Snapdragon 865|V60 ThinQ 5G|34.0522|-118.2437|75.0|7.0|T-Mobile|310|US|Android|arm64-v8a|11.0.0-qrstuv456
+Meizu|Meizu 18|18|Snapdragon 888|18|31.2304|121.4737|10.0|1.0|China Mobile|460|CN|Android|arm64-v8a|12.0.0-wxyz789
+Motorola|Motorola Edge|XT2063-3|Snapdragon 765|Edge|40.7128|-74.006|10.0|1.0|Verizon|311|US|Android|arm64-v8a|11.0.0-abcd456
+Nokia|Nokia 9 PureView|TA-1087|Snapdragon 845|9 PureView|51.5074|-0.1278|100.0|10.0|EE|234|UK|Android|arm64-v8a|10.0.0-efgh123
+Nothing|Nothing Phone|NP001|Snapdragon 888|NP001|27.82516672|125.0678861|125.06|3.7|MTN|621|NG|Android|armv7l|12.0.0-ijkl456
+OnePlus|OnePlus 9 Pro|LE2110|Snapdragon 888|9 Pro|37.7749|-122.4194|50.0|5.0|T-Mobile|310|US|Android|arm64-v8a|12.0.0-mnop789
+Oppo|Oppo Find X3 Pro|CPH2173|Snapdragon 888|Find X3 Pro|22.3193|114.1694|50.0|5.0|China Mobile|460|CN|Android|arm64-v8a|11.0.0-qrstuv234
+OUKITEL|OUKITEL WP12|WP12|Helio A22|WP12|27.82516672|125.0678861|125.06|3.7|MTN|621|NG|Android|armv7l|11.0.0-wxyz567
+Realme|Realme 8 Pro|RMX3081|Snapdragon 720G|8 Pro|27.82516672|125.0678861|125.06|3.7|MTN|621|NG|Android|armv7l|11.0.0-abcd789
+Samsung|Samsung Galaxy S21 Ultra|SM-G998U|Snapdragon 888|S21 Ultra|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|12.0.0-efgh123
+Sharp|Sharp Aquos R3|SHV44|Snapdragon 855|Aquos R3|35.6895|139.6917|50.0|5.0|SoftBank|440|JP|Android|arm64-v8a|10.0.0-ijkl456
+Sony|Sony Xperia 1 III|XQ-BC72|Snapdragon 888|Xperia 1 III|35.6895|139.6917|50.0|5.0|SoftBank|440|JP|Android|arm64-v8a|12.0.0-mnop789
+TCL|TCL 20 Pro 5G|T799B|Snapdragon 750G|20 Pro 5G|40.7128|-74.006|10.0|1.0|Verizon|311|US|Android|arm64-v8a|11.0.0-qrstuv234
+Tecno|Tecno Spark 7 Pro|KE8|Helio G80|Spark 7 Pro|6.5244|3.3792|100.0|10.0|MTN|621|NG|Android|arm64-v8a|11.0.0-wxyz567
+Ulefone|Ulefone Armor 11|Armor 11|Dimensity 800|Armor 11|27.82516672|125.0678861|125.06|3.7|MTN|621|NG|Android|armv7l|10.0.0-abcd789
+Umidigi|Umidigi A9 Pro|A9 Pro|Helio P60|A9 Pro|27.82516672|125.0678861|125.06|3.7|MTN|621|NG|Android|armv7l|10.0.0-efgh123
+VIVO|VIVO V21 5G|V2050|Dimensity 800U|V21 5G|27.82516672|125.0678861|125.06|3.7|MTN|621|NG|Android|armv7l|11.0.0-ijkl456
+Wiko|Wiko View 5 Plus|V2050|Helio P35|View 5 Plus|27.82516672|125.0678861|125.06|3.7|MTN|621|NG|Android|armv7l|10.0.0-mnop789
+Xiaomi|Xiaomi Mi 11 Ultra|M2102K1G|Snapdragon 888|Mi 11 Ultra|27.82516672|125.0678861|125.06|3.7|MTN|621|NG|Android|armv7l|12.0.0-qrstuv234
+Yezz|Yezz A7|A7|MT6580|A7|27.82516672|125.0678861|125.06|3.7|MTN|621|NG|Android|armv7l|7.0.0-abcd789
+ZTE|ZTE Axon 30 Ultra|A2023U|Snapdragon 888|Axon 30 Ultra|27.82516672|125.0678861|125.06|3.7|MTN|621|NG|Android|armv7l|11.0.0-efgh123
+Apple|iPhone 13 Pro Max|D211AP|A15 Bionic|iPhone 13 Pro Max|37.7749|-122.4194|50.0|5.0|Verizon|311|US|iOS|arm64|15.0.0-abcdef1
+ASUS|ASUS ROG Phone 5|ASUS_I005D|Snapdragon 888|ROG Phone 5|51.5074|-0.1278|100.0|10.0|EE|234|UK|Android|arm64-v8a|12.0.0-ghijkl2
+Blackview|Blackview BV9800 Pro|BV9800Pro|Helio P70|BV9800 Pro|27.82516672|125.0678861|125.06|3.7|MTN|621|NG|Android|armv7l|10.0.0-mnopqr3
+BLU|BLU G91 Pro|G0260WW|Helio G90T|G91 Pro|27.82516672|125.0678861|125.06|3.7|MTN|621|NG|Android|armv7l|11.0.0-stuvwx4
+Cubot|Cubot X20 Pro|Cubot_X20_Pro|Helio P60|X20 Pro|27.82516672|125.0678861|125.06|3.7|MTN|621|NG|Android|armv7l|9.0.0-yzabcd5
+DOOGEE|DOOGEE S96 Pro|S96_Pro|Helio G90|S96 Pro|27.82516672|125.0678861|125.06|3.7|MTN|621|NG|Android|armv7l|10.0.0-efghij6
+Google|Google Pixel 6|G010M|SM8350|Pixel 6|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|12.0.0-klmnop7
+Honor|Honor 10|COL-L29|Kirin 970|Honor 10|51.5074|-0.1278|100.0|10.0|EE|234|UK|Android|arm64-v8a|10.0.0-pqrstuv8
+Hotwav|Hotwav Symbol S3|Symbol_S3|MT6580|Symbol S3|27.82516672|125.0678861|125.06|3.7|MTN|621|NG|Android|armv7l|6.0.0-wxyzab9
+HiSense|HiSense F16|F16|MT6737|F16|27.82516672|125.0678861|125.06|3.7|MTN|621|NG|Android|armv7l|7.0.0-cdefgh10
+HTC|HTC U12+|2Q55100|Snapdragon 845|U12+|27.82516672|125.0678861|125.06|3.7|Verizon|311|US|Android|arm64-v8a|9.0.0-ijklmn11
+Huawei|Huawei P40 Pro|ELS-NX9|Kirin 990 5G|P40 Pro|27.82516672|125.0678861|125.06|3.7|T-Mobile|310|US|Android|arm64-v8a|10.0.0-opqrst12
+Infinix|Infinix Hot 10|X682B|Helio G70|Hot 10|27.82516672|125.0678861|125.06|3.7|MTN|621|NG|Android|armv7l|10.0.0-uvwxyz13
+ITEL|ITEL A56|A56|SC7731E|A56|27.82516672|125.0678861|125.06|3.7|MTN|621|NG|Android|armv7l|9.0.0-12345614
+Apple|iPhone 13 Pro Max|iPhone14,4|Apple A15 Bionic|iPh13,4|37.7749|-122.4194|50.0|5.0|Verizon|311|US|iOS|arm64|15.0.0-abcd123
+ASUS|ASUS ZenFone 8|ZS590KS|Snapdragon 888|ZenFone 8|34.0522|-118.2437|75.0|7.0|T-Mobile|310|US|Android|arm64-v8a|12.0.0-efgh456
+Blackview|Blackview BV9900|BV9900|Helio P90|BV9900|27.82516672|125.0678861|125.06|3.7|MTN|621|NG|Android|armv7l|10.0.0-ijkl789
+BLU|BLU G91 Pro|G0230WW|Helio G90T|G91 Pro|27.82516672|125.0678861|125.06|3.7|MTN|621|NG|Android|armv7l|11.0.0-mnop123
+Cubot|Cubot Note 20 Pro|Note 20 Pro|Helio P60|Note 20 Pro|27.82516672|125.0678861|125.06|3.7|MTN|621|NG|Android|armv7l|10.0.0-qrstuv456
+DOOGEE|DOOGEE S96 Pro|S96 Pro|Helio G90|S96 Pro|27.82516672|125.0678861|125.06|3.7|MTN|621|NG|Android|armv7l|11.0.0-wxyz789
+Hotwav|Hotwav Symbol S3|Symbol_S3|MT6580|Symbol S3|27.82516672|125.0678861|125.06|3.7|MTN|621|NG|Android|armv7l|6.0.0-ijkl789
+HiSense|HiSense F16|F16|MT6737|F16|27.82516672|125.0678861|125.06|3.7|Airtel|621|NG|Android|armv7l|7.0.0-mnop123
+HTC|HTC U12+|2Q55100|Snapdragon 845|U12+|27.82516672|125.0678861|125.06|3.7|Verizon|311|US|Android|arm64-v8a|9.0.0-qrstuv456
+Huawei|Huawei P40 Pro|ELS-NX9|Kirin 990 5G|P40 Pro|27.82516672|125.0678861|125.06|3.7|T-Mobile|310|US|Android|arm64-v8a|10.0.0-wxyz789
+Infinix|Infinix Hot 10|X682B|Helio G70|Hot 10|27.82516672|125.0678861|125.06|3.7|MTN|621|NG|Android|armv7l|10.0.0-abcd123
+ITEL|ITEL A56|A56|SC7731E|A56|27.82516672|125.0678861|125.06|3.7|Airtel|621|NG|Android|armv7l|9.0.0-efgh456
+Lava|Lava Z92|Z92|Helio P22|Z92|27.82516672|125.0678861|125.06|3.7|MTN|621|NG|Android|armv7l|10.0.0-ijkl789
+LG|LG V60 ThinQ 5G|LM-V600TM|Snapdragon 865|V60 ThinQ 5G|34.0522|-118.2437|75.0|7.0|T-Mobile|310|US|Android|arm64-v8a|11.0.0-mnop123
+Meizu|Meizu 18|18|Snapdragon 888|18|31.2304|121.4737|10.0|1.0|China Mobile|460|CN|Android|arm64-v8a|12.0.0-qrstuv456
+LG|LG Wing|LM-F100|Snapdragon 765G|Wing|34.0522|-118.2437|75.0|7.0|T-Mobile|310|US|Android|arm64-v8a|10.0.0-abcd123
+Meizu|Meizu 17 Pro|17 Pro|Snapdragon 865|17 Pro|31.2304|121.4737|10.0|1.0|China Mobile|460|CN|Android|arm64-v8a|11.0.0-efgh456
+Motorola|Motorola Edge|XT2063-3|Snapdragon 765|Edge|40.7128|-74.0060|15.0|2.0|Verizon|311|US|Android|arm64-v8a|10.0.0-ijkl789
+Nokia|Nokia 8.3 5G|TA-1243|Snapdragon 765G|8.3 5G|51.5074|-0.1278|100.0|10.0|EE|234|UK|Android|arm64-v8a|11.0.0-mnop123
+Nothing|Nothing Phone|Nothing1|Snapdragon 801|Nothing1|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|12.0.0-qrstuv456
+OnePlus|OnePlus 9 Pro|LE2120|Snapdragon 888|9 Pro|37.7749|-122.4194|50.0|5.0|T-Mobile|310|US|Android|arm64-v8a|12.0.0-wxyz789
+Oppo|Oppo Find X3 Pro|CPH2173|Snapdragon 888|Find X3 Pro|34.0522|-118.2437|75.0|7.0|Verizon|311|US|Android|arm64-v8a|11.0.0-abcd123
+OUKITEL|OUKITEL WP10|WP10|Dimensity 800|WP10|27.82516672|125.0678861|125.06|3.7|MTN|621|NG|Android|armv7l|10.0.0-efgh456
+Realme|Realme X50 Pro|RMX2076|Snapdragon 865|X50 Pro|28.6139|77.2090|50.0|5.0|Jio|405|IN|Android|arm64-v8a|11.0.0-ijkl789
+Samsung|Samsung Galaxy S21 Ultra|SM-G998U|Exynos 2100|S21 Ultra|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|12.0.0-mnop123
+Sharp|Sharp Aquos R3|SHV44|Snapdragon 855|Aquos R3|35.6895|139.6917|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|10.0.0-qrstuv456
+Sony|Sony Xperia 1 III|XQ-BC72|Snapdragon 888|Xperia 1 III|35.6895|139.6917|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|12.0.0-wxyz789
+TCL|TCL 20 Pro 5G|T799B|Snapdragon 750G|20 Pro 5G|34.0522|-118.2437|75.0|7.0|Verizon|311|US|Android|arm64-v8a|11.0.0-abcd123
+Tecno|Tecno Camon 17|CG6j|Helio G85|Camon 17|6.5244|3.3792|25.0|2.5|MTN|621|NG|Android|armv7l|11.0.0-efgh456
+Ulefone|Ulefone Armor 11|Armor 11|Dimensity 800|Armor 11|27.82516672|125.0678861|125.06|3.7|MTN|621|NG|Android|armv7l|10.0.0-ijkl789
+Umidigi|Umidigi Bison|Bison|Helio G80|Bison|27.82516672|125.0678861|125.06|3.7|MTN|621|NG|Android|armv7l|10.0.0-mnop123
+VIVO|VIVO X60 Pro|V2045A|Snapdragon 870|X60 Pro|31.2304|121.4737|10.0|1.0|China Mobile|460|CN|Android|arm64-v8a|11.0.0-qrstuv456
+Wiko|Wiko View 5 Plus|View 5 Plus|Helio P22|View 5 Plus|48.8566|2.3522|35.0|4.0|Orange|208|FR|Android|arm64-v8a|10.0.0-wxyz789
+Xiaomi|Xiaomi Mi 11 Ultra|MI 11 Ultra|Snapdragon 888|Mi 11 Ultra|31.2304|121.4737|10.0|1.0|China Mobile|460|CN|Android|arm64-v8a|12.0.0-abcd123
+Yezz|Yezz Andy A5QP|Andy A5QP|MT6582|Andy A5QP|27.82516672|125.0678861|125.06|3.7|MTN|621|NG|Android|armv7l|8.0.0-efgh456
+ZTE|ZTE Axon 30 Ultra|Axon 30 Ultra|Snapdragon 888|Axon 30 Ultra|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|11.0.0-ijkl789
+Google|Google Pixel 6 Pro|Pixel 6 Pro|Tensor|Pixel 6 Pro|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|12.0.0-abcd123
+Honor|Honor 50|NTH-AN00|Snapdragon 778G|Honor 50|31.2304|121.4737|10.0|1.0|China Mobile|460|CN|Android|arm64-v8a|11.0.0-efgh456
+Hotwav|Hotwav Symbol X|Symbol X|MT6580|Symbol X|27.82516672|125.0678861|125.06|3.7|MTN|621|NG|Android|armv7l|8.0.0-ijkl789
+HiSense|HiSense Infinity H30 Lite|Infinity H30 Lite|MT6762|Infinity H30 Lite|27.82516672|125.0678861|125.06|3.7|MTN|621|NG|Android|armv7l|9.0.0-mnop123
+HTC|HTC Desire 21 Pro|Desire 21 Pro|Snapdragon 690|Desire 21 Pro|25.2048|55.2708|10.0|1.0|Verizon|311|US|Android|arm64-v8a|10.0.0-qrstuv456
+Huawei|Huawei P50 Pro|Huawei P50 Pro|Kirin 9000|P50 Pro|22.3193|114.1694|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|12.0.0-wxyz789
+Infinix|Infinix Note 10 Pro|X695|Helio G95|Note 10 Pro|6.5244|3.3792|25.0|2.5|MTN|621|NG|Android|armv7l|11.0.0-abcd123
+ITEL|ITEL S17 Pro|S17 Pro|SC9863A|S17 Pro|27.82516672|125.0678861|125.06|3.7|MTN|621|NG|Android|armv7l|8.0.0-efgh456
+Lava|Lava Z6|Z6|Helio G35|Z6|27.82516672|125.0678861|125.06|3.7|MTN|621|NG|Android|armv7l|9.0.0-ijkl789
+LG|LG V60 ThinQ|LM-V600|Snapdragon 865|V60 ThinQ|34.0522|-118.2437|75.0|7.0|T-Mobile|310|US|Android|arm64-v8a|10.0.0-mnop123
+Meizu|Meizu 18 Pro|18 Pro|Snapdragon 888|18 Pro|31.2304|121.4737|10.0|1.0|China Mobile|460|CN|Android|arm64-v8a|11.0.0-qrstuv456
+Motorola|Motorola Moto G Stylus 5G|XT2131|Snapdragon 480|Moto G Stylus 5G|40.7128|-74.0060|15.0|2.0|Verizon|311|US|Android|arm64-v8a|12.0.0-wxyz789
+Nokia|Nokia G50|TA-2300|Snapdragon 480|G50|51.5074|-0.1278|100.0|10.0|EE|234|UK|Android|arm64-v8a|11.0.0-abcd123
+Nothing|Nothing Phone 1|Nothing1|Snapdragon 778G|Nothing1|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|12.0.0-efgh456
+OnePlus|OnePlus 9|LE2115|Snapdragon 888|9|37.7749|-122.4194|50.0|5.0|T-Mobile|310|US|Android|arm64-v8a|12.0.0-ijkl789
+Oppo|Oppo Reno 6 Pro|CPH2249|Dimensity 1200|Reno 6 Pro|34.0522|-118.2437|75.0|7.0|Verizon|311|US|Android|arm64-v8a|11.0.0-mnop123
+OUKITEL|OUKITEL WP15|WP15|Dimensity 800|WP15|27.82516672|125.0678861|125.06|3.7|MTN|621|NG|Android|armv7l|10.0.0-qrstuv456
+Realme|Realme GT|RMX2202|Snapdragon 888|GT|28.6139|77.2090|50.0|5.0|Jio|405|IN|Android|arm64-v8a|12.0.0-abcd123
+Samsung|Samsung Galaxy Z Fold 3|SM-F926U|Snapdragon 888|Z Fold 3|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|11.0.0-efgh456
+Sharp|Sharp Aquos R6|SHG04|Snapdragon 888|Aquos R6|35.6895|139.6917|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|10.0.0-ijkl789
+Sony|Sony Xperia 5 III|XQ-BQ72|Snapdragon 888|Xperia 5 III|35.6895|139.6917|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|12.0.0-mnop123
+TCL|TCL 30 Pro 5G|T799B|Snapdragon 690|30 Pro 5G|34.0522|-118.2437|75.0|7.0|Verizon|311|US|Android|arm64-v8a|11.0.0-qrstuv456
+Tecno|Tecno Phantom X|CG7j|Helio G95|Phantom X|6.5244|3.3792|25.0|2.5|MTN|621|NG|Android|armv7l|11.0.0-abcd123
+Ulefone|Ulefone Power Armor 13|Power Armor 13|Dimensity 700|Power Armor 13|27.82516672|125.0678861|125.06|3.7|MTN|621|NG|Android|armv7l|10.0.0-efgh456
+Umidigi|Umidigi Bison GT|Bison GT|Dimensity 800U|Bison GT|27.82516672|125.0678861|125.06|3.7|MTN|621|NG|Android|armv7l|10.0.0-ijkl789
+VIVO|VIVO X70 Pro+|V2155A|Snapdragon 888+|X70 Pro+|31.2304|121.4737|10.0|1.0|China Mobile|460|CN|Android|arm64-v8a|12.0.0-mnop123
+Wiko|Wiko Power U20|Power U20|Helio G80|Power U20|48.8566|2.3522|35.0|4.0|Orange|208|FR|Android|arm64-v8a|10.0.0-qrstuv456
+Xiaomi|Xiaomi Mi 11 Lite|MI 11 Lite|Snapdragon 732G|Mi 11 Lite|31.2304|121.4737|10.0|1.0|China Mobile|460|CN|Android|arm64-v8a|11.0.0-abcd123
+Yezz|Yezz Billy 4|Billy 4|MT6582|Billy 4|27.82516672|125.0678861|125.06|3.7|MTN|621|NG|Android|armv7l|8.0.0-efgh456
+ZTE|ZTE Axon 30|Axon 30|Snapdragon 870|Axon 30|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|11.0.0-ijkl789
+ASUS|ASUS ROG Phone 5|ASUS_I005D|Snapdragon 888|ROG Phone 5|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|12.0.0-abcd123
+Blackview|Blackview BV9900|BV9900|Helio P90|BV9900|27.82516672|125.0678861|125.06|3.7|MTN|621|NG|Android|armv7l|9.0.0-efgh456
+BLU|BLU G91 Pro|G91 Pro|Helio G90|G91 Pro|25.2048|55.2708|10.0|1.0|Verizon|311|US|Android|arm64-v8a|10.0.0-ijkl789
+Cubot|Cubot KingKong CS|KingKong CS|Helio A22|KingKong CS|31.2304|121.4737|10.0|1.0|China Mobile|460|CN|Android|arm64-v8a|11.0.0-mnop123
+DOOGEE|DOOGEE S96 Pro|S96 Pro|Helio G90|S96 Pro|34.0522|-118.2437|75.0|7.0|T-Mobile|310|US|Android|arm64-v8a|11.0.0-qrstuv456
+Google|Google Pixel 6|Pixel 6|Tensor|Pixel 6|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|12.0.0-wxyz789
+Honor|Honor 50 SE|NTH-L29|Dimensity 900|Honor 50 SE|31.2304|121.4737|10.0|1.0|China Mobile|460|CN|Android|arm64-v8a|12.0.0-abcd123
+Hotwav|Hotwav Symbol X|Symbol X|MT6580|Symbol X|27.82516672|125.0678861|125.06|3.7|MTN|621|NG|Android|armv7l|8.0.0-efgh456
+HiSense|HiSense A6|HLTE700T|SDM660|A6|27.82516672|125.0678861|125.06|3.7|MTN|621|NG|Android|armv7l|9.0.0-ijkl789
+HTC|HTC U12+|2Q55100|Snapdragon 845|U12+|25.2048|55.2708|10.0|1.0|Verizon|311|US|Android|arm64-v8a|10.0.0-mnop123
+Huawei|Huawei Mate 40 Pro|NOH-NX9|Kirin 9000|Mate 40 Pro|22.3193|114.1694|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|11.0.0-qrstuv456
+Infinix|Infinix Zero X Pro|X805|Helio G95|Zero X Pro|6.5244|3.3792|25.0|2.5|MTN|621|NG|Android|armv7l|12.0.0-abcd123
+ITEL|ITEL S17 Pro|S17 Pro|SC9863A|S17 Pro|27.82516672|125.0678861|125.06|3.7|MTN|621|NG|Android|armv7l|9.0.0-efgh456
+Lava|Lava Z6|Z6|Helio G35|Z6|27.82516672|125.0678861|125.06|3.7|MTN|621|NG|Android|armv7l|10.0.0-ijkl789
+LG|LG V60 ThinQ|LM-V600|Snapdragon 865|V60 ThinQ|34.0522|-118.2437|75.0|7.0|T-Mobile|310|US|Android|arm64-v8a|11.0.0-mnop123
+Meizu|Meizu 18 Pro|18 Pro|Snapdragon 888|18 Pro|31.2304|121.4737|10.0|1.0|China Mobile|460|CN|Android|arm64-v8a|12.0.0-qrstuv456
+Samsung|Galaxy Z Fold 5|SM-F928B|Exynos 2200|Z Fold 5|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|13.0.0-abcdef123
+Apple|iPhone 14 Pro Max|A2784|M1 Ultra|iPhone 14 Pro Max|37.7749|-122.4194|50.0|5.0|AT&T|310|US|iOS|arm64|16.0.0-ghijkl456
+Google|Pixel 7 Pro|G7P|Tensor 2|Pixel 7 Pro|37.7749|-122.4194|50.0|5.0|T-Mobile|310|US|Android|arm64-v8a|13.0.0-mnopqr789
+OnePlus|OnePlus 12|OP12|Snapdragon 8 Gen 2|OnePlus 12|34.0522|-118.2437|75.0|7.0|Verizon|311|US|Android|arm64-v8a|13.0.0-stuvwx123
+Xiaomi|Mi 12 Ultra|X12U|Snapdragon 8 Gen 2|Mi 12 Ultra|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|13.0.0-yzabcd456
+Sony|Xperia 3|XQ-BQ88|Snapdragon 8 Gen 2|Xperia 3|35.6895|139.6917|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|13.0.0-efghij789
+Huawei|Mate 60 Pro|M60P|Kirin 9000E|Mate 60 Pro|22.3193|114.1694|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|13.0.0-klmnop123
+Realme|Realme GT 4 Pro|RMX35|Snapdragon 8 Gen 2|GT 4 Pro|28.6139|77.2090|50.0|5.0|Jio|405|IN|Android|arm64-v8a|13.0.0-qrstuv456
+LG|G Flex 6|LM-G670|Snapdragon 8 Gen 2|G Flex 6|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|13.0.0-wxyz1234
+Motorola|Moto Edge X|XT223|Snapdragon 8 Gen 2|Moto Edge X|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|13.0.0-567890abc
+Nokia|Nokia 12.3|TA-2334|Snapdragon 8 Gen 2|Nokia 12.3|35.6895|139.6917|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|13.0.0-defghijkl
+OnePlus|OnePlus Nord 3|OPN3|Dimensity 2000|Nord 3|22.3193|114.1694|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|13.0.0-mnopqrstuv
+Xiaomi|Redmi K50 Pro|X50P|Snapdragon 8 Gen 2|Redmi K50 Pro|28.6139|77.2090|50.0|5.0|Jio|405|IN|Android|arm64-v8a|13.0.0-wxyzabcde
+Sony|Xperia 5 Mark III|XQ-BX55|Snapdragon 8 Gen 2|Xperia 5 Mark III|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|13.0.0-fghijklmn
+Samsung|Galaxy S23 Ultra|SM-S2350|Exynos 2200|S23 Ultra|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|13.0.0-opqrstuvwxyz
+Apple|iPhone SE Plus|A2182|M2|iPhone SE Plus|35.6895|139.6917|50.0|5.5|Docomo|440|JP|iOS|arm64|16.0.0-0123456789
+Google|Pixel 7|G7|Tensor 2|Pixel 7|22.3193|114.1694|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|13.0.0-abcdefghij
+Xiaomi|Mi Note 12|X12|Snapdragon 8 Gen 2|Mi Note 12|28.6139|77.2090|50.0|5.0|Jio|405|IN|Android|arm64-v8a|13.0.0-klmnopqrst
+Realme|Realme X5 Pro|RMX55|Dimensity 2000|X5 Pro|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|13.0.0-uvwxyz0123
+Sony|Xperia 2 Plus|XQ-BX22|Snapdragon 8 Gen 2|Xperia 2 Plus|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|13.0.0-456789abcd
+Huawei|P60 Pro|P60P|Kirin 9500|P60 Pro|35.6895|139.6917|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|13.0.0-efghijklmn
+OnePlus|OnePlus 13|OP13|Snapdragon 8 Gen 3|OnePlus 13|22.3193|114.1694|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|13.0.0-opqrstuvwxyz
+Xiaomi|Redmi Note 12 Pro|X12P|Snapdragon 8 Gen 3|Redmi Note 12 Pro|28.6139|77.2090|50.0|5.0|Jio|405|IN|Android|arm64-v8a|13.0.0-0123456789
+Samsung|Galaxy A84|SM-A840|Exynos 2200|A84|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|13.0.0-abcdef0123
+Apple|iPhone 15|A2786|M2 Ultra|iPhone 15|34.0522|-118.2437|75.0|7.0|AT&T|310|US|iOS|arm64|16.0.0-ghijklmnop
+Google|Pixel 8|G8|Tensor 3|Pixel 8|35.6895|139.6917|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|13.0.0-qrstuvwx
+Xiaomi|Mi Mix 6|X66|Snapdragon 8 Gen 3|Mi Mix 6|22.3193|114.1694|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|13.0.0-yzabcd
+Sony|Xperia 6|XQ-BX66|Snapdragon 8 Gen 3|Xperia 6|28.6139|77.2090|50.0|5.0|Jio|405|IN|Android|arm64-v8a|13.0.0-efghij
+Huawei|Mate 70|M70|Kirin 9900|Mate 70|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|13.0.0-klmnop
+Realme|Realme GT 5|RMX50|Snapdragon 8 Gen 3|GT 5|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|13.0.0-qrstuv
+LG|G10|LM-G105|Snapdragon 8 Gen 3|G10|35.6895|139.6917|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|13.0.0-wxyz
+Motorola|Moto G10|XT224|Snapdragon 8 Gen 3|Moto G10|22.3193|114.1694|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|13.0.0-012345
+Nokia|Nokia 13.4|TA-2345|Snapdragon 8 Gen 3|Nokia 13.4|28.6139|77.2090|50.0|5.0|Jio|405|IN|Android|arm64-v8a|13.0.0-67890
+OnePlus|OnePlus Nord 4|OPN4|Dimensity 2100|Nord 4|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|13.0.0-abcd12
+Xiaomi|Redmi K60|X60|Snapdragon 8 Gen 3|Redmi K60|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|13.0.0-efgh34
+Sony|Xperia 7 Plus|XQ-BX77|Snapdragon 8 Gen 3|Xperia 7 Plus|35.6895|139.6917|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|13.0.0-ijklmno
+Huawei|P80|P80|Kirin 10000|P80|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|13.0.0-pqrstuv
+Realme|Realme X6|RMX60|Dimensity 2100|X6|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|13.0.0-wxyzab
+Samsung|Galaxy A94|SM-A940|Exynos 2300|A94|35.6895|139.6917|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|13.0.0-cdefghij
+Apple|iPhone 15 Pro|A2788|M2 Pro|iPhone 15 Pro|37.7749|-122.4194|50.0|5.0|Verizon|311|US|iOS|arm64|16.0.0-klmnopqr
+Google|Pixel 8 Pro|G8P|Tensor 3|Pixel 8 Pro|22.3193|114.1694|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|13.0.0-stuvwx
+Xiaomi|Mi Mix 7|X77|Snapdragon 8 Gen 3|Mi Mix 7|28.6139|77.2090|50.0|5.0|Jio|405|IN|Android|arm64-v8a|13.0.0-yzabcd
+Sony|Xperia 8|XQ-BX88|Snapdragon 8 Gen 3|Xperia 8|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|13.0.0-efghij
+Huawei|Mate 80 Pro|M80P|Kirin 11000|Mate 80 Pro|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|13.0.0-klmnop
+Realme|Realme GT 6|RMX65|Snapdragon 8 Gen 3|GT 6|35.6895|139.6917|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|13.0.0-qrstuv
+LG|G12|LM-G125|Snapdragon 8 Gen 4|G12|22.3193|114.1694|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|13.0.0-wxyzab
+Motorola|Moto G20|XT225|Snapdragon 8 Gen 4|Moto G20|28.6139|77.2090|50.0|5.0|Jio|405|IN|Android|arm64-v8a|13.0.0-012345
+Nokia|Nokia 14.5|TA-2356|Snapdragon 8 Gen 4|Nokia 14.5|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|13.0.0-67890
+OnePlus|OnePlus Nord 5|OPN5|Dimensity 2200|Nord 5|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|13.0.0-abcd123
+Xiaomi|Redmi K70|X70|Snapdragon 8 Gen 4|Redmi K70|35.6895|139.6917|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|13.0.0-efgh345
+Sony|Xperia 9|XQ-BX99|Snapdragon 8 Gen 4|Xperia 9|22.3193|114.1694|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|13.0.0-ijklmno
+Huawei|P90|P90|Kirin 12000|P90|28.6139|77.2090|50.0|5.0|Jio|405|IN|Android|arm64-v8a|13.0.0-pqrstuv
+Realme|Realme X7 Pro|RMX70|Dimensity 2200|X7 Pro|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|13.0.0-wxyzabc
+Samsung|Galaxy A104|SM-A1040|Exynos 2400|A104|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|13.0.0-cdefghi
+Apple|iPhone 15 Mini|A2790|M2 Mini|iPhone 15 Mini|35.6895|139.6917|50.0|5.5|Docomo|440|JP|iOS|arm64|16.0.0-jklmnopq
+Google|Pixel 9|G9|Tensor 4|Pixel 9|28.6139|77.2090|50.0|5.0|Jio|405|IN|Android|arm64-v8a|13.0.0-rstuvwx
+Xiaomi|Mi Mix 8|X88|Snapdragon 8 Gen 4|Mi Mix 8|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|13.0.0-abcdefg
+Sony|Xperia 10|XQ-BX10|Snapdragon 8 Gen 4|Xperia 10|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|13.0.0-hijklm
+Huawei|Mate 90|M90|Kirin 13000|Mate 90|35.6895|139.6917|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|13.0.0-nopqrst
+Realme|Realme GT 7|RMX75|Snapdragon 8 Gen 4|GT 7|22.3193|114.1694|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|13.0.0-uvwxyz
+LG|G14|LM-G145|Snapdragon 8 Gen 4|G14|28.6139|77.2090|50.0|5.0|Jio|405|IN|Android|arm64-v8a|13.0.0-0123456
+Motorola|Moto G30|XT226|Snapdragon 8 Gen 4|Moto G30|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|13.0.0-7890123
+Nokia|Nokia 15.6|TA-2367|Snapdragon 8 Gen 4|Nokia 15.6|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|13.0.0-456789ab
+OnePlus|OnePlus Nord 6|OPN6|Dimensity 2300|Nord 6|35.6895|139.6917|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|13.0.0-cdefghij
+Xiaomi|Redmi K80|X80|Snapdragon 8 Gen 4|Redmi K80|22.3193|114.1694|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|13.0.0-klmnopq
+Sony|Xperia 11|XQ-BX11|Snapdragon 8 Gen 4|Xperia 11|28.6139|77.2090|50.0|5.0|Jio|405|IN|Android|arm64-v8a|13.0.0-rstuvwx
+Huawei|P100|P100|Kirin 14000|P100|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|13.0.0-yzabcd
+Realme|Realme X8|RMX80|Dimensity 2300|X8|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|13.0.0-efghijkl
+Samsung|Galaxy A124|SM-A1240|Exynos 2500|A124|35.6895|139.6917|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|13.0.0-mnopqrs
+Apple|iPhone 15 Pro Max|A2792|M2 Pro Max|iPhone 15 Pro Max|22.3193|114.1694|25.0|2.5|China Mobile|460|CN|iOS|arm64|16.0.0-tuvwxyz
+Google|Pixel 9 Pro|G9P|Tensor 4|Pixel 9 Pro|28.6139|77.2090|50.0|5.0|Jio|405|IN|Android|arm64-v8a|13.0.0-0123456
+Xiaomi|Mi Mix 9|X99|Snapdragon 8 Gen 4|Mi Mix 9|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|13.0.0-789012
+Sony|Xperia 12|XQ-BX12|Snapdragon 8 Gen 4|Xperia 12|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|13.0.0-345678
+Huawei|Mate 100|M100|Kirin 15000|Mate 100|35.6895|139.6917|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|13.0.0-901234
+Realme|Realme GT 8|RMX85|Snapdragon 8 Gen 4|GT 8|22.3193|114.1694|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|13.0.0-567890
+LG|G16|LM-G165|Snapdragon 8 Gen 5|G16|28.6139|77.2090|50.0|5.0|Jio|405|IN|Android|arm64-v8a|13.0.0-123456
+Motorola|Moto G40|XT227|Snapdragon 8 Gen 5|Moto G40|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|13.0.0-7890123
+Nokia|Nokia 16|TA-2378|Snapdragon 8 Gen 5|Nokia 16|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|13.0.0-456789ab
+OnePlus|OnePlus Nord 7|OPN7|Dimensity 2400|Nord 7|35.6895|139.6917|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|13.0.0-cdefghij
+Xiaomi|Redmi K90|X90|Snapdragon 8 Gen 5|Redmi K90|22.3193|114.1694|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|13.0.0-klmnopqrs
+Sony|Xperia 13|XQ-BX13|Snapdragon 8 Gen 5|Xperia 13|28.6139|77.2090|50.0|5.0|Jio|405|IN|Android|arm64-v8a|13.0.0-tuvwxyz
+Huawei|P110|P110|Kirin 16000|P110|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|13.0.0-0123456
+Realme|Realme X9|RMX90|Dimensity 2400|X9|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|13.0.0-7890123
+Samsung|Galaxy A144|SM-A1440|Exynos 2600|A144|35.6895|139.6917|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|13.0.0-456789ab
+Apple|iPhone 15 Plus|A2794|M2 Plus|iPhone 15 Plus|22.3193|114.1694|25.0|2.5|China Mobile|460|CN|iOS|arm64|16.0.0-cdefghij
+Google|Pixel 10|G10|Tensor 5|Pixel 10|28.6139|77.2090|50.0|5.0|Jio|405|IN|Android|arm64-v8a|13.0.0-klmnopqrs
+Xiaomi|Mi Mix 10|X100|Snapdragon 8 Gen 5|Mi Mix 10|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|13.0.0-tuvwxyz
+Sony|Xperia 14|XQ-BX14|Snapdragon 8 Gen 5|Xperia 14|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|13.0.0-012345
+Huawei|Mate 110|M110|Kirin 17000|Mate 110|35.6895|139.6917|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|13.0.0-678901
+Realme|Realme GT 9|RMX95|Snapdragon 8 Gen 5|GT 9|22.3193|114.1694|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|13.0.0-234567
+LG|G18|LM-G185|Snapdragon 8 Gen 5|G18|28.6139|77.2090|50.0|5.0|Jio|405|IN|Android|arm64-v8a|13.0.0-890123
+Motorola|Moto G50|XT228|Snapdragon 8 Gen 5|Moto G50|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|13.0.0-456789
+Nokia|Nokia 17|TA-2389|Snapdragon 8 Gen 5|Nokia 17|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|13.0.0-012345
+OnePlus|OnePlus Nord 8|OPN8|Dimensity 2500|Nord 8|35.6895|139.6917|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|13.0.0-678901
+Xiaomi|Redmi K100|X100|Snapdragon 8 Gen 5|Redmi K100|22.3193|114.1694|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|13.0.0-234567
+Sony|Xperia 15|XQ-BX15|Snapdragon 8 Gen 5|Xperia 15|28.6139|77.2090|50.0|5.0|Jio|405|IN|Android|arm64-v8a|13.0.0-890123
+Huawei|P120|P120|Kirin 18000|P120|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|13.0.0-456789
+Apple|iPhone 15 Mini|A2796|M2 Mini|iPhone 15 Mini|37.7749|-122.4194|50.0|5.0|Verizon|311|US|iOS|arm64|16.0.0-789012
+ASUS|Zenfone 9|ZE8|Snapdragon 8 Gen 5|Zenfone 9|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|13.0.0-345678
+Blackview|BV9900|BV9900|Helio P90|BV9900|35.6895|139.6917|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|13.0.0-901234
+BLU|BLU G91|G91|Helio G90T|G91|22.3193|114.1694|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|13.0.0-567890
+Cubot|Cubot C40|C40|Helio A22|C40|28.6139|77.2090|50.0|5.0|Jio|405|IN|Android|arm64-v8a|13.0.0-123456
+DOOGEE|DOOGEE S98 Pro|S98 Pro|Dimensity 1100|S98 Pro|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|13.0.0-7890123
+Google|Pixel 6a|G6a|Tensor 2|Pixel 6a|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|13.0.0-456789ab
+Honor|Honor 60|H60|Dimensity 1200|Honor 60|35.6895|139.6917|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|13.0.0-cdefghij
+Hotwav|Hotwav V26|V26|Spreadtrum SC9832E|V26|22.3193|114.1694|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|13.0.0-klmnopq
+HiSense|HiSense A7|A7|Spreadtrum SC9863A|A7|28.6139|77.2090|50.0|5.0|Jio|405|IN|Android|arm64-v8a|13.0.0-rstuvwx
+HTC|HTC Desire 25|Desire 25|Helio P35|Desire 25|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|13.0.0-yzabcd
+Huawei|MatePad 9|MatePad 9|Kirin 9000E|MatePad 9|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|13.0.0-efghijkl
+Infinix|Infinix Zero X|Zero X|Helio G95|Zero X|35.6895|139.6917|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|13.0.0-mnopqrs
+ITEL|ITEL A58|A58|SC7731E|A58|22.3193|114.1694|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|13.0.0-tuvwxyz
+Lava|Lava Z9|Z9|Helio G90|Z9|28.6139|77.2090|50.0|5.0|Jio|405|IN|Android|arm64-v8a|13.0.0-0123456
+LG|LG V90|V90|Snapdragon 8 Gen 6|V90|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|13.0.0-789012
+Meizu|Meizu 20 Pro|20 Pro|Dimensity 1200|20 Pro|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|13.0.0-345678
+Motorola|Moto E8|E8|Snapdragon 7c Gen 3|Moto E8|35.6895|139.6917|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|13.0.0-901234
+Nokia|Nokia 18|TA-2390|Snapdragon 8 Gen 6|Nokia 18|22.3193|114.1694|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|13.0.0-567890
+Nothing|Nothing Phone 2|Nothing 2|Snapdragon 8 Gen 6|Nothing 2|28.6139|77.2090|50.0|5.0|Jio|405|IN|Android|arm64-v8a|13.0.0-123456
+OnePlus|OnePlus 12|OP12|Snapdragon 8 Gen 6|OnePlus 12|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|13.0.0-7890123
+Oppo|Oppo F25|F25|Dimensity 1300|F25|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|13.0.0-456789ab
+OUKITEL|OUKITEL K19|K19|Helio P70|K19|35.6895|139.6917|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|13.0.0-cdefghij
+Realme|Realme V50|V50|Snapdragon 8 Gen 6|V50|22.3193|114.1694|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|13.0.0-klmnopqrs
+Samsung|Galaxy S40|SM-S40|Exynos 2200|S40|28.6139|77.2090|50.0|5.0|Jio|405|IN|Android|arm64-v8a|13.0.0-rstuvwx
+Sharp|Sharp Aquos R8|Aquos R8|Snapdragon 8 Gen 6|Aquos R8|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|13.0.0-yzabcd
+Sony|Xperia 16|XQ-BX16|Snapdragon 8 Gen 6|Xperia 16|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|13.0.0-efghijkl
+TCL|TCL 20 Pro|20 Pro|Snapdragon 8 Gen 6|TCL 20 Pro|35.6895|139.6917|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|13.0.0-mnopqrs
+Tecno|Tecno Phantom X|Phantom X|Helio G95|Phantom X|22.3193|114.1694|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|13.0.0-tuvwxyz
+Ulefone|Ulefone Armor 12|Armor 12|Dimensity 1200|Armor 12|28.6139|77.2090|50.0|5.0|Jio|405|IN|Android|arm64-v8a|13.0.0-0123456
+Umidigi|Umidigi Bison 20|Bison 20|Helio G90T|Bison 20|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|13.0.0-789012
+VIVO|VIVO X90|X90|Snapdragon 8 Gen 6|X90|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|13.0.0-345678
+Wiko|Wiko View 6|View 6|Helio G96|View 6|35.6895|139.6917|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|13.0.0-901234
+Xiaomi|Xiaomi 13|X13|Snapdragon 8 Gen 6|Xiaomi 13|22.3193|114.1694|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|13.0.0-567890
+Yezz|Yezz V8|V8|Helio G96|V8|28.6139|77.2090|50.0|5.0|Jio|405|IN|Android|arm64-v8a|13.0.0-123456
+ZTE|ZTE Blade X|Blade X|Snapdragon 8 Gen 6|Blade X|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|13.0.0-7890123
+Apple|iPhone 16|A2800|M2|iPhone 16|34.0522|-118.2437|75.0|7.0|AT&T|310|US|iOS|arm64|16.0.0-456789
+ASUS|Zenfone 10|ZE10|Snapdragon 8 Gen 7|Zenfone 10|35.6895|139.6917|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|13.0.0-901234
+Blackview|BV1000|BV1000|Helio G88|BV1000|22.3193|114.1694|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|13.0.0-234567
+BLU|BLU G92|G92|Helio G96|G92|28.6139|77.2090|50.0|5.0|Jio|405|IN|Android|arm64-v8a|13.0.0-890123
+Cubot|Cubot C50|C50|Helio P35|C50|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|13.0.0-012345
+DOOGEE|DOOGEE V30|V30|Dimensity 1300|V30|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|13.0.0-678901
+Google|Pixel 7|G7|Tensor 3|Pixel 7|35.6895|139.6917|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|13.0.0-234567
+Honor|Honor 70|H70|Dimensity 1400|Honor 70|22.3193|114.1694|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|13.0.0-890123
+Hotwav|Hotwav V28|V28|Spreadtrum SC9863A|V28|28.6139|77.2090|50.0|5.0|Jio|405|IN|Android|arm64-v8a|13.0.0-456789
+HiSense|HiSense A9|A9|Snapdragon 7c Gen 3|A9|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|13.0.0-012345
+HTC|HTC Desire 30|Desire 30|Helio G90|Desire 30|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|13.0.0-678901
+Huawei|MatePad 10|MatePad 10|Kirin 9100E|MatePad 10|35.6895|139.6917|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|13.0.0-234567
+Infinix|Infinix Note 12|Note 12|Helio G97|Note 12|22.3193|114.1694|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|13.0.0-890123
+ITEL|ITEL A59|A59|SC9863A|A59|28.6139|77.2090|50.0|5.0|Jio|405|IN|Android|arm64-v8a|13.0.0-456789
+Apple|iPhone 14 Mini|A2788|M2 Mini|iPhone 14 Mini|37.7749|-122.4194|50.0|5.0|Verizon|311|US|iOS|arm64|15.0.0-abcdef
+ASUS|Zenfone 8|ZE8|Snapdragon 888|Zenfone 8|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|12.0.0-ghijkl
+Blackview|BV9800|BV9800|Helio P90|BV9800|35.6895|139.6917|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|12.0.0-mnopqr
+BLU|BLU G90|G90|Helio G90|G90|22.3193|114.1694|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|12.0.0-stuvwx
+Cubot|Cubot C30|C30|Helio A22|C30|28.6139|77.2090|50.0|5.0|Jio|405|IN|Android|arm64-v8a|12.0.0-yzabcd
+DOOGEE|DOOGEE S96|S96|Dimensity 700|S96|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|12.0.0-efghij
+Google|Pixel 6|G6|Tensor|Pixel 6|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|12.0.0-klmnop
+Honor|Honor 50|H50|Dimensity 1200|Honor 50|35.6895|139.6917|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|12.0.0-qrstuv
+Hotwav|Hotwav M7|M7|Spreadtrum SC7731E|M7|22.3193|114.1694|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|12.0.0-wxyzab
+HiSense|HiSense Infinity H50|Infinity H50|Snapdragon 778G|Infinity H50|28.6139|77.2090|50.0|5.0|Jio|405|IN|Android|arm64-v8a|12.0.0-cdefgh
+HTC|HTC Wildfire E3|Wildfire E3|Helio P22|Wildfire E3|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|12.0.0-ijklmn
+Huawei|MatePad 8|MatePad 8|Kirin 820E|MatePad 8|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|12.0.0-opqrst
+Infinix|Infinix Note 10|Note 10|Helio G85|Note 10|35.6895|139.6917|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|12.0.0-uvwxyz
+ITEL|ITEL Vision 2|Vision 2|SC7731E|Vision 2|22.3193|114.1694|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|12.0.0-012345
+Lava|Lava Z3|Z3|Helio A20|Z3|28.6139|77.2090|50.0|5.0|Jio|405|IN|Android|arm64-v8a|12.0.0-678901
+LG|LG K92 5G|K92 5G|Snapdragon 690|K92 5G|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|12.0.0-234567
+Meizu|Meizu 18|18|Snapdragon 888|18|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|12.0.0-890123
+Motorola|Moto G100|Moto G100|Snapdragon 870|Moto G100|35.6895|139.6917|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|12.0.0-456789
+Nokia|Nokia 7.4|TA-1399|Snapdragon 690|7.4|22.3193|114.1694|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|12.0.0-012345
+Nothing|Nothing Phone 1|Nothing 1|Snapdragon 8 Gen 1|Nothing 1|28.6139|77.2090|50.0|5.0|Jio|405|IN|Android|arm64-v8a|12.0.0-678901
+OnePlus|OnePlus 11T|OP11T|Snapdragon 888|OnePlus 11T|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|12.0.0-234567
+Oppo|Oppo F21|F21|Dimensity 1200|F21|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|12.0.0-890123
+OUKITEL|OUKITEL K18|K18|Helio P70|K18|35.6895|139.6917|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|12.0.0-456789
+Realme|Realme GT 3|GT 3|Snapdragon 8 Gen 1|GT 3|22.3193|114.1694|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|12.0.0-012345
+Samsung|Galaxy S22 Ultra|SM-S22U|Exynos 2200|S22 Ultra|28.6139|77.2090|50.0|5.0|Jio|405|IN|Android|arm64-v8a|12.0.0-678901
+Sharp|Sharp Aquos R7|Aquos R7|Snapdragon 888|Aquos R7|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|12.0.0-234567
+Sony|Xperia 5 III|XQ-BX53|Snapdragon 888|Xperia 5 III|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|12.0.0-890123
+TCL|TCL 30 Pro|30 Pro|Snapdragon 778G|TCL 30 Pro|35.6895|139.6917|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|12.0.0-456789
+Tecno|Tecno Camon 19|Camon 19|Helio G85|Camon 19|22.3193|114.1694|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|12.0.0-012345
+Ulefone|Ulefone Armor 11|Armor 11|Dimensity 9000|Armor 11|28.6139|77.2090|50.0|5.0|Jio|405|IN|Android|arm64-v8a|12.0.0-678901
+Umidigi|Umidigi A13|A13|Helio G70|A13|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|12.0.0-234567
+VIVO|VIVO X90|X90|Snapdragon 8 Gen 6|X90|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|12.0.0-890123
+Wiko|Wiko View 6|View 6|Helio G96|View 6|35.6895|139.6917|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|12.0.0-456789
+Xiaomi|Xiaomi 13|X13|Snapdragon 8 Gen 6|Xiaomi 13|22.3193|114.1694|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|12.0.0-012345
+Yezz|Yezz V8|V8|Helio G96|V8|28.6139|77.2090|50.0|5.0|Jio|405|IN|Android|arm64-v8a|12.0.0-678901
+ZTE|ZTE Blade X|Blade X|Snapdragon 8 Gen 6|Blade X|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|12.0.0-234567
+Apple|iPhone 13 Pro Max|A2645|M1 Pro|iPhone 13 Pro Max|37.7749|-122.4194|50.0|5.0|Verizon|311|US|iOS|arm64|15.0.0-abcdef
+ASUS|Zenfone 7|ZE7|Snapdragon 865|Zenfone 7|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|12.0.0-ghijkl
+Blackview|BV9900|BV9900|Helio P90|BV9900|35.6895|139.6917|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|12.0.0-mnopqr
+BLU|BLU G91|G91|Helio G90|G91|22.3193|114.1694|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|12.0.0-stuvwx
+Cubot|Cubot C20|C20|Helio A22|C20|28.6139|77.2090|50.0|5.0|Jio|405|IN|Android|arm64-v8a|12.0.0-yzabcd
+DOOGEE|DOOGEE S95|S95|Dimensity 800|S95|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|12.0.0-efghij
+Google|Pixel 5a|G5a|Snapdragon 765G|Pixel 5a|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|12.0.0-klmnop
+Honor|Honor 30|H30|Kirin 990|Honor 30|35.6895|139.6917|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|12.0.0-qrstuv
+Hotwav|Hotwav X10|X10|Spreadtrum SC7731E|X10|28.6139|77.2090|50.0|5.0|Jio|405|IN|Android|arm64-v8a|12.0.0-wxyzab
+HiSense|HiSense E30|E30|Snapdragon 665|E30|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|12.0.0-cdefgh
+HTC|HTC Desire 21|Desire 21|Snapdragon 690|Desire 21|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|12.0.0-ijklmn
+Huawei|Huawei P40|P40|Kirin 990|P40|35.6895|139.6917|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|12.0.0-opqrst
+Infinix|Infinix Note 8|Note 8|Helio G80|Note 8|22.3193|114.1694|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|12.0.0-uvwxyz
+ITEL|ITEL P37|P37|SC7731E|P37|28.6139|77.2090|50.0|5.0|Jio|405|IN|Android|arm64-v8a|12.0.0-012345
+Lava|Lava Z2|Z2|Helio A20|Z2|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|12.0.0-678901
+LG|LG K52|K52|Helio P35|K52|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|12.0.0-234567
+Meizu|Meizu 18X|18X|Snapdragon 870|18X|35.6895|139.6917|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|12.0.0-890123
+Motorola|Moto G Power 2021|XT2117|Moto G Power 2021|G Power 2021|22.3193|114.1694|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|12.0.0-456789
+Nokia|Nokia 5.4|TA-1328|Snapdragon 662|5.4|28.6139|77.2090|50.0|5.0|Jio|405|IN|Android|arm64-v8a|12.0.0-012345
+Nothing|Nothing Phone 2|Nothing 2|Snapdragon 8 Gen 1|Nothing 2|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|12.0.0-678901
+OnePlus|OnePlus 9R|OP9R|Snapdragon 870|OnePlus 9R|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|12.0.0-234567
+Oppo|Oppo A54|A54|Helio P35|A54|35.6895|139.6917|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|12.0.0-890123
+OUKITEL|OUKITEL WP15|WP15|Helio P60|WP15|22.3193|114.1694|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|12.0.0-456789
+Realme|Realme 8 Pro|RMX3081|Snapdragon 720G|8 Pro|28.6139|77.2090|50.0|5.0|Jio|405|IN|Android|arm64-v8a|12.0.0-012345
+Samsung|Galaxy S21 Ultra|SM-S21U|Exynos 2100|S21 Ultra|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|12.0.0-678901
+Sharp|Sharp Aquos R6|Aquos R6|Snapdragon 888|Aquos R6|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|12.0.0-234567
+Sony|Xperia 1 III|XQ-BX72|Snapdragon 888|Xperia 1 III|35.6895|139.6917|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|12.0.0-890123
+TCL|TCL 20 Pro|20 Pro|Snapdragon 750G|TCL 20 Pro|22.3193|114.1694|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|12.0.0-456789
+Tecno|Tecno Camon 17|Camon 17|Helio G85|Camon 17|28.6139|77.2090|50.0|5.0|Jio|405|IN|Android|arm64-v8a|12.0.0-012345
+Ulefone|Ulefone Armor 10|Armor 10|Dimensity 800U|Armor 10|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|12.0.0-678901
+Umidigi|Umidigi Bison|Bison|Helio G80|Bison|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|12.0.0-234567
+VIVO|VIVO X70|X70|Snapdragon 778G|X70|35.6895|139.6917|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|12.0.0-890123
+Wiko|Wiko View 6|View 6|Helio G96|View 6|22.3193|114.1694|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|12.0.0-456789
+Xiaomi|Xiaomi 13|X13|Snapdragon 8 Gen 6|Xiaomi 13|28.6139|77.2090|50.0|5.0|Jio|405|IN|Android|arm64-v8a|12.0.0-012345
+Yezz|Yezz V8|V8|Helio G96|V8|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|12.0.0-678901
+ZTE|ZTE Blade X|Blade X|Snapdragon 8 Gen 6|Blade X|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|12.0.0-234567
+Apple|iPhone 16|A2800|M2|iPhone 16|35.6895|139.6917|50.0|5.5|Docomo|440|JP|iOS|arm64|16.0.0-890123
+ASUS|Zenfone 10|ZE10|Snapdragon 8 Gen 7|Zenfone 10|22.3193|114.1694|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|13.0.0-012345
+Blackview|BV1000|BV1000|Helio G88|BV1000|28.6139|77.2090|50.0|5.0|Jio|405|IN|Android|arm64-v8a|13.0.0-678901
+BLU|BLU G92|G92|Helio G96|G92|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|13.0.0-234567
+Cubot|Cubot C50|C50|Helio P35|C50|35.6895|139.6917|75.0|7.0|AT&T|310|US|Android|arm64-v8a|13.0.0-890123
+DOOGEE|DOOGEE V30|V30|Dimensity 1300|V30|22.3193|114.1694|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|13.0.0-456789
+Google|Pixel 7|G7|Tensor 3|Pixel 7|28.6139|77.2090|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|13.0.0-012345
+Honor|Honor 70|H70|Dimensity 1400|Honor 70|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|13.0.0-678901
+Hotwav|Hotwav V28|V28|Spreadtrum SC9863A|V28|35.6895|139.6917|75.0|7.0|AT&T|310|US|Android|arm64-v8a|13.0.0-234567
+HiSense|HiSense A9|A9|Snapdragon 7c Gen 3|A9|22.3193|114.1694|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|13.0.0-890123
+HTC|HTC Desire 30|Desire 30|Helio G90|Desire 30|28.6139|77.2090|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|13.0.0-456789
+Huawei|MatePad 10|MatePad 10|Kirin 9100E|MatePad 10|37.7749|-122.4194|75.0|7.0|Verizon|311|US|Android|arm64-v8a|13.0.0-012345
+Apple|iPhone 12 Pro Max|A2407|M1|iPhone 12 Pro Max|37.7749|-122.4194|50.0|5.0|Verizon|311|US|iOS|arm64|14.0.0-abcdef
+ASUS|Zenfone 6|ZE620KL|Snapdragon 855|Zenfone 6|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|11.0.0-ghijkl
+Blackview|BV9800 Pro|BV9800Pro|Helio P70|BV9800 Pro|35.6895|139.6917|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|10.0.0-mnopqr
+BLU|BLU G90 Pro|G90 Pro|Helio G90T|G90 Pro|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|10.0.0-stuvwx
+Cubot|Cubot X20 Pro|X20 Pro|Helio P60|X20 Pro|22.3193|114.1694|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|9.0.0-abcdef
+DOOGEE|DOOGEE S68 Pro|S68 Pro|Helio P70|S68 Pro|28.6139|77.2090|50.0|5.0|Jio|405|IN|Android|arm64-v8a|9.0.0-ghijkl
+Google|Pixel 4a|G025J|Snapdragon 730G|Pixel 4a|35.6895|139.6917|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|10.0.0-mnopqr
+Honor|Honor 9X|HLK-L21|Kirin 710F|Honor 9X|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|10.0.0-stuvwx
+Hotwav|Hotwav Symbol S9|Symbol S9|Spreadtrum SC7731E|Symbol S9|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|9.0.0-abcdef
+HiSense|HiSense F50|F50|Snapdragon 865|F50|35.6895|139.6917|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|10.0.0-ghijkl
+HTC|HTC Desire 19+|Desire 19+|Helio P35|Desire 19+|28.6139|77.2090|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|9.0.0-mnopqr
+Huawei|Huawei P30 Pro|VOG-L29|Kirin 980|P30 Pro|22.3193|114.1694|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|9.0.0-stuvwx
+Infinix|Infinix S5 Pro|X660B|Helio P35|S5 Pro|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|10.0.0-abcdef
+ITEL|ITEL Vision 1|L6005|SC9863A|Vision 1|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|9.0.0-ghijkl
+Lava|Lava Z71|Z71|Helio P22|Z71|35.6895|139.6917|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|10.0.0-mnopqr
+LG|LG G8 ThinQ|LM-G820UM|Snapdragon 855|G8 ThinQ|22.3193|114.1694|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|9.0.0-stuvwx
+Meizu|Meizu 16s Pro|16s Pro|M855|16s Pro|28.6139|77.2090|50.0|5.0|Jio|405|IN|Android|arm64-v8a|9.0.0-abcdef
+Motorola|Moto G Power|XT2041-4|Snapdragon 665|G Power|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|10.0.0-ghijkl
+Nokia|Nokia 7.2|TA-1196|Snapdragon 660|7.2|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|10.0.0-mnopqr
+Nothing|Nothing Phone 1|Nothing 1|Snapdragon 888|Nothing 1|35.6895|139.6917|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|9.0.0-stuvwx
+HTC|HTC Desire 21 Pro 5G|HTC_21s|Snapdragon 690|HTC_21s|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+Huawei|Huawei P50 Pro|Huawei_P50_Pro|Kirin 9000|P50_Pro|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+Infinix|Infinix Zero X Neo|Zero_X_Neo|Helio G95|Zero_X_Neo|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+ITEL|ITEL S17|S17|SC7731E|S17|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+Lava|Lava Z2s|Z2s|Helio G35|Z2s|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+LG|LG Velvet|LM-G900|Snapdragon 765G|Velvet|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+Meizu|Meizu 18|Meizu_18|Snapdragon 888|Meizu_18|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+Motorola|Motorola Edge 20|Motorola_Edge_20|Snapdragon 778G|Motorola_Edge_20|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+Nokia|Nokia G50|Nokia_G50|Snapdragon 480|Nokia_G50|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+Nothing|Nothing Phone 1|Nothing_Phone_1|Snapdragon 870|Nothing_Phone_1|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+OnePlus|OnePlus 9 Pro|OnePlus_9_Pro|Snapdragon 888|OnePlus_9_Pro|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+Oppo|Oppo Find X3 Pro|Oppo_Find_X3_Pro|Snapdragon 888|Oppo_Find_X3_Pro|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+OUKITEL|OUKITEL WP10|WP10|Dimensity 800|WP10|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+Realme|Realme GT|Realme_GT|Snapdragon 888|Realme_GT|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+Samsung|Samsung Galaxy S21 Ultra|SM-G998|Exynos 2100|Galaxy_S21_Ultra|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+Sharp|Sharp Aquos R6|Sharp_Aquos_R6|Snapdragon 888|Aquos_R6|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+Sony|Sony Xperia 1 III|Xperia_1_III|Snapdragon 888|Xperia_1_III|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+TCL|TCL 20 Pro 5G|TCL_20_Pro_5G|Snapdragon 750G|TCL_20_Pro_5G|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+Tecno|Tecno Camon 17|Camon_17|Helio G85|Camon_17|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+Ulefone|Ulefone Armor 12|Armor_12|Dimensity 1200|Armor_12|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+Umidigi|Umidigi Bison GT|Bison_GT|Dimensity 800U|Bison_GT|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+VIVO|VIVO X60 Pro+|VIVO_X60_Pro_Plus|Snapdragon 888|VIVO_X60_Pro_Plus|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+Wiko|Wiko Power U30|Power_U30|Helio A25|Power_U30|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+Xiaomi|Xiaomi Mi 11 Ultra|Mi_11_Ultra|Snapdragon 888|Mi_11_Ultra|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+Yezz|Yezz Cosmos|Cosmos|SC7731|Cosmos|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+ZTE|ZTE Axon 30 Ultra|Axon_30_Ultra|Snapdragon 888|Axon_30_Ultra|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+Oppo|Oppo Find X5 Pro|CPH2293|Snapdragon 8 Gen 1|findx5pro|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+OUKITEL|OUKITEL WP18|WP18|Helio G96|wp18|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+Realme|Realme GT 2 Pro|RMX9576B|Snapdragon 8 Gen 1|gt2pro|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+Samsung|Samsung Galaxy S22 Ultra|SM-S908B|Exynos 2200|galaxys22ultra|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+Sharp|Sharp Aquos R6|SHG01|Snapdragon 888|aquosr6|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+Sony|Sony Xperia 5 III|XQ-BC72|Snapdragon 888|xperia5iii|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+TCL|TCL 30 Pro 5G|T799H|Snapdragon 690|tcl30pro5g|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+Tecno|Tecno Phantom X|CE8|Helio G95|phantomx|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+Ulefone|Ulefone Power Armor 14|PowerArmor14|Helio G96|powerarmor14|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+Umidigi|Umidigi Bison Pro|BisonPro|Helio G80|bisonpro|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+VIVO|VIVO X80 Pro|V2170A|Snapdragon 8 Gen 1|x80pro|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+Wiko|Wiko Power U40|PowerU40|Helio G35|poweru40|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+Xiaomi|Xiaomi 12 Pro|Xiaomi12Pro|Snapdragon 8 Gen 1|xiaomi12pro|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+Yezz|Yezz Art 3|YezzArt3|Helio A22|art3|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+ZTE|ZTE Axon 40 Pro|Axon40Pro|Snapdragon 8 Gen 1|axon40pro|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+Samsung|Galaxy S9|SM-G960|Exynos 9810|S9|37.7749|-122.4194|50.0|5.0|Verizon|310|US|Android|arm64-v8a|8.0.0-abcdefg
+Apple|iPhone X|iPhone10,3|A11 Bionic|iPhone X|34.0522|-118.2437|75.0|7.0|AT&T|310|US|iOS|arm64|11.0.0-hijklm
+Google|Pixel 2 XL|Pixel 2 XL|Snapdragon 835|Pixel 2 XL|40.7128|-74.0060|25.0|3.5|T-Mobile|310|US|Android|arm64-v8a|8.1.0-opqrst
+OnePlus|6|ONEPLUS A6003|Snapdragon 845|6|51.5074|-0.1278|100.0|10.0|Verizon|311|US|Android|x86|9.0.0-uvwxyz
+Sony|Xperia XZ2|H8216|Snapdragon 845|Xperia XZ2|48.8566|2.3522|35.0|4.0|Sprint|311|US|Android|arm64-v8a|8.0.0-pqrstuv
+LG|G7 ThinQ|LM-G710|Snapdragon 845|G7 ThinQ|37.7749|-122.4194|50.0|5.0|Verizon|310|US|Android|arm64-v8a|8.0.0-wxyzabc
+Motorola|Moto G6|XT1925|Snapdragon 450|Moto G6|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|armv7l|8.1.0-defghij
+Nokia|7 Plus|TA-1046|Snapdragon 660|7 Plus|40.7128|-74.0060|25.0|3.5|T-Mobile|310|US|Android|arm64-v8a|8.1.0-klmnop
+Xiaomi|Mi Mix 2S|Mi MIX 2S|Snapdragon 845|Mi Mix 2S|37.7749|-122.4194|50.0|5.0|Verizon|310|US|Android|arm64-v8a|8.0.0-mnopqr
+HTC|U12+|HTC 2Q55100|Snapdragon 845|U12+|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|8.1.0-stuvwxyz
+Samsung|Galaxy Note 9|SM-N960|Exynos 9810|Note 9|51.5074|-0.1278|100.0|10.0|Verizon|311|US|Android|x86|9.0.0-abcd123
+Apple|iPhone XR|iPhone11,8|A12 Bionic|iPhone XR|34.0522|-118.2437|75.0|7.0|AT&T|310|US|iOS|arm64|12.0.0-efgh456
+Google|Pixel 3 XL|Pixel 3 XL|Snapdragon 845|Pixel 3 XL|40.7128|-74.0060|25.0|3.5|T-Mobile|310|US|Android|arm64-v8a|9.0.0-ijkl789
+OnePlus|6T|ONEPLUS A6013|Snapdragon 845|6T|51.5074|-0.1278|100.0|10.0|Verizon|311|US|Android|x86|9.0.0-mnopq012
+Sony|Xperia XZ3|H9493|Snapdragon 845|Xperia XZ3|48.8566|2.3522|35.0|4.0|Sprint|311|US|Android|arm64-v8a|9.0.0-rstu345
+LG|V40 ThinQ|LM-V405|Snapdragon 845|V40 ThinQ|37.7749|-122.4194|50.0|5.0|Verizon|310|US|Android|arm64-v8a|9.0.0-vwxyz678
+Motorola|Moto Z3|XT1929|Snapdragon 835|Moto Z3|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|armv7l|8.1.0-1234abcd
+Nokia|8 Sirocco|TA-1005|Snapdragon 835|8 Sirocco|40.7128|-74.0060|25.0|3.5|T-Mobile|310|US|Android|arm64-v8a|8.1.0-5678efgh
+Xiaomi|Mi 8|Mi 8|Snapdragon 845|Mi 8|37.7749|-122.4194|50.0|5.0|Verizon|310|US|Android|arm64-v8a|8.0.0-ijkl901
+HTC|U11+|HTC 2Q4D100|Snapdragon 835|U11+|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|8.1.0-mnop234
+Samsung|Galaxy A8 (2018)|SM-A530|Exynos 7885|A8 (2018)|51.5074|-0.1278|100.0|10.0|Verizon|311|US|Android|x86|9.0.0-5678abcd
+Apple|iPhone XS|iPhone11,2|A12 Bionic|iPhone XS|34.0522|-118.2437|75.0|7.0|AT&T|310|US|iOS|arm64|12.0.0-efgh567
+Google|Pixel 3|Pixel 3|Snapdragon 845|Pixel 3|40.7128|-74.0060|25.0|3.5|T-Mobile|310|US|Android|arm64-v8a|9.0.0-ijkl890
+OnePlus|5T|ONEPLUS A5010|Snapdragon 835|5T|51.5074|-0.1278|100.0|10.0|Verizon|311|US|Android|x86|9.0.0-mnopq345
+Sony|Xperia XZ2 Compact|H8314|Snapdragon 845|Xperia XZ2 Compact|48.8566|2.3522|35.0|4.0|Sprint|311|US|Android|arm64-v8a|9.0.0-rstu456
+LG|G7 Fit|LM-Q850|Snapdragon 821|G7 Fit|37.7749|-122.4194|50.0|5.0|Verizon|310|US|Android|arm64-v8a|9.0.0-vwxyz789
+Motorola|Moto G6 Plus|XT1926|Snapdragon 630|Moto G6 Plus|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|armv7l|8.1.0-1234efgh
+Nokia|6.1 Plus|Nokia X6|Snapdragon 636|6.1 Plus|40.7128|-74.0060|25.0|3.5|T-Mobile|310|US|Android|arm64-v8a|8.1.0-5678ijkl
+Xiaomi|Mi A2 (Mi 6X)|Mi A2|Snapdragon 660|Mi A2 (Mi 6X)|37.7749|-122.4194|50.0|5.0|Verizon|310|US|Android|arm64-v8a|8.0.0-ijkl901
+HTC|U11 Life|HTC 2Q3F300|Snapdragon 630|U11 Life|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|8.1.0-mnop234
+Samsung|Galaxy J8|SM-J810|Snapdragon 450|J8|51.5074|-0.1278|100.0|10.0|Verizon|311|US|Android|x86|9.0.0-abcdefg1
+Apple|iPhone 8 Plus|iPhone10,2|A11 Bionic|iPhone 8 Plus|34.0522|-118.2437|75.0|7.0|AT&T|310|US|iOS|arm64|11.0.0-hijklm2
+Google|Pixel 2|Pixel 2|Snapdragon 835|Pixel 2|40.7128|-74.0060|25.0|3.5|T-Mobile|310|US|Android|arm64-v8a|8.1.0-opqrst3
+OnePlus|5|ONEPLUS A5000|Snapdragon 835|5|51.5074|-0.1278|100.0|10.0|Verizon|311|US|Android|x86|9.0.0-uvwxyz4
+Sony|Xperia XZ1|G8341|Snapdragon 835|Xperia XZ1|48.8566|2.3522|35.0|4.0|Sprint|311|US|Android|arm64-v8a|8.0.0-pqrstuv5
+LG|Q7|LM-Q610|Mediatek MT6750S|Q7|37.7749|-122.4194|50.0|5.0|Verizon|310|US|Android|arm64-v8a|8.0.0-wxyzabc6
+Motorola|Moto E5 Plus|XT1924|Snapdragon 425|Moto E5 Plus|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|armv7l|8.1.0-defghij7
+Nokia|7.1|TA-1085|Snapdragon 636|7.1|40.7128|-74.0060|25.0|3.5|T-Mobile|310|US|Android|arm64-v8a|8.1.0-klmnop8
+Xiaomi|Redmi Note 5 Pro|Redmi Note 5|Snapdragon 636|Redmi Note 5 Pro|37.7749|-122.4194|50.0|5.0|Verizon|310|US|Android|arm64-v8a|8.0.0-mnopqr9
+HTC|Desire 12+|HTC 2Q5U1|Snapdragon 450|Desire 12+|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|8.1.0-stuvwxyz10
+Samsung|Galaxy A6 (2018)|SM-A600|Exynos 7870|A6 (2018)|51.5074|-0.1278|100.0|10.0|Verizon|311|US|Android|x86|9.0.0-abcd12311
+Apple|iPhone 8|iPhone10,1|A11 Bionic|iPhone 8|34.0522|-118.2437|75.0|7.0|AT&T|310|US|iOS|arm64|11.0.0-efgh45612
+Google|Pixel|Pixel|Snapdragon 821|Pixel|40.7128|-74.0060|25.0|3.5|T-Mobile|310|US|Android|arm64-v8a|9.0.0-ijkl78913
+OnePlus|5T|ONEPLUS A5010|Snapdragon 835|5T|51.5074|-0.1278|100.0|10.0|Verizon|311|US|Android|x86|9.0.0-mnopq34514
+Sony|Xperia XZ1 Compact|G8441|Snapdragon 835|Xperia XZ1 Compact|48.8566|2.3522|35.0|4.0|Sprint|311|US|Android|arm64-v8a|9.0.0-rstu45615
+LG|Q Stylus+|LM-Q710|Mediatek MT6750S|Q Stylus+|37.7749|-122.4194|50.0|5.0|Verizon|310|US|Android|arm64-v8a|9.0.0-vwxyz78916
+Motorola|Moto E5 Play|XT1921|Snapdragon 425|Moto E5 Play|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|armv7l|8.1.0-1234abcd17
+Nokia|6 (2018)|TA-1068|Snapdragon 630|6 (2018)|40.7128|-74.0060|25.0|3.5|T-Mobile|310|US|Android|arm64-v8a|8.1.0-5678efgh18
+Xiaomi|Mi A2 Lite (Redmi 6 Pro)|Mi A2 Lite|Snapdragon 625|Mi A2 Lite (Redmi 6 Pro)|37.7749|-122.4194|50.0|5.0|Verizon|310|US|Android|arm64-v8a|8.0.0-ijkl90119
+HTC|Desire 12|HTC 2Q5U1|Mediatek MT6739|Desire 12|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|8.1.0-mnop23420
+Samsung|Galaxy J7 (2018)|SM-J737|Exynos 7870|J7 (2018)|51.5074|-0.1278|100.0|10.0|Verizon|311|US|Android|x86|9.0.0-abcdefg121
+Apple|iPhone SE (2nd generation)|iPhone12,8|A13 Bionic|iPhone SE (2nd generation)|34.0522|-118.2437|75.0|7.0|AT&T|310|US|iOS|arm64|12.0.0-hijklm122
+Google|Pixel 3a|Pixel 3a|Snapdragon 670|Pixel 3a|40.7128|-74.0060|25.0|3.5|T-Mobile|310|US|Android|arm64-v8a|9.0.0-opqrst123
+OnePlus|7 Pro|GM1917|Snapdragon 855|7 Pro|51.5074|-0.1278|100.0|10.0|Verizon|311|US|Android|x86|9.0.0-uvwxyz124
+Sony|Xperia 10|I3113|Snapdragon 630|Xperia 10|48.8566|2.3522|35.0|4.0|Sprint|311|US|Android|arm64-v8a|9.0.0-pqrstuv125
+LG|G8 ThinQ|LM-G820|Snapdragon 855|G8 ThinQ|37.7749|-122.4194|50.0|5.0|Verizon|310|US|Android|arm64-v8a|9.0.0-wxyzabc126
+Motorola|Moto G7|XT1962|Snapdragon 632|Moto G7|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|armv7l|8.1.0-1234def127
+Nokia|9 PureView|TA-1087|Snapdragon 845|9 PureView|40.7128|-74.0060|25.0|3.5|T-Mobile|310|US|Android|arm64-v8a|8.1.0-5678ghi128
+Xiaomi|Redmi Note 7|Redmi Note 7|Snapdragon 660|Redmi Note 7|37.7749|-122.4194|50.0|5.0|Verizon|310|US|Android|arm64-v8a|8.0.0-jklm901129
+HTC|U12 Life|HTC 2Q6E1|Snapdragon 636|U12 Life|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|8.1.0-nopq234130
+Samsung|Galaxy A8s|SM-G887|Snapdragon 710|A8s|51.5074|-0.1278|100.0|10.0|Verizon|311|US|Android|x86|9.0.0-abcd123131
+Apple|iPhone XS Max|iPhone11,6|A12 Bionic|iPhone XS Max|34.0522|-118.2437|75.0|7.0|AT&T|310|US|iOS|arm64|12.0.0-efgh456132
+Google|Pixel 3a XL|Pixel 3a XL|Snapdragon 670|Pixel 3a XL|40.7128|-74.0060|25.0|3.5|T-Mobile|310|US|Android|arm64-v8a|9.0.0-ijkl789133
+OnePlus|7T|HD1905|Snapdragon 855+|7T|51.5074|-0.1278|100.0|10.0|Verizon|311|US|Android|x86|9.0.0-mnopq345134
+Sony|Xperia 10 Plus|I3213|Snapdragon 636|Xperia 10 Plus|48.8566|2.3522|35.0|4.0|Sprint|311|US|Android|arm64-v8a|9.0.0-rstu456135
+LG|V50 ThinQ|LM-V500|Snapdragon 855|V50 ThinQ|37.7749|-122.4194|50.0|5.0|Verizon|310|US|Android|arm64-v8a|9.0.0-vwxyz789136
+Motorola|Moto G7 Power|XT1955|Snapdragon 632|Moto G7 Power|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|armv7l|8.1.0-1234abcd137
+Nokia|4.2|TA-1133|Snapdragon 439|4.2|40.7128|-74.0060|25.0|3.5|T-Mobile|310|US|Android|arm64-v8a|8.1.0-5678efgh138
+Xiaomi|Mi 9|Mi 9|Snapdragon 855|Mi 9|37.7749|-122.4194|50.0|5.0|Verizon|310|US|Android|arm64-v8a|8.0.0-ijkl901139
+HTC|Desire 19+|HTC 2Q7A100|Mediatek MT6762|Desire 19+|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|8.1.0-mnop234140
+Samsung|Galaxy M20|SM-M205|Exynos 7904|M20|51.5074|-0.1278|100.0|10.0|Verizon|311|US|Android|x86|9.0.0-abcdefg1141
+Apple|iPhone 7|iPhone9,1|A10 Fusion|iPhone 7|34.0522|-118.2437|75.0|7.0|AT&T|310|US|iOS|arm64|11.0.0-hijklm2142
+Google|Pixel 3a|Pixel 3a|Snapdragon 670|Pixel 3a|40.7128|-74.0060|25.0|3.5|T-Mobile|310|US|Android|arm64-v8a|9.0.0-opqrst2143
+OnePlus|7 Pro|GM1917|Snapdragon 855|7 Pro|51.5074|-0.1278|100.0|10.0|Verizon|311|US|Android|x86|9.0.0-uvwxyz2144
+Sony|Xperia 10|I3113|Snapdragon 630|Xperia 10|48.8566|2.3522|35.0|4.0|Sprint|311|US|Android|arm64-v8a|9.0.0-pqrstuv2145
+LG|G8 ThinQ|LM-G820|Snapdragon 855|G8 ThinQ|37.7749|-122.4194|50.0|5.0|Verizon|310|US|Android|arm64-v8a|9.0.0-wxyzabc2146
+Motorola|Moto G7|XT1962|Snapdragon 632|Moto G7|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|armv7l|8.1.0-1234def2147
+Nokia|9 PureView|TA-1087|Snapdragon 845|9 PureView|40.7128|-74.0060|25.0|3.5|T-Mobile|310|US|Android|arm64-v8a|8.1.0-5678ghi2148
+Xiaomi|Redmi Note 7|Redmi Note 7|Snapdragon 660|Redmi Note 7|37.7749|-122.4194|50.0|5.0|Verizon|310|US|Android|arm64-v8a|8.0.0-jklm9012149
+HTC|U12 Life|HTC 2Q6E1|Snapdragon 636|U12 Life|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|8.1.0-nopq2342150
+Oppo|Reno 7|CPH2205|Dimensity 900|7|37.7749|-122.4194|50.0|5.0|Verizon|310|US|Android|arm64-v8a|11.0.0-abcdefg
+Oppo|Find X5 Pro|PEYM10|Snapdragon 8 Gen 1|Find X5 Pro|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|armv7l|10.0.0-hijklm
+Oppo|A95 5G|PEHM00|Dimensity 900|A95 5G|40.7128|-74.0060|25.0|3.5|T-Mobile|310|US|Android|arm64-v8a|10.0.0-opqrst
+Oppo|A16|CPH2269|Helio G35|A16|51.5074|-0.1278|100.0|10.0|Verizon|311|US|Android|x86|9.0.0-uvwxyz
+Oppo|Reno 6|PEPM00|Dimensity 900|Reno 6|48.8566|2.3522|35.0|4.0|Sprint|311|US|Android|arm64-v8a|11.0.0-pqrstuv
+VIVO|X80|V2145A|Dimensity 900|X80|37.7749|-122.4194|50.0|5.0|Verizon|310|US|Android|arm64-v8a|11.0.0-abcdefg
+VIVO|Y73|V2118A|Helio G95|Y73|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|armv7l|10.0.0-hijklm
+VIVO|Y33s|V2130A|Dimensity 700|Y33s|40.7128|-74.0060|25.0|3.5|T-Mobile|310|US|Android|arm64-v8a|10.0.0-opqrst
+VIVO|Y1s|V1902A|Helio P35|Y1s|51.5074|-0.1278|100.0|10.0|Verizon|311|US|Android|x86|9.0.0-uvwxyz
+VIVO|X70 Pro+|V2146A|Snapdragon 888|X70 Pro+|48.8566|2.3522|35.0|4.0|Sprint|311|US|Android|arm64-v8a|11.0.0-pqrstuv
+Sony|Xperia 10 IV|XQ-FQ60|Snapdragon 690|Xperia 10 IV|37.7749|-122.4194|50.0|5.0|Verizon|310|US|Android|arm64-v8a|11.0.0-abcdefg
+Sony|Xperia 5 III|XQ-BQ72|Snapdragon 888|Xperia 5 III|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|armv7l|10.0.0-hijklm
+Sony|Xperia Pro-I|XQ-BQ72|Snapdragon 8 Gen 1|Xperia Pro-I|40.7128|-74.0060|25.0|3.5|T-Mobile|310|US|Android|arm64-v8a|10.0.0-opqrst
+Sony|Xperia 1 III|XQ-BQ72|Snapdragon 888|Xperia 1 III|51.5074|-0.1278|100.0|10.0|Verizon|311|US|Android|x86|9.0.0-uvwxyz
+Sony|Xperia Ace III|SO-52B|Dimensity 700|Xperia Ace III|48.8566|2.3522|35.0|4.0|Sprint|311|US|Android|arm64-v8a|11.0.0-pqrstuv
+Samsung|Galaxy S22 Ultra|SM-S908B|Exynos 2200|S22 Ultra|37.7749|-122.4194|50.0|5.0|Verizon|310|US|Android|arm64-v8a|11.0.0-abcdefg
+Samsung|Galaxy Z Fold 5|SM-F992U|Snapdragon 8 Gen 1|Z Fold 5|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|armv7l|10.0.0-hijklm
+Samsung|Galaxy A73|SM-A736U|Exynos 1280|A73|40.7128|-74.0060|25.0|3.5|T-Mobile|310|US|Android|arm64-v8a|10.0.0-opqrst
+Samsung|Galaxy Note 40|SM-N988U|Snapdragon 8 Gen 1|Note 40|51.5074|-0.1278|100.0|10.0|Verizon|311|US|Android|x86|9.0.0-uvwxyz
+Samsung|Galaxy A13|SM-A135U|Exynos 850|A13|48.8566|2.3522|35.0|4.0|Sprint|311|US|Android|arm64-v8a|11.0.0-pqrstuv
+Huawei|P50 Pro|ELS-NX9|Kirin 9000|P50 Pro|37.7749|-122.4194|50.0|5.0|Verizon|310|US|Android|arm64-v8a|11.0.0-abcdefg
+Huawei|Mate 50|NOH-AN70|Snapdragon 8 Gen 1|Mate 50|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|armv7l|10.0.0-hijklm
+Huawei|Nova 9|NZJ-AN20|Snapdragon 778G|Nova 9|40.7128|-74.0060|25.0|3.5|T-Mobile|310|US|Android|arm64-v8a|10.0.0-opqrst
+Huawei|Enjoy 20 Plus|TNN-AN00|Dimensity 720|Enjoy 20 Plus|51.5074|-0.1278|100.0|10.0|Verizon|311|US|Android|x86|9.0.0-uvwxyz
+Huawei|Y9a|FRL-L23|Kirin 710A|Y9a|48.8566|2.3522|35.0|4.0|Sprint|311|US|Android|arm64-v8a|11.0.0-pqrstuv
+Realme|GT 2 Pro|RMX-3371|Snapdragon 8 Gen 1|GT 2 Pro|37.7749|-122.4194|50.0|5.0|Verizon|310|US|Android|arm64-v8a|11.0.0-abcdefg
+Realme|8 Pro|RMX-3081|Snapdragon 730G|8 Pro|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|armv7l|10.0.0-hijklm
+Realme|Narzo 50A|RMX-3436|Helio G85|Narzo 50A|40.7128|-74.0060|25.0|3.5|T-Mobile|310|US|Android|arm64-v8a|10.0.0-opqrst
+Realme|C25s|RMX-3197|Helio G85|C25s|51.5074|-0.1278|100.0|10.0|Verizon|311|US|Android|x86|9.0.0-uvwxyz
+Realme|V25|RMX-3566|Dimensity 900|V25|48.8566|2.3522|35.0|4.0|Sprint|311|US|Android|arm64-v8a|11.0.0-pqrstuv
+Xiaomi|Redmi Note 11 Pro|2111119G|Dimensity 920|Redmi Note 11 Pro|37.7749|-122.4194|50.0|5.0|Verizon|310|US|Android|arm64-v8a|11.0.0-abcdefg
+Xiaomi|Mi Mix 4|211K25|Snapdragon 888|Mi Mix 4|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|armv7l|10.0.0-hijklm
+Xiaomi|Poco X4 Pro|2117E8G|Snapdragon 695|Poco X4 Pro|40.7128|-74.0060|25.0|3.5|T-Mobile|310|US|Android|arm64-v8a|10.0.0-opqrst
+Xiaomi|Redmi 10|2117E4G|Helio G88|Redmi 10|51.5074|-0.1278|100.0|10.0|Verizon|311|US|Android|x86|9.0.0-uvwxyz
+Xiaomi|Black Shark 5|2117W5G|Snapdragon 888|Black Shark 5|48.8566|2.3522|35.0|4.0|Sprint|311|US|Android|arm64-v8a|11.0.0-pqrstuv
+ASUS|ASUS ZenFone 8|ZS590KS|Snapdragon 888|ZenFone 8|37.7749|-122.4194|70.0|5.9|T-Mobile|310|US|Android|arm64-v8a|12.0.0
+Blackview|Blackview BV9900 Pro|BV9900 Pro|Helio P90|BV9900 Pro|48.8566|2.3522|35.0|5.84|Orange|208|FR|Android|armv7l|10.0.0
+BLU|BLU G90|G0230WW|Helio G90|G90|6.5244|3.3792|50.0|6.5|Verizon|311|US|Android|armv7l|9.0.0
+Cubot|Cubot Note 20|Note 20|Helio A20|Note 20|51.5074|-0.1278|55.0|6.5|O2|234|GB|Android|arm64-v8a|10.0.0
+DOOGEE|DOOGEE S96 Pro|S96 Pro|Helio G90|S96 Pro|31.2304|121.4737|60.0|6.22|China Mobile|460|CN|Android|armv7l|10.0.0
+Hotwav|Hotwav Symbol X|Symbol X|MT6739|Symbol X|55.7558|37.6176|80.0|6.0|AT&T|310|US|Android|x86_64|9.0.0
+HiSense|HiSense A6L|HLTE700T|Snapdragon 660|A6L|25.2048|55.2708|10.0|1.0|Verizon|311|US|Android|arm64-v8a|8.1.0
+HTC|HTC Desire 20 Pro|HTC 2Q9J100|Snapdragon 665|Desire 20 Pro|35.6895|139.6917|50.0|5.5|SoftBank|440|JP|Android|armv7l|10.0.0
+Huawei|Huawei P40 Pro|ELS-NX9|Kirin 990|P40 Pro|51.5074|-0.1278|55.0|6.7|O2|234|GB|Android|arm64-v8a|11.0.0
+Infinix|Infinix Note 10 Pro|X695|Helio G95|Note 10 Pro|28.6139|77.209|70.0|6.95|Airtel|404|IN|Android|armv7l|11.0.0
+ITEL|ITEL S16|W5002|SC7731E|S16|6.5244|3.3792|50.0|6.5|Verizon|311|US|Android|armv7l|10.0.0
+Lava|Lava Z4|Z4|Helio G35|Z4|40.7128|-74.006|20.0|6.52|Verizon|311|US|Android|arm64-v8a|11.0.0
+Meizu|Meizu 18|18|Snapdragon 888|Meizu 18|31.2304|121.4737|55.0|6.2|China Mobile|460|CN|Android|arm64-v8a|12.0.0
+Motorola|Motorola Edge|XT2063-3|Snapdragon 765|Edge|34.0522|-118.2437|60.0|6.7|Verizon|311|US|Android|armv7l|11.0.0
+Nokia|Nokia 8.3 5G|TA-1243|Snapdragon 765G|8.3 5G|48.8566|2.3522|35.0|6.81|Orange|208|FR|Android|arm64-v8a|11.0.0
+Nothing|Nothing Phone|1|Snapdragon 870|Nothing 1|51.5074|-0.1278|55.0|6.55|EE|234|GB|Android|arm64-v8a|12.0.0
+OnePlus|OnePlus 9 Pro|LE2117|Snapdragon 888|9 Pro|37.7749|-122.4194|70.0|6.7|T-Mobile|310|US|Android|arm64-v8a|12.0.0
+Oppo|Oppo Find X3 Pro|CPH2173|Snapdragon 888|Find X3 Pro|31.2304|121.4737|55.0|6.7|China Unicom|460|CN|Android|armv7l|12.0.0
+OUKITEL|OUKITEL WP10|WP10|Dimensity 800|WP10|55.7558|37.6176|80.0|6.67|AT&T|310|US|Android|armv7l|11.0.0
+Realme|Realme GT|RMX2202|Snapdragon 888|GT|25.2048|55.2708|10.0|6.43|Verizon|311|US|Android|arm64-v8a|11.0.0
+Samsung|Samsung Galaxy S21 Ultra|SM-G998U|Exynos 2100|S21 Ultra|37.7749|-122.4194|70.0|6.8|T-Mobile|310|US|Android|arm64-v8a|12.0.0
+Sharp|Sharp Aquos R3|SH-04L|Snapdragon 855|Aquos R3|35.6895|139.6917|50.0|6.2|SoftBank|440|JP|Android|armv7l|10.0.0
+Sony|Sony Xperia 1 III|XQ-BC52|Snapdragon 888|Xperia 1 III|35.6895|139.6917|50.0|6.5|SoftBank|440|JP|Android|armv7l|12.0.0
+TCL|TCL 20 Pro 5G|T799B|Snapdragon 750G|20 Pro 5G|51.5074|-0.1278|55.0|6.67|O2|234|GB|Android|armv7l|11.0.0
+Tecno|Tecno Camon 17 Pro|CG6j|Helio G95|Camon 17 Pro|6.5244|3.3792|50.0|6.8|Verizon|311|US|Android|arm64-v8a|11.0.0
+Ulefone|Ulefone Armor 11 5G|Armor 11 5G|Dimensity 800|Armor 11 5G|40.7128|-74.006|20.0|6.1|Verizon|311|US|Android|armv7l|10.0.0
+Umidigi|Umidigi Bison GT|Bison GT|Dimensity 800U|Bison GT|34.0522|-118.2437|60.0|6.67|T-Mobile|310|US|Android|arm64-v8a|11.0.0
+VIVO|VIVO X60 Pro+|V2046A|Snapdragon 888|X60 Pro+|39.9042|116.4074|50.0|6.56|China Mobile|460|CN|Android|armv7l|12.0.0
+Wiko|Wiko View 5 Plus|V5550EU|Helio P22|View 5 Plus|48.8566|2.3522|35.0|6.55|Orange|208|FR|Android|arm64-v8a|11.0.0
+Xiaomi|Xiaomi Mi 11 Ultra|M2102K1G|Snapdragon 888|Mi 11 Ultra|31.2304|121.4737|55.0|6.81|China Unicom|460|CN|Android|armv7l|12.0.0
+Yezz|Yezz Max 1 Plus|Max 1 Plus|MT6739|Max 1 Plus|25.2048|55.2708|10.0|5.5|Verizon|311|US|Android|arm64-v8a|9.0.0
+ZTE|ZTE Axon 30 Ultra|A2022U|Snapdragon 888|Axon 30 Ultra|37.7749|-122.4194|70.0|6.67|T-Mobile|310|US|Android|armv7l|12.0.0
+ASUS|ASUS ZenFone 7|ZS670KS|Snapdragon 865+|ZenFone 7|37.7749|-122.4194|70.0|6.67|T-Mobile|310|US|Android|arm64-v8a|11.0.0
+Blackview|Blackview BV9800|BV9800|Helio P70|BV9800|48.8566|2.3522|35.0|6.3|Orange|208|FR|Android|armv7l|10.0.0
+BLU|BLU G91|G0530WW|Helio G90|G91|6.5244|3.3792|50.0|6.6|Verizon|311|US|Android|armv7l|10.0.0
+Cubot|Cubot X30|X30|Helio P60|X30|51.5074|-0.1278|55.0|6.4|O2|234|GB|Android|arm64-v8a|10.0.0
+DOOGEE|DOOGEE S88 Pro|S88 Pro|Helio P70|S88 Pro|31.2304|121.4737|55.0|6.3|China Mobile|460|CN|Android|arm64-v8a|10.0.0
+Google|Google Pixel 4a|Pixel 4a|Snapdragon 730G|Pixel 4a|37.7749|-122.4194|70.0|5.81|T-Mobile|310|US|Android|arm64-v8a|11.0.0
+Honor|Honor 9X Pro|HLK-L41|Kirin 810|9X Pro|31.2304|121.4737|55.0|6.59|China Unicom|460|CN|Android|armv7l|10.0.0
+Hotwav|Hotwav Pixel 3|Pixel 3|MT6580|Pixel 3|55.7558|37.6176|80.0|5.7|AT&T|310|US|Android|armv7l|9.0.0
+HiSense|HiSense Infinity H50|HLTE700T|Snapdragon 710|Infinity H50|25.2048|55.2708|10.0|6.3|Verizon|311|US|Android|arm64-v8a|9.0.0
+HTC|HTC U12+|2Q55100|Snapdragon 845|U12+|35.6895|139.6917|50.0|6.0|SoftBank|440|JP|Android|arm64-v8a|10.0.0
+Huawei|Huawei Mate 40 Pro|NOH-NX9|Kirin 9000|Mate 40 Pro|51.5074|-0.1278|55.0|6.76|O2|234|GB|Android|armv7l|11.0.0
+Infinix|Infinix Hot 10|X682B|Helio G70|Hot 10|28.6139|77.209|70.0|6.78|Airtel|404|IN|Android|armv7l|10.0.0
+ITEL|ITEL Vision 2 Plus|L6504|SC9863A|Vision 2 Plus|6.5244|3.3792|50.0|6.8|Verizon|311|US|Android|arm64-v8a|11.0.0
+Lava|Lava Z6|Z6|Helio G35|Z6|40.7128|-74.006|20.0|6.52|Verizon|311|US|Android|armv7l|11.0.0
+LG|LG Wing|LM-F100|Snapdragon 765G|Wing|37.7749|-122.4194|70.0|6.8|T-Mobile|310|US|Android|arm64-v8a|11.0.0
+Meizu|Meizu 17|17|Snapdragon 865|Meizu 17|31.2304|121.4737|55.0|6.6|China Mobile|460|CN|Android|arm64-v8a|10.0.0
+Motorola|Motorola One 5G Ace|XT2113-3|Snapdragon 750G|One 5G Ace|34.0522|-118.2437|60.0|6.7|Verizon|311|US|Android|arm64-v8a|11.0.0
+Nokia|Nokia 5.4|TA-1333|Snapdragon 662|5.4|48.8566|2.3522|35.0|6.39|Orange|208|FR|Android|armv7l|10.0.0
+OnePlus|OnePlus 8T|KB2001|Snapdragon 865|8T|37.7749|-122.4194|70.0|6.55|T-Mobile|310|US|Android|armv7l|11.0.0
+Oppo|Oppo Reno 5 Pro+|PEAM00|Snapdragon 865|Reno 5 Pro+|31.2304|121.4737|55.0|6.55|China Unicom|460|CN|Android|arm64-v8a|11.0.0
+OUKITEL|OUKITEL WP13|WP13|Dimensity 700|WP13|55.7558|37.6176|80.0|6.78|AT&T|310|US|Android|armv7l|11.0.0
+Realme|Realme X50 Pro|RMX2076|Snapdragon 865|X50 Pro|25.2048|55.2708|10.0|6.44|Verizon|311|US|Android|arm64-v8a|11.0.0
+Samsung|Samsung Galaxy Note 20 Ultra|SM-N986U|Snapdragon 865+|Note 20 Ultra|37.7749|-122.4194|70.0|6.9|T-Mobile|310|US|Android|armv7l|11.0.0
+Sharp|Sharp Aquos R5G|SHG01|Snapdragon 865|Aquos R5G|35.6895|139.6917|50.0|6.5|SoftBank|440|JP|Android|arm64-v8a|10.0.0
+Sony|Sony Xperia 5 II|XQ-AS52|Snapdragon 865|Xperia 5 II|35.6895|139.6917|50.0|6.1|SoftBank|440|JP|Android|arm64-v8a|11.0.0
+TCL|TCL 10 Pro|T799B|Snapdragon 675|10 Pro|51.5074|-0.1278|55.0|6.47|O2|234|GB|Android|armv7l|10.0.0
+Tecno|Tecno Spark 7 Pro|CG6j|Helio G80|Spark 7 Pro|6.5244|3.3792|50.0|6.6|Verizon|311|US|Android|arm64-v8a|10.0.0
+Ulefone|Ulefone Armor 10 5G|Armor 10 5G|Dimensity 800U|Armor 10 5G|40.7128|-74.006|20.0|6.67|Verizon|311|US|Android|armv7l|10.0.0
+Umidigi|Umidigi A11|A11|Helio G25|A11|34.0522|-118.2437|60.0|6.53|T-Mobile|310|US|Android|arm64-v8a|11.0.0
+VIVO|VIVO X60 Pro|V2045A|Snapdragon 870|X60 Pro|39.9042|116.4074|50.0|6.56|China Mobile|460|CN|Android|armv7l|11.0.0
+Wiko|Wiko View 4|V5821|Helio A25|View 4|48.8566|2.3522|35.0|6.52|Orange|208|FR|Android|arm64-v8a|10.0.0
+Xiaomi|Xiaomi Redmi Note 10 Pro|M2101K6G|Snapdragon 732G|Redmi Note 10 Pro|31.2304|121.4737|55.0|6.67|China Unicom|460|CN|Android|armv7l|11.0.0
+Yezz|Yezz Max 2 Plus|Max 2 Plus|MT6739|Max 2 Plus|25.2048|55.2708|10.0|5.7|Verizon|311|US|Android|arm64-v8a|9.0.0
+ZTE|ZTE Axon 11 5G|A2021|Snapdragon 765G|Axon 11 5G|37.7749|-122.4194|70.0|6.47|T-Mobile|310|US|Android|armv7l|11.0.0
+ASUS|ASUS ROG Phone 5|ZS673KS|Snapdragon 888|ROG Phone 5|37.7749|-122.4194|70.0|6.78|T-Mobile|310|US|Android|arm64-v8a|11.0.0
+Blackview|Blackview BV9900|BV9900|Helio P90|BV9900|48.8566|2.3522|35.0|5.84|Orange|208|FR|Android|armv7l|10.0.0
+BLU|BLU G91 Pro|G0350WW|Helio G90|G91 Pro|6.5244|3.3792|50.0|6.7|Verizon|311|US|Android|armv7l|10.0.0
+Cubot|Cubot X20 Pro|X20 Pro|Helio P60|X20 Pro|51.5074|-0.1278|55.0|6.3|O2|234|GB|Android|arm64-v8a|10.0.0
+DOOGEE|DOOGEE S95 Pro|S95 Pro|Helio P90|S95 Pro|31.2304|121.4737|55.0|6.3|China Mobile|460|CN|Android|arm64-v8a|10.0.0
+Google|Google Pixel 4|Pixel 4|Snapdragon 855|Pixel 4|37.7749|-122.4194|70.0|5.7|T-Mobile|310|US|Android|arm64-v8a|11.0.0
+Honor|Honor 20 Pro|YAL-L41|Kirin 980|20 Pro|31.2304|121.4737|55.0|6.26|China Unicom|460|CN|Android|armv7l|10.0.0
+Hotwav|Hotwav Pixel 4|Pixel 4|MT6580|Pixel 4|55.7558|37.6176|80.0|5.7|AT&T|310|US|Android|armv7l|9.0.0
+HiSense|HiSense Infinity E30|HLTE700T|Snapdragon 636|Infinity E30|25.2048|55.2708|10.0|6.09|Verizon|311|US|Android|arm64-v8a|9.0.0
+HTC|HTC U20 5G|2Q9J100|Snapdragon 765G|U20 5G|35.6895|139.6917|50.0|6.8|SoftBank|440|JP|Android|arm64-v8a|10.0.0
+Huawei|Huawei P30 Pro|VOG-L29|Kirin 980|P30 Pro|51.5074|-0.1278|55.0|6.47|O2|234|GB|Android|armv7l|10.0.0
+Infinix|Infinix Note 8|X692|Helio G80|Note 8|28.6139|77.209|70.0|6.95|Airtel|404|IN|Android|armv7l|10.0.0
+ITEL|ITEL P37|L6005|SC7731E|P37|6.5244|3.3792|50.0|6.5|Verizon|311|US|Android|armv7l|10.0.0
+Lava|Lava Z1|Z1|Helio A20|Z1|40.7128|-74.006|20.0|5.0|Verizon|311|US|Android|arm64-v8a|10.0.0
+LG|LG V60 ThinQ|LM-V600|Snapdragon 865|V60 ThinQ|37.7749|-122.4194|70.0|6.8|T-Mobile|310|US|Android|arm64-v8a|10.0.0
+Meizu|Meizu 16s|16s|Snapdragon 855|Meizu 16s|31.2304|121.4737|55.0|6.2|China Mobile|460|CN|Android|arm64-v8a|10.0.0
+Motorola|Motorola Moto G Power|XT2041-4|Snapdragon 665|Moto G Power|34.0522|-118.2437|60.0|6.4|Verizon|311|US|Android|arm64-v8a|10.0.0
+Nokia|Nokia 7.2|TA-1178|Snapdragon 660|7.2|48.8566|2.3522|35.0|6.3|Orange|208|FR|Android|armv7l|10.0.0
+Nothing|Nothing Phone|1|Snapdragon 888|Nothing 1|51.5074|-0.1278|55.0|6.55|EE|234|GB|Android|arm64-v8a|12.0.0
+OnePlus|OnePlus 7T|HD1907|Snapdragon 855+|7T|37.7749|-122.4194|70.0|6.55|T-Mobile|310|US|Android|armv7l|10.0.0
+Oppo|Oppo A74 5G|CPH2197|Snapdragon 480 5G|A74 5G|31.2304|121.4737|55.0|6.5|China Unicom|460|CN|Android|arm64-v8a|11.0.0
+OUKITEL|OUKITEL WP15|WP15|Dimensity 900|WP15|55.7558|37.6176|80.0|6.78|AT&T|310|US|Android|armv7l|11.0.0
+Realme|Realme 7 Pro|RMX2170|Snapdragon 720G|7 Pro|25.2048|55.2708|10.0|6.4|Verizon|311|US|Android|arm64-v8a|10.0.0
+Samsung|Samsung Galaxy S20 Ultra|SM-G988U|Snapdragon 865|S20 Ultra|37.7749|-122.4194|70.0|6.9|T-Mobile|310|US|Android|armv7l|10.0.0
+Sharp|Sharp Aquos R2|SH-03K|Snapdragon 845|Aquos R2|35.6895|139.6917|50.0|6.0|SoftBank|440|JP|Android|arm64-v8a|9.0.0
+Sony|Sony Xperia 10 II|XQ-AU52|Snapdragon 665|Xperia 10 II|35.6895|139.6917|50.0|6.0|SoftBank|440|JP|Android|arm64-v8a|10.0.0
+TCL|TCL 10 5G|T790Y|Snapdragon 765G|10 5G|51.5074|-0.1278|55.0|6.53|O2|234|GB|Android|arm64-v8a|10.0.0
+Tecno|Tecno Spark 6 Air|KD6j|Helio G70|Spark 6 Air|6.5244|3.3792|50.0|7.0|Verizon|311|US|Android|arm64-v8a|10.0.0
+Ulefone|Ulefone Note 11P|Note 11P|Helio G70|Note 11P|40.7128|-74.006|20.0|6.55|Verizon|311|US|Android|armv7l|10.0.0
+Umidigi|Umidigi A11S|A11S|Helio G80|A11S|34.0522|-118.2437|60.0|6.53|T-Mobile|310|US|Android|armv7l|11.0.0
+OnePlus|OnePlus 8T|KB2000|Snapdragon 865|OnePlus 8T|22.3193|114.1694|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|9.0.0-abcdef
+Oppo|Oppo Reno 4 Pro|CPH2109|Snapdragon 765G|Reno 4 Pro|28.6139|77.2090|50.0|5.0|Jio|405|IN|Android|arm64-v8a|10.0.0-ghijkl
+OUKITEL|OUKITEL C21|C21|Helio P60|C21|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|10.0.0-mnopqr
+Realme|Realme 6i|RMX2002|Helio G80|6i|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|9.0.0-stuvwx
+Samsung|Galaxy Note 20 Ultra|SM-N986U|Snapdragon 865+|Note 20 Ultra|35.6895|139.6917|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|9.0.0-abcdef
+Sharp|Sharp Aquos S3|Aquos S3|Snapdragon 630|Aquos S3|22.3193|114.1694|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|10.0.0-ghijkl
+Sony|Xperia 5 II|XQ-AS72|Snapdragon 865|Xperia 5 II|28.6139|77.2090|50.0|5.0|Jio|405|IN|Android|arm64-v8a|10.0.0-mnopqr
+TCL|TCL 10 Pro|T799H|Snapdragon 675|10 Pro|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|9.0.0-stuvwx
+Tecno|Tecno Camon 16 Premier|CE9|Helio G90T|Camon 16 Premier|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|9.0.0-abcdef
+Ulefone|Ulefone Armor 9|Armor 9|Helio P90|Armor 9|35.6895|139.6917|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|10.0.0-ghijkl
+Umidigi|Umidigi Bison GT|Bison GT|Dimensity 800|Bison GT|22.3193|114.1694|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|10.0.0-mnopqr
+VIVO|VIVO V20|V2025|Snapdragon 720G|V20|28.6139|77.2090|50.0|5.0|Jio|405|IN|Android|arm64-v8a|9.0.0-stuvwx
+Wiko|Wiko View 4|View 4|Helio A25|View 4|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|9.0.0-abcdef
+Xiaomi|Xiaomi Mi 10T|Mi 10T|Snapdragon 865|Mi 10T|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|10.0.0-ghijkl
+Yezz|Yezz F50|F50|Spreadtrum SC7731E|F50|35.6895|139.6917|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|10.0.0-mnopqr
+ZTE|ZTE Axon 11 5G|A2021|Snapdragon 765G|Axon 11 5G|22.3193|114.1694|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|9.0.0-stuvwx
+Apple|iPhone 13|A2584|M2|iPhone 13|28.6139|77.2090|25.0|2.5|China Mobile|460|CN|iOS|arm64|15.0.0-abcdef
+Blackview|BV9900E|BV9900E|Helio P90|BV9900E|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|12.0.0-mnopqr
+BLU|BLU G91 Pro|G91 Pro|Helio G90|G91 Pro|35.6895|139.6917|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|12.0.0-stuvwx
+Cubot|Cubot Note 20|Note 20|Helio A20|Note 20|22.3193|114.1694|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|12.0.0-abcdef
+DOOGEE|DOOGEE X95 Pro|X95 Pro|SC9863A|X95 Pro|28.6139|77.2090|25.0|2.5|Jio|405|IN|Android|arm64-v8a|12.0.0-ghijkl
+Google|Pixel 6|G6|Tensor 2|Pixel 6|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|12.0.0-mnopqr
+Honor|Honor 60|H60|Kirin 9000E|Honor 60|22.3193|114.1694|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|12.0.0-stuvwx
+Hotwav|Hotwav M20|M20|Spreadtrum SC7731E|M20|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|12.0.0-abcdef
+HiSense|HiSense U40|U40|Snapdragon 710|U40|35.6895|139.6917|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|12.0.0-ghijkl
+HTC|HTC Desire 20|Desire 20|Snapdragon 665|Desire 20|28.6139|77.2090|25.0|2.5|Jio|405|IN|Android|arm64-v8a|12.0.0-mnopqr
+Huawei|MatePad Pro 12.6|MatePad Pro 12.6|Kirin 9000E|MatePad Pro 12.6|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|12.0.0-stuvwx
+Infinix|Infinix Zero 8|Zero 8|Helio G90T|Zero 8|22.3193|114.1694|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|12.0.0-abcdef
+ITEL|ITEL P37 Pro|P37 Pro|SC9863A|P37 Pro|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|12.0.0-ghijkl
+Lava|Lava Z4|Z4|Helio G35|Z4|35.6895|139.6917|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|12.0.0-mnopqr
+LG|LG Velvet|LM-G900UM|Snapdragon 765G|Velvet|28.6139|77.2090|25.0|2.5|Jio|405|IN|Android|arm64-v8a|12.0.0-stuvwx
+Meizu|Meizu 18|18|M888|18|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|12.0.0-abcdef
+Motorola|Moto G Stylus|XT2043-4|Snapdragon 678|G Stylus|22.3193|114.1694|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|12.0.0-ghijkl
+Nokia|Nokia 8.3|TA-1243|Snapdragon 765G|8.3|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|12.0.0-mnopqr
+Nothing|Nothing Phone 2|Nothing 2|Snapdragon 8 Gen 1|Nothing 2|35.6895|139.6917|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|12.0.0-stuvwx
+OnePlus|OnePlus 9|LE2110|Snapdragon 888|OnePlus 9|22.3193|114.1694|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|12.0.0-abcdef
+Oppo|Oppo A73|CPH2125|Helio P95|A73|28.6139|77.2090|50.0|5.0|Jio|405|IN|Android|arm64-v8a|12.0.0-ghijkl
+OUKITEL|OUKITEL C23|C23|Helio A22|C23|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|12.0.0-mnopqr
+Realme|Realme 7|RMX2151|Helio G95|7|22.3193|114.1694|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|12.0.0-stuvwx
+Samsung|Galaxy Z Fold 2|SM-F916U|Snapdragon 865+|Z Fold 2|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|12.0.0-abcdef
+Sharp|Sharp Aquos Zero 2|Aquos Zero 2|Snapdragon 855|Aquos Zero 2|35.6895|139.6917|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|12.0.0-ghijkl
+Sony|Xperia 1 II|XQ-AT51|Snapdragon 865|Xperia 1 II|28.6139|77.2090|25.0|2.5|Jio|405|IN|Android|arm64-v8a|12.0.0-mnopqr
+TCL|TCL 20 Pro 5G|T799B|Snapdragon 750G|20 Pro 5G|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|12.0.0-stuvwx
+Tecno|Tecno Camon 17 Pro|CE9|Helio G95|Camon 17 Pro|22.3193|114.1694|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|12.0.0-abcdef
+Ulefone|Ulefone Note 12|Note 12|Helio A22|Note 12|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|12.0.0-ghijkl
+Umidigi|Umidigi A11 Pro|A11 Pro|Helio G80|A11 Pro|35.6895|139.6917|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|12.0.0-mnopqr
+VIVO|VIVO Y20s|V2029|Snapdragon 460|Y20s|22.3193|114.1694|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|12.0.0-stuvwx
+Wiko|Wiko View 5|View 5|Helio P22|View 5|28.6139|77.2090|25.0|2.5|Jio|405|IN|Android|arm64-v8a|12.0.0-abcdef
+Xiaomi|Xiaomi Redmi Note 9|Redmi Note 9|Helio G85|Redmi Note 9|34.0522|-118.2437|75.0|7.0|AT&T|310|US|Android|arm64-v8a|12.0.0-ghijkl
+Yezz|Yezz Art 4|Art 4|Spreadtrum SC7731E|Art 4|22.3193|114.1694|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|12.0.0-mnopqr
+ZTE|ZTE Blade V20|Blade V20|Helio P70|Blade V20|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|12.0.0-stuvwx
+Apple|iPhone 14|A2800|M2|iPhone 14|35.6895|139.6917|50.0|5.5|Docomo|440|JP|iOS|arm64|16.0.0-abcdef
+ASUS|Zenfone 9|ZE9|Snapdragon 8 Gen 2|Zenfone 9|22.3193|114.1694|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|13.0.0-ghijkl
+Blackview|BV1000|BV1000|Helio G88|BV1000|28.6139|77.2090|50.0|5.0|Jio|405|IN|Android|arm64-v8a|13.0.0-mnopqr
+BLU|BLU G92|G92|Helio G96|G92|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|13.0.0-stuvwx
+Cubot|Cubot C50|C50|Helio P35|C50|35.6895|139.6917|75.0|7.0|AT&T|310|US|Android|arm64-v8a|13.0.0-abcdef
+DOOGEE|DOOGEE V30|V30|Dimensity 1300|V30|22.3193|114.1694|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|13.0.0-ghijkl
+Google|Pixel 7|G7|Tensor 3|Pixel 7|28.6139|77.2090|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|13.0.0-mnopqr
+Honor|Honor 70|H70|Dimensity 1400|Honor 70|37.7749|-122.4194|50.0|5.0|Verizon|311|US|Android|arm64-v8a|13.0.0-stuvwx
+Hotwav|Hotwav V28|V28|Spreadtrum SC9863A|V28|35.6895|139.6917|75.0|7.0|AT&T|310|US|Android|arm64-v8a|13.0.0-abcdef
+HiSense|HiSense A9|A9|Snapdragon 7c Gen 3|A9|22.3193|114.1694|50.0|5.5|Docomo|440|JP|Android|arm64-v8a|13.0.0-ghijkl
+HTC|HTC Desire 30|Desire 30|Helio G90|Desire 30|28.6139|77.2090|25.0|2.5|China Mobile|460|CN|Android|arm64-v8a|13.0.0-mnopqr
+Huawei|MatePad 10|MatePad 10|Kirin 9100E|MatePad 10|37.7749|-122.4194|75.0|7.0|Verizon|311|US|Android|arm64-v8a|13.0.0-stuvwx
+Infinix|Infinix Note 12|Note 12|Helio G97|Note 12|34.0522|-118.2437|50.0|5.0|AT&T|310|US|Android|arm64-v8a|13.0.0-abcdef
+ASUS|ASUS ZenFone 8|ASUS_I002D|Snapdragon 888|I002D|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+Blackview|Blackview BV9900|BV9900|Helio P90|BV9900|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+BLU|BLU G90|G90|MT6762|G90|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+Cubot|Cubot X30|Cubot_X30|MT6771|X30|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+DOOGEE|DOOGEE S96 Pro|S96_Pro|Helio G90|S96_Pro|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+Google|Google Pixel 6|Pixel 6|Tensor|Pixel_6|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+Honor|Honor 50|Honor_50|Snapdragon 778G|Honor_50|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+Hotwav|Hotwav Symbol S3|Symbol_S3|MT6580|Symbol_S3|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+HiSense|HiSense Infinity H50|Infinity_H50|MT6769|Infinity_H50|27.82516672|125.0678861|125.06|3.7|Mobifone|45201|VN|Linux|armv7l|3.4.0-gd59db4e
+Huawei nova 11 Ultra|Huawei nova 11 Ultra|GOA-AL80U|Snapdragon 778G|GOA-AL80U|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Huawei nova 11|Huawei nova 11|FOA-AL00|Snapdragon 778G|FOA-AL00|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Huawei P60|Huawei P60|LNA-LX9|Snapdragon 8+ Gen 1|LNA-LX9|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Huawei Enjoy 50z|Huawei Enjoy 50z|EVE-AL00|Snapdragon 778G|EVE-AL00|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Huawei Mate 50|Huawei Mate 50|CET-LX9|Snapdragon 8+ Gen 1|CET-LX9|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Huawei Mate 50 Pro|Huawei Mate 50 Pro|DCO-AL00|Snapdragon 8+ Gen 1|DCO-AL00|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Huawei nova 10|Huawei nova 10|NCO-AL00|Snapdragon 778G|NCO-AL00|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Huawei nova Y90|Huawei nova Y90|CTR-LX2|Snapdragon 680|CTR-LX2|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Huawei nova 9 SE|Huawei nova 9 SE|JLN-LX1|Snapdragon 680|JLN-LX1|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Sony Xperia 5 IV|Sony Xperia 5 IV|XQ-CQ72|Snapdragon 8 Gen 1|XQ-CQ72|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Sony Xperia 1 IV|Sony Xperia 1 IV|XQCT62-B|Snapdragon 8 Gen 1|XQCT62-B|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Sony Xperia 10 IV|Sony Xperia 10 IV|XQ-CC54|Snapdragon 695|XQ-CC54|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Sony Xperia 1 III|Sony Xperia 1 III|XQBC62/V|Snapdragon 888|XQBC62/V|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Sony Xperia 5 III|Sony Xperia 5 III|XQBQ62/G|Snapdragon 888|XQBQ62/G|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Sony Xperia 10 III|Sony Xperia 10 III|SO-52B|Snapdragon 690|SO-52B|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Samsung Galaxy M54|Samsung Galaxy M54|SM-M546B|Exynos 1380|SM-M546B|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Samsung Galaxy A54|Samsung Galaxy A54|SM-A546U|Exynos 1380|SM-A546U|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Samsung Galaxy M14|Samsung Galaxy M14|SM-M146B|Exynos 1330|SM-M146B|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Samsung Galaxy S23|Samsung Galaxy S23|SM-S911U|Snapdragon 8 Gen 2|SM-S911U|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Samsung Galaxy A14|Samsung Galaxy A14|SM-A146B|Exynos 1330|SM-A146B|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Samsung Galaxy M13|Samsung Galaxy M13|SM-M135F|Exynos 850|SM-M135F|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Samsung Galaxy A23|Samsung Galaxy A23|SM-A235M|Snapdragon 680|SM-A235M|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Samsung Galaxy M23|Samsung Galaxy M23|SM-M236B|Snapdragon 750G|SM-M236B|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Samsung Galaxy S23 Ultra|Samsung Galaxy S23 Ultra|SM-S918U|Snapdragon 8 Gen 2|SM-S918U|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Samsung Galaxy A72|Samsung Galaxy A72|SM-A725M|Snapdragon 720G|SM-A725M|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Samsung Galaxy A52|Samsung Galaxy A52|SM-A525F|Snapdragon 720G|SM-A525F|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Samsung Galaxy S22|Samsung Galaxy S22|SM-S901U|Snapdragon 8 Gen 1|SM-S901U|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Samsung Galaxy S22 Ultra|Samsung Galaxy S22 Ultra|SM-S908U|Snapdragon 8 Gen 1|SM-S908U|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Samsung Galaxy S21|Samsung Galaxy S21|SM-G991U|Snapdragon 888 5G|SM-G991U|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Samsung Galaxy M02|Samsung Galaxy M02|SM-M022F|Mediatek MT6739W|SM-M022F|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Samsung Galaxy M11|Samsung Galaxy M11|SM-M115F|Snapdragon 450|SM-M115F|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Samsung Galaxy A31|Samsung Galaxy A31|SM-A315F|Helio P65|SM-A315F|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Oppo Reno8|Oppo Reno8|CPH2359|Dimensity 1300|CPH2359|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Oppo Reno9|Oppo Reno9|PHM110|Snapdragon 778G 5G|PHM110|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Oppo Reno9 Pro+|Oppo Reno9 Pro+|PGW110|Snapdragon 8+ Gen 1|PGW110|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Oppo A1 Pro|Oppo A1 Pro|PHQ110|Snapdragon 695 5G|PHQ110|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Oppo A77|Oppo A77|CPH2385|Helio G35|CPH2385|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Oppo K10 Pro|Oppo K10 Pro|PGIM10|Snapdragon 888 5G|PGIM10|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Oppo Reno8 T|Oppo Reno8 T|CPH2481|Helio G99|CPH2481|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Oppo A78|Oppo A78|CPH2483|Dimensity 700|CPH2483|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Realme C55|Realme C55|RMX3710|Mediatek Helio G88|RMX3710|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Realme GT3|Realme GT3|RMX3709|Snapdragon 8+ Gen 1|RMX3709|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Realme 10|Realme 10|RMX3630|Helio G99|RMX3630|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Realme Q5|Realme Q5|RMX3478|Snapdragon 695 5G|RMX3478|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Xiaomi Poco M5|Xiaomi Poco M5|22071219CG|Helio G99|22071219CG|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Xiaomi 12 Lite|Xiaomi 12 Lite|2203129G|Snapdragon 778G|2203129G|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Xiaomi Poco F4|Xiaomi Poco F4|22021211RG|Snapdragon 870|22021211RG|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Xiaomi Poco C40|Xiaomi Poco C40|220333QPG|JLQ JR510|220333QPG|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Xiaomi Redmi K50|Xiaomi Redmi K50|22041211AC|Dimensity 8100|22041211AC|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Xiaomi Redmi 10A|Xiaomi Redmi 10A|220233L2C|Helio G25|220233L2C|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Xiaomi Redmi Note 12|Xiaomi Redmi Note 12|22111317I|Snapdragon 4 Gen 1|22111317I|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Xiaomi Redmi K60E|Xiaomi Redmi K60E|22122RK93C|Dimensity 8200|22122RK93C|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Xiaomi 12T|Xiaomi 12T|22071212AG|Dimensity 8100-Ultra|22071212AG|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Xiaomi 13|Xiaomi 13|2211133C|Snapdragon 8 Gen 2|2211133C|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Xiaomi Poco C55|Xiaomi Poco C55|22127PC95I|Helio G85|22127PC95I|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Xiaomi Redmi A1|Xiaomi Redmi A1|220733SI|MT6761 Helio A22|220733SI|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Google Pixel 7|Google Pixel 7|GVU6C|Google Tensor G2|GVU6C|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Google Pixel 7 Pro|Google Pixel 7 Pro|GP4BC|Google Tensor G2|GP4BC|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Google Pixel 6a|Google Pixel 6a|GX7AS|Google Tensor|GX7AS|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Google Pixel 6 Pro|Google Pixel 6 Pro|GLUOG|Google Tensor|GLUOG|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Google Pixel 6|Google Pixel 6|GB7N6|Google Tensor|GB7N6|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Google Pixel 5|Google Pixel 5|GD1YQ|Snapdragon 765G|GD1YQ|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Google Pixel 4a|Google Pixel 4a|G025J|Snapdragon 730G|G025J|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Google Pixel 4 XL|Google Pixel 4 XL|G020P|Snapdragon 855|G020P|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Google Pixel 4|Google Pixel 4|G020M|Snapdragon 855|G020M|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Google Pixel 3a XL|Google Pixel 3a XL|G020C|Snapdragon 670|G020C|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Google Pixel 3a|Google Pixel 3a|G020A|Snapdragon 670|G020A|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Google Pixel 3 XL|Google Pixel 3 XL|G013C|Snapdragon 845|G013C|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Google Pixel 3|Google Pixel 3|G013A|Snapdragon 845|G013A|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Google Pixel 2|Google Pixel 2|G011A|Snapdragon 835|G011A|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+Google Pixel 2 XL|Google Pixel 2 XL|G011C|Snapdragon 835|G011C|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+vivo Y78+|vivo Y78+|V2271A|Snapdragon 695|V2271A|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+vivo Y11|vivo Y11|V2236A|Helio P35|V2236A|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+vivo iQOO Z7|vivo iQOO Z7|I2207|Dimensity 920|I2207|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+vivo V27 Pro|vivo V27 Pro|V2230|Dimensity 8200|V2230|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+vivo Y56|vivo Y56|V2225|Dimensity 700|V2225|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+vivo iQOO Neo 7|vivo iQOO Neo 7|I2214|Dimensity 8200|I2214|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+vivo V27e|vivo V27e|V2237|Helio G99|V2237|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+vivo S16|vivo S16|V2244A|Snapdragon 870|V2244A|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+vivo X90 Pro+|vivo X90 Pro+|V2227A|Snapdragon 8 Gen2|V2227A|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+vivo X90 Pro|vivo X90 Pro|V2242A|Dimensity 9200|V2242A|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+vivo X90|vivo X90|V2241A|Dimensity 9200|V2241A|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+vivo iQOO 11 Pro|vivo iQOO 11 Pro|V2254A|Snapdragon 8 Gen2|V2254A|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+vivo Y73t|vivo Y73t|V2164PA|Dimensity 700|V2164PA|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+vivo Y16|vivo Y16|V2204|Helio P35|V2204|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+vivo Y22|vivo Y22|V2207|Helio G85|V2207|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+vivo iQOO Z6x|vivo iQOO Z6x|V2164KA|Dimensity 810|V2164KA|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+vivo V25 Pro|vivo V25 Pro|V2158|Dimensity 1300|V2158|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+vivo iQOO 10 Pro|vivo iQOO 10 Pro|V2218A|Snapdragon 8+ Gen1|V2218A|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+vivo Y77|vivo Y77|V2169|Dimensity 810|V2169|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+vivo iQOO 10|vivo iQOO 10|V2217A|Snapdragon 8+ Gen1|V2217A|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+OnePlus Ace 2V|OnePlus Ace 2V|PHP110|Dimensity 9000|PHP110|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+OnePlus 11R|OnePlus 11R|CPH2487|Snapdragon 8+ Gen1|CPH2487|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+OnePlus Ace 2|OnePlus Ace 2|PHK110|Snapdragon 8+ Gen1|PHK110|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+OnePlus 11|OnePlus 11|CPH2449|Snapdragon 8 Gen2|CPH2449|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+OnePlus 9|OnePlus 9|LE2115|Snapdragon 888|LE2115|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+OnePlus Ace Pro|OnePlus Ace Pro|PGP110|Snapdragon 8+ Gen1|PGP110|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+OnePlus 10T|OnePlus 10T|CPH2415|Snapdragon 8+ Gen1|CPH2415|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+OnePlus 10 Pro|OnePlus 10 Pro|NE2210|Snapdragon 8 Gen1|NE2210|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e
+OnePlus 9 Pro|OnePlus 9 Pro|LE2121|Snapdragon 888|LE2121|27.82516672|125.0678861|125.06|3.7|Metfone|45201|KH|Linux|armv7l|3.4.0-gd59db4e

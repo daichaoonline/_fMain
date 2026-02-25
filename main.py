@@ -1,5 +1,6 @@
 from package import *
 
+
 class MainWindow(QMainWindow, fmHFarm):
     def __init__(self):
         super().__init__()
@@ -214,12 +215,13 @@ class MainWindow(QMainWindow, fmHFarm):
             parent=self
         )
         dialog.exec()
-                                            
-if __name__ == '__main__':
+
+
+if __name__ == "__main__":
     meta = AppMeta()
     app = QApplication(sys.argv)
-    app.setWindowIcon(QIcon(meta.__icon__))
     app.setStyleSheet(LoadStylesheet("light").content)
-    window = MainWindow()
-    window.show()
+    app.setWindowIcon(QIcon(meta.__icon__))
+    manager = AppSplashScreen()
+    manager.start()
     sys.exit(app.exec())

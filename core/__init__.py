@@ -2,6 +2,7 @@ from .emulator import (
     CountdownTimer, EmulatorPopulator,
     EmulatorOptimizer)
 from thw_emulator import EmulatorManager
+from .google import GoogleDrive, ResourceItems
 from .updater.updater import CheckUpdates
 
 __all__ = [
@@ -9,5 +10,7 @@ __all__ = [
     'EmulatorPopulator',
     'EmulatorOptimizer',
     'EmulatorManager',
+    'GoogleDrive',
+    'ResourceItems',
     'CheckUpdates'
 ]
