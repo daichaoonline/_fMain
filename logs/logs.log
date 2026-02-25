@@ -1,0 +1,1 @@
+2026-02-25 09:19:29,695 - ERROR - [PowerShell] Failed: Command 'powershell "Get-CimInstance -Class Win32_ComputerSystemProduct | Select-Object -ExpandProperty UUID"' returned non-zero exit status 3221225786.

@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>LoginWorkspace</class>
+ <widget class="QWidget" name="LoginWorkspace">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1041</width>
+    <height>577</height>
+   </rect>
+  </property>
+  <layout class="QHBoxLayout" name="layMain">
+   <item>
+    <widget class="QGroupBox" name="grpFbLogin">
+     <property name="title">
+      <string>Login Facebook</string>
+     </property>
+     <layout class="QVBoxLayout" name="layFbLogin">
+      <item>
+       <layout class="QHBoxLayout" name="layAccFilters">
+        <item>
+         <widget class="QComboBox" name="cmbStatusType">
+          <item>
+           <property name="text">
+            <string>Status</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>Name</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>UID</string>
+           </property>
+          </item>
+         </widget>
+        </item>
+        <item>
+         <widget class="QComboBox" name="cmbAccCategories">
+          <item>
+           <property name="text">
+            <string>All Categories</string>
+           </property>
+          </item>
+         </widget>
+        </item>
+        <item>
+         <widget class="QLineEdit" name="edtSearch">
+          <property name="placeholderText">
+           <string>Search account...</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QPushButton" name="btnAtAddCategory">
+          <property name="text">
+           <string>Add Category</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+      <item>
+       <layout class="QHBoxLayout" name="layLoginStatus">
+        <item>
+         <widget class="QCheckBox" name="chkEnableLogin">
+          <property name="text">
+           <string>Enable Login</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QLabel" name="lblTotalAccs">
+          <property name="text">
+           <string>0 Total Accounts</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <spacer name="spacerLogin">
+          <property name="orientation">
+           <enum>Qt::Horizontal</enum>
+          </property>
+          <property name="sizeHint" stdset="0">
+           <size>
+            <width>40</width>
+            <height>20</height>
+           </size>
+          </property>
+         </spacer>
+        </item>
+        <item>
+         <widget class="QLabel" name="lblTotalFailed">
+          <property name="text">
+           <string>0 Login Failed</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+      <item>
+       <widget class="QTableWidget" name="tblAccounts">
+        <property name="alternatingRowColors">
+         <bool>true</bool>
+        </property>
+        <property name="selectionMode">
+         <enum>QAbstractItemView::MultiSelection</enum>
+        </property>
+        <property name="selectionBehavior">
+         <enum>QAbstractItemView::SelectRows</enum>
+        </property>
+        <property name="columnCount">
+         <number>14</number>
+        </property>
+        <column>
+         <property name="text">
+          <string>No.</string>
+         </property>
+        </column>
+        <column>
+         <property name="text">
+          <string>Device</string>
+         </property>
+        </column>
+        <column>
+         <property name="text">
+          <string>UID</string>
+         </property>
+        </column>
+        <column>
+         <property name="text">
+          <string>Password</string>
+         </property>
+        </column>
+        <column>
+         <property name="text">
+          <string>2FA</string>
+         </property>
+        </column>
+        <column>
+         <property name="text">
+          <string>Email</string>
+         </property>
+        </column>
+        <column>
+         <property name="text">
+          <string>PassMail</string>
+         </property>
+        </column>
+        <column>
+         <property name="text">
+          <string>Name</string>
+         </property>
+        </column>
+        <column>
+         <property name="text">
+          <string>Cookie</string>
+         </property>
+        </column>
+        <column>
+         <property name="text">
+          <string>Token</string>
+         </property>
+        </column>
+        <column>
+         <property name="text">
+          <string>Proxy</string>
+         </property>
+        </column>
+        <column>
+         <property name="text">
+          <string>Status</string>
+         </property>
+        </column>
+        <column>
+         <property name="text">
+          <string>Category</string>
+         </property>
+        </column>
+        <column>
+         <property name="text">
+          <string>Path</string>
+         </property>
+        </column>
+       </widget>
+      </item>
+      <item>
+       <widget class="QTreeWidget" name="treeAccDetails">
+        <property name="alternatingRowColors">
+         <bool>true</bool>
+        </property>
+        <property name="columnCount">
+         <number>5</number>
+        </property>
+        <column>
+         <property name="text">
+          <string>No.</string>
+         </property>
+        </column>
+        <column>
+         <property name="text">
+          <string>Device</string>
+         </property>
+        </column>
+        <column>
+         <property name="text">
+          <string>Profile (Pages)</string>
+         </property>
+        </column>
+        <column>
+         <property name="text">
+          <string>Friends</string>
+         </property>
+        </column>
+        <column>
+         <property name="text">
+          <string>Location</string>
+         </property>
+        </column>
+       </widget>
+      </item>
+      <item>
+       <widget class="QGroupBox" name="grpStats">
+        <property name="title">
+         <string>Statistics</string>
+        </property>
+        <layout class="QHBoxLayout" name="layStats">
+         <item>
+          <widget class="QLabel" name="lblStatProfiles">
+           <property name="text">
+            <string>Total Profiles: 0</string>
+           </property>
+           <property name="alignment">
+            <set>Qt::AlignCenter</set>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <spacer name="spacerStats">
+           <property name="orientation">
+            <enum>Qt::Horizontal</enum>
+           </property>
+           <property name="sizeHint" stdset="0">
+            <size>
+             <width>40</width>
+             <height>20</height>
+            </size>
+           </property>
+          </spacer>
+         </item>
+         <item>
+          <widget class="QLabel" name="lblStatPages">
+           <property name="text">
+            <string>Total Pages: 0</string>
+           </property>
+           <property name="alignment">
+            <set>Qt::AlignCenter</set>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+   </item>
+   <item>
+    <widget class="QGroupBox" name="grpDevOptions">
+     <property name="title">
+      <string>Device Control Options</string>
+     </property>
+     <layout class="QVBoxLayout" name="layDevOptions">
+      <item>
+       <layout class="QHBoxLayout" name="layDevTop">
+        <item>
+         <widget class="QCheckBox" name="chkSelectAll">
+          <property name="text">
+           <string>Select All</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QLabel" name="lblDevMin">
+          <property name="text">
+           <string>Min:</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QSpinBox" name="spnDevMin">
+          <property name="maximum">
+           <number>999</number>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QLabel" name="lblDevMax">
+          <property name="text">
+           <string>Max:</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QSpinBox" name="spnDevMax">
+          <property name="maximum">
+           <number>999</number>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <spacer name="spacerDevTop">
+          <property name="orientation">
+           <enum>Qt::Horizontal</enum>
+          </property>
+          <property name="sizeHint" stdset="0">
+           <size>
+            <width>20</width>
+            <height>20</height>
+           </size>
+          </property>
+         </spacer>
+        </item>
+        <item>
+         <widget class="QToolButton" name="btnApply">
+          <property name="text">
+           <string>Apply</string>
+          </property>
+          <property name="toolButtonStyle">
+           <enum>Qt::ToolButtonTextBesideIcon</enum>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+      <item>
+       <widget class="QTableWidget" name="tblEmulator">
+        <property name="alternatingRowColors">
+         <bool>true</bool>
+        </property>
+        <property name="selectionMode">
+         <enum>QAbstractItemView::MultiSelection</enum>
+        </property>
+        <property name="selectionBehavior">
+         <enum>QAbstractItemView::SelectRows</enum>
+        </property>
+        <property name="columnCount">
+         <number>3</number>
+        </property>
+        <column>
+         <property name="text">
+          <string>No.</string>
+         </property>
+        </column>
+        <column>
+         <property name="text">
+          <string>LD Name</string>
+         </property>
+        </column>
+        <column>
+         <property name="text">
+          <string>Status</string>
+         </property>
+        </column>
+       </widget>
+      </item>
+      <item>
+       <layout class="QHBoxLayout" name="layDevBottom">
+        <item>
+         <widget class="QLabel" name="lblTotal">
+          <property name="text">
+           <string>0 Selected</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QLabel" name="lblSelected"/>
+        </item>
+        <item>
+         <spacer name="spacerDevBottom">
+          <property name="orientation">
+           <enum>Qt::Horizontal</enum>
+          </property>
+          <property name="sizeHint" stdset="0">
+           <size>
+            <width>40</width>
+            <height>20</height>
+           </size>
+          </property>
+         </spacer>
+        </item>
+       </layout>
+      </item>
+     </layout>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

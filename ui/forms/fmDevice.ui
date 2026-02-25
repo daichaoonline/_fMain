@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>DeviceWorkspace</class>
+ <widget class="QWidget" name="DeviceWorkspace">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1100</width>
+    <height>462</height>
+   </rect>
+  </property>
+  <layout class="QVBoxLayout" name="layMain">
+   <item>
+    <widget class="QGroupBox" name="grpOptions">
+     <property name="title">
+      <string>Device Control Options</string>
+     </property>
+     <layout class="QVBoxLayout" name="layOpt">
+      <item>
+       <layout class="QHBoxLayout" name="layTab">
+        <item>
+         <widget class="QWidget" name="wdgLeft" native="true">
+          <layout class="QVBoxLayout" name="layLeft">
+           <item>
+            <widget class="QGroupBox" name="grpLocation">
+             <property name="title">
+              <string>Location Settings</string>
+             </property>
+             <layout class="QVBoxLayout" name="layLoc">
+              <item>
+               <layout class="QHBoxLayout" name="layLdPath">
+                <item>
+                 <widget class="QLabel" name="lblLdPath">
+                  <property name="text">
+                   <string>LDPlayer Path:</string>
+                  </property>
+                 </widget>
+                </item>
+                <item>
+                 <widget class="QLineEdit" name="txtLdPath">
+                  <property name="placeholderText">
+                   <string>Enter LDPlayer path here</string>
+                  </property>
+                 </widget>
+                </item>
+                <item>
+                 <widget class="QPushButton" name="btnRefreshPath">
+                  <property name="text">
+                   <string>Refresh</string>
+                  </property>
+                 </widget>
+                </item>
+               </layout>
+              </item>
+             </layout>
+            </widget>
+           </item>
+           <item>
+            <widget class="QGroupBox" name="grpThreads">
+             <property name="title">
+              <string>Thread Settings</string>
+             </property>
+             <layout class="QVBoxLayout" name="layThreads">
+              <item>
+               <layout class="QHBoxLayout" name="layThreadRow">
+                <item>
+                 <widget class="QLabel" name="lblMaxThread">
+                  <property name="text">
+                   <string>Max Thread:</string>
+                  </property>
+                 </widget>
+                </item>
+                <item>
+                 <widget class="QSpinBox" name="spnMaxThread">
+                  <property name="minimum">
+                   <number>1</number>
+                  </property>
+                  <property name="maximum">
+                   <number>999</number>
+                  </property>
+                 </widget>
+                </item>
+                <item>
+                 <widget class="QLabel" name="lblLoop">
+                  <property name="text">
+                   <string>Between Loop:</string>
+                  </property>
+                 </widget>
+                </item>
+                <item>
+                 <widget class="QSpinBox" name="spnLoop">
+                  <property name="minimum">
+                   <number>1</number>
+                  </property>
+                  <property name="maximum">
+                   <number>999</number>
+                  </property>
+                 </widget>
+                </item>
+                <item>
+                 <widget class="QLabel" name="lblWait">
+                  <property name="text">
+                   <string>Wait After Bost:</string>
+                  </property>
+                 </widget>
+                </item>
+                <item>
+                 <widget class="QSpinBox" name="spnWait">
+                  <property name="minimum">
+                   <number>1</number>
+                  </property>
+                  <property name="maximum">
+                   <number>999</number>
+                  </property>
+                 </widget>
+                </item>
+                <item>
+                 <widget class="QLabel" name="lblRetries">
+                  <property name="text">
+                   <string>Max Retries:</string>
+                  </property>
+                 </widget>
+                </item>
+                <item>
+                 <widget class="QSpinBox" name="spnRetries">
+                  <property name="minimum">
+                   <number>1</number>
+                  </property>
+                  <property name="maximum">
+                   <number>6</number>
+                  </property>
+                 </widget>
+                </item>
+               </layout>
+              </item>
+             </layout>
+            </widget>
+           </item>
+           <item>
+            <widget class="QGroupBox" name="grpSleep">
+             <property name="title">
+              <string>Sleep / Loop Settings</string>
+             </property>
+             <layout class="QHBoxLayout" name="laySleep">
+              <item>
+               <widget class="QLabel" name="lblCloseAction">
+                <property name="text">
+                 <string>Close Before Action:</string>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QSpinBox" name="spnCloseMin">
+                <property name="minimum">
+                 <number>1</number>
+                </property>
+                <property name="maximum">
+                 <number>999</number>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QSpinBox" name="spnCloseMax">
+                <property name="minimum">
+                 <number>1</number>
+                </property>
+                <property name="maximum">
+                 <number>999</number>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QLabel" name="lblRunThread">
+                <property name="text">
+                 <string>Run Thread:</string>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QSpinBox" name="spnRunThread">
+                <property name="minimum">
+                 <number>1</number>
+                </property>
+                <property name="maximum">
+                 <number>999</number>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QCheckBox" name="chkClearLd">
+                <property name="text">
+                 <string>Clear LDPlayer</string>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QDoubleSpinBox" name="spnClearGb">
+                <property name="minimum">
+                 <double>1.000000000000000</double>
+                </property>
+                <property name="maximum">
+                 <double>24.000000000000000</double>
+                </property>
+                <property name="singleStep">
+                 <double>0.100000000000000</double>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QLabel" name="lblLimitGb">
+                <property name="text">
+                 <string>Limit GB</string>
+                </property>
+               </widget>
+              </item>
+             </layout>
+            </widget>
+           </item>
+           <item>
+            <widget class="QGroupBox" name="grpExtra">
+             <property name="title">
+              <string>Options / Timer</string>
+             </property>
+             <layout class="QHBoxLayout" name="layExtra">
+              <item>
+               <widget class="QCheckBox" name="chkArrange">
+                <property name="text">
+                 <string>Arrange Windows</string>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QCheckBox" name="chkShutdown">
+                <property name="text">
+                 <string>Shutdown PC After Tasks</string>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QCheckBox" name="chkRealDev">
+                <property name="text">
+                 <string>Real Device Startup</string>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QCheckBox" name="chkEmuStart">
+                <property name="text">
+                 <string>Emulator Startup</string>
+                </property>
+               </widget>
+              </item>
+             </layout>
+            </widget>
+           </item>
+           <item>
+            <widget class="QGroupBox" name="grpAdvanced">
+             <property name="title">
+              <string>Advanced Options</string>
+             </property>
+             <layout class="QHBoxLayout" name="layAdvanced">
+              <item>
+               <widget class="QCheckBox" name="chkInternet">
+                <property name="text">
+                 <string>Check Internet</string>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QCheckBox" name="chkFakeLoc">
+                <property name="text">
+                 <string>Fake Location</string>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QComboBox" name="cmbLon"/>
+              </item>
+              <item>
+               <widget class="QCheckBox" name="chkOptThread">
+                <property name="text">
+                 <string>Optimizer</string>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QComboBox" name="cmbOptThread"/>
+              </item>
+             </layout>
+            </widget>
+           </item>
+           <item>
+            <widget class="QGroupBox" name="grpLdConfig">
+             <property name="title">
+              <string>LDPlayer Settings</string>
+             </property>
+             <layout class="QHBoxLayout" name="layLdConfig">
+              <item>
+               <widget class="QCheckBox" name="chkBlockIp">
+                <property name="text">
+                 <string>Allow-Block Ip</string>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QCheckBox" name="chkApplyLd">
+                <property name="text">
+                 <string>Apply Settings</string>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QLabel" name="lblCpu">
+                <property name="text">
+                 <string>CPU</string>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QComboBox" name="cmbCpu"/>
+              </item>
+              <item>
+               <widget class="QLabel" name="lblRam">
+                <property name="text">
+                 <string>RAM</string>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QComboBox" name="cmbRam"/>
+              </item>
+              <item>
+               <widget class="QLabel" name="lblDpi">
+                <property name="text">
+                 <string>DPI</string>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QComboBox" name="cmbDpi"/>
+              </item>
+              <item>
+               <widget class="QLabel" name="lblRes">
+                <property name="text">
+                 <string>Resolution</string>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QComboBox" name="cmbRes"/>
+              </item>
+             </layout>
+            </widget>
+           </item>
+          </layout>
+         </widget>
+        </item>
+       </layout>
+      </item>
+     </layout>
+    </widget>
+   </item>
+   <item>
+    <spacer name="spcVertical">
+     <property name="orientation">
+      <enum>Qt::Vertical</enum>
+     </property>
+     <property name="sizeHint" stdset="0">
+      <size>
+       <width>20</width>
+       <height>40</height>
+      </size>
+     </property>
+    </spacer>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

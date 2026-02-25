@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>AutoPostWorkspace</class>
+ <widget class="QWidget" name="AutoPostWorkspace">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1133</width>
+    <height>550</height>
+   </rect>
+  </property>
+  <layout class="QHBoxLayout" name="layMain">
+   <item>
+    <layout class="QVBoxLayout" name="layLeftPanel">
+     <item>
+      <widget class="QGroupBox" name="grpDevices">
+       <property name="title">
+        <string>Devices</string>
+       </property>
+       <layout class="QVBoxLayout" name="layDevCtrl">
+        <item>
+         <layout class="QHBoxLayout" name="layTop">
+          <item>
+           <widget class="QCheckBox" name="chkSelectAll">
+            <property name="text">
+             <string>Select All</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QLabel" name="lblMinSel">
+            <property name="text">
+             <string>Min:</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QSpinBox" name="spnMinSel">
+            <property name="maximum">
+             <number>999</number>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QLabel" name="lblMaxSel">
+            <property name="text">
+             <string>Max:</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QSpinBox" name="spnMaxSel">
+            <property name="maximum">
+             <number>999</number>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <spacer name="spcTopH">
+            <property name="orientation">
+             <enum>Qt::Horizontal</enum>
+            </property>
+            <property name="sizeHint" stdset="0">
+             <size>
+              <width>0</width>
+              <height>0</height>
+             </size>
+            </property>
+           </spacer>
+          </item>
+          <item>
+           <widget class="QToolButton" name="btnApply">
+            <property name="text">
+             <string>Apply</string>
+            </property>
+            <property name="toolButtonStyle">
+             <enum>Qt::ToolButtonTextBesideIcon</enum>
+            </property>
+           </widget>
+          </item>
+         </layout>
+        </item>
+        <item>
+         <widget class="QTableWidget" name="tblEmulator">
+          <property name="alternatingRowColors">
+           <bool>true</bool>
+          </property>
+          <property name="selectionMode">
+           <enum>QAbstractItemView::MultiSelection</enum>
+          </property>
+          <property name="selectionBehavior">
+           <enum>QAbstractItemView::SelectRows</enum>
+          </property>
+          <property name="columnCount">
+           <number>3</number>
+          </property>
+          <column>
+           <property name="text">
+            <string>No.</string>
+           </property>
+          </column>
+          <column>
+           <property name="text">
+            <string>LD Name</string>
+           </property>
+          </column>
+          <column>
+           <property name="text">
+            <string>Status</string>
+           </property>
+          </column>
+         </widget>
+        </item>
+        <item>
+         <layout class="QHBoxLayout" name="layBottom">
+          <item>
+           <widget class="QLabel" name="lblTotalEmu">
+            <property name="text">
+             <string>0 Total</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QLabel" name="lblSelected">
+            <property name="text">
+             <string>0 Selected</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <spacer name="spcBottomH">
+            <property name="orientation">
+             <enum>Qt::Horizontal</enum>
+            </property>
+            <property name="sizeHint" stdset="0">
+             <size>
+              <width>0</width>
+              <height>0</height>
+             </size>
+            </property>
+           </spacer>
+          </item>
+         </layout>
+        </item>
+       </layout>
+      </widget>
+     </item>
+    </layout>
+   </item>
+   <item>
+    <layout class="QVBoxLayout" name="layRightPanel">
+     <item>
+      <widget class="QGroupBox" name="grpEnablePost">
+       <property name="title">
+        <string>Enable Post</string>
+       </property>
+       <layout class="QHBoxLayout" name="layEnablePost">
+        <item>
+         <widget class="QCheckBox" name="chkEnablePost">
+          <property name="text">
+           <string>Enable Post</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QCheckBox" name="chkReelsMusic">
+          <property name="text">
+           <string>Reels Added</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QCheckBox" name="chkPolicyAlert">
+          <property name="text">
+           <string>Alert Policy</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QCheckBox" name="chkDeletePost">
+          <property name="text">
+           <string>Delete Post</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+     </item>
+     <item>
+      <widget class="QGroupBox" name="grpReelsPost">
+       <property name="title">
+        <string>Reels Post</string>
+       </property>
+       <layout class="QVBoxLayout" name="layReelsPost">
+        <item>
+         <widget class="QCheckBox" name="chkUploadReels">
+          <property name="text">
+           <string>Upload Reels</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <layout class="QHBoxLayout" name="layReelsUploads">
+          <item>
+           <widget class="QLabel" name="lblReelsMin">
+            <property name="text">
+             <string>Min Uploads:</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QSpinBox" name="spnReelsMin">
+            <property name="maximum">
+             <number>999</number>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QLabel" name="lblReelsMax">
+            <property name="text">
+             <string>Max Uploads:</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QSpinBox" name="spnReelsMax">
+            <property name="maximum">
+             <number>999</number>
+            </property>
+           </widget>
+          </item>
+         </layout>
+        </item>
+        <item>
+         <layout class="QHBoxLayout" name="layReelsDelay">
+          <item>
+           <widget class="QLabel" name="lblReelsDelayMin">
+            <property name="text">
+             <string>Delay Min (s):</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QSpinBox" name="spnReelsDelayMin">
+            <property name="maximum">
+             <number>999</number>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QLabel" name="lblReelsDelayMax">
+            <property name="text">
+             <string>Delay Max (s):</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QSpinBox" name="spnReelsDelayMax">
+            <property name="maximum">
+             <number>999</number>
+            </property>
+           </widget>
+          </item>
+         </layout>
+        </item>
+        <item>
+         <layout class="QHBoxLayout" name="layMentionPaths">
+          <item>
+           <widget class="QLabel" name="lblMentionsMin">
+            <property name="text">
+             <string>Mention Paths Min:</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QSpinBox" name="spnMentionsMin">
+            <property name="minimum">
+             <number>1</number>
+            </property>
+            <property name="maximum">
+             <number>5</number>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QLabel" name="lblMentionsMax">
+            <property name="text">
+             <string>Mention Paths Max:</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QSpinBox" name="spnMentionsMax">
+            <property name="minimum">
+             <number>1</number>
+            </property>
+            <property name="maximum">
+             <number>5</number>
+            </property>
+           </widget>
+          </item>
+         </layout>
+        </item>
+       </layout>
+      </widget>
+     </item>
+     <item>
+      <widget class="QGroupBox" name="grpStoryPost">
+       <property name="title">
+        <string>Story Post</string>
+       </property>
+       <layout class="QVBoxLayout" name="layStoryPost">
+        <item>
+         <widget class="QCheckBox" name="chkUploadStory">
+          <property name="text">
+           <string>Upload Story</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <layout class="QHBoxLayout" name="layStoryUploads">
+          <item>
+           <widget class="QLabel" name="lblStoryMin">
+            <property name="text">
+             <string>Min Uploads:</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QSpinBox" name="spnStoryMin">
+            <property name="maximum">
+             <number>999</number>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QLabel" name="lblStoryMax">
+            <property name="text">
+             <string>Max Uploads:</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QSpinBox" name="spnStoryMax">
+            <property name="maximum">
+             <number>999</number>
+            </property>
+           </widget>
+          </item>
+         </layout>
+        </item>
+        <item>
+         <layout class="QHBoxLayout" name="layStoryDelay">
+          <item>
+           <widget class="QLabel" name="lblStoryDelayMin">
+            <property name="text">
+             <string>Delay Min (s):</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QSpinBox" name="spnStoryDelayMin">
+            <property name="maximum">
+             <number>999</number>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QLabel" name="lblStoryDelayMax">
+            <property name="text">
+             <string>Delay Max (s):</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QSpinBox" name="spnStoryDelayMax">
+            <property name="maximum">
+             <number>999</number>
+            </property>
+           </widget>
+          </item>
+         </layout>
+        </item>
+       </layout>
+      </widget>
+     </item>
+     <item>
+      <widget class="QGroupBox" name="grpPicturePost">
+       <property name="title">
+        <string>Picture Post</string>
+       </property>
+       <layout class="QVBoxLayout" name="layPicturePost">
+        <item>
+         <widget class="QCheckBox" name="chkUploadPic">
+          <property name="text">
+           <string>Upload Picture</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <layout class="QHBoxLayout" name="layPicUploads">
+          <item>
+           <widget class="QLabel" name="lblPicMin">
+            <property name="text">
+             <string>Min Uploads:</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QSpinBox" name="spnPicMin">
+            <property name="maximum">
+             <number>999</number>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QLabel" name="lblPicMax">
+            <property name="text">
+             <string>Max Uploads:</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QSpinBox" name="spnPicMax">
+            <property name="maximum">
+             <number>999</number>
+            </property>
+           </widget>
+          </item>
+         </layout>
+        </item>
+        <item>
+         <layout class="QHBoxLayout" name="layPicDelay">
+          <item>
+           <widget class="QLabel" name="lblPicDelayMin">
+            <property name="text">
+             <string>Delay Min (s):</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QSpinBox" name="spnPicDelayMin">
+            <property name="maximum">
+             <number>999</number>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QLabel" name="lblPicDelayMax">
+            <property name="text">
+             <string>Delay Max (s):</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QSpinBox" name="spnPicDelayMax">
+            <property name="maximum">
+             <number>999</number>
+            </property>
+           </widget>
+          </item>
+         </layout>
+        </item>
+       </layout>
+      </widget>
+     </item>
+     <item>
+      <widget class="QGroupBox" name="grpUploadLimits">
+       <property name="title">
+        <string>Upload Limits</string>
+       </property>
+       <layout class="QVBoxLayout" name="layLimits">
+        <item>
+         <layout class="QHBoxLayout" name="layLimitOpts">
+          <item>
+           <widget class="QCheckBox" name="chkLimitUpload">
+            <property name="text">
+             <string>Limit Upload</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QCheckBox" name="chkMentionPaths">
+            <property name="text">
+             <string>Mention Paths</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QCheckBox" name="chkRepost">
+            <property name="text">
+             <string>Repost Content</string>
+            </property>
+           </widget>
+          </item>
+         </layout>
+        </item>
+       </layout>
+      </widget>
+     </item>
+     <item>
+      <spacer name="spcVerticalRight">
+       <property name="orientation">
+        <enum>Qt::Vertical</enum>
+       </property>
+       <property name="sizeHint" stdset="0">
+        <size>
+         <width>0</width>
+         <height>0</height>
+        </size>
+       </property>
+      </spacer>
+     </item>
+    </layout>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

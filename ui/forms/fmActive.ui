@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>ActiveWorkspace</class>
+ <widget class="QWidget" name="ActiveWorkspace">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1200</width>
+    <height>568</height>
+   </rect>
+  </property>
+  <layout class="QHBoxLayout" name="layMain">
+   <item>
+    <widget class="QGroupBox" name="grpFbActive">
+     <property name="title">
+      <string>Active Facebook</string>
+     </property>
+     <layout class="QVBoxLayout" name="layFbActive">
+      <item>
+       <widget class="QGroupBox" name="grpAccount">
+        <property name="title">
+         <string>Account Options</string>
+        </property>
+        <layout class="QHBoxLayout" name="layAccOpts">
+         <item>
+          <widget class="QCheckBox" name="chkEnable">
+           <property name="text">
+            <string>Enable</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QCheckBox" name="chkSwitch">
+           <property name="text">
+            <string>Switch</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QCheckBox" name="chkReadNotif">
+           <property name="text">
+            <string>Read Notification</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QCheckBox" name="chkPrimaryLoc">
+           <property name="text">
+            <string>Primary Location</string>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </widget>
+      </item>
+      <item>
+       <widget class="QGroupBox" name="grpScroll">
+        <property name="title">
+         <string>Scroll Settings</string>
+        </property>
+        <layout class="QVBoxLayout" name="layScroll">
+         <item>
+          <layout class="QHBoxLayout" name="layReaction">
+           <item>
+            <widget class="QCheckBox" name="chkReaction">
+             <property name="text">
+              <string>Reaction Post</string>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QLabel" name="lblReactMin">
+             <property name="text">
+              <string>Min:</string>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QSpinBox" name="spnReactMin">
+             <property name="maximum">
+              <number>999</number>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QLabel" name="lblReactMax">
+             <property name="text">
+              <string>Max:</string>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QSpinBox" name="spnReactMax">
+             <property name="maximum">
+              <number>999</number>
+             </property>
+            </widget>
+           </item>
+          </layout>
+         </item>
+         <item>
+          <layout class="QHBoxLayout" name="layFeed">
+           <item>
+            <widget class="QCheckBox" name="chkScrollFeed">
+             <property name="text">
+              <string>Scroll NewFeed</string>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QLabel" name="lblFeedMin">
+             <property name="text">
+              <string>Min:</string>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QSpinBox" name="spnFeedMin">
+             <property name="maximum">
+              <number>999</number>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QLabel" name="lblFeedMax">
+             <property name="text">
+              <string>Max:</string>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QSpinBox" name="spnFeedMax">
+             <property name="maximum">
+              <number>999</number>
+             </property>
+            </widget>
+           </item>
+          </layout>
+         </item>
+         <item>
+          <layout class="QHBoxLayout" name="layVideo">
+           <item>
+            <widget class="QCheckBox" name="chkScrollVid">
+             <property name="text">
+              <string>Scroll Video</string>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QLabel" name="lblVidMin">
+             <property name="text">
+              <string>Min:</string>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QSpinBox" name="spnVidMin">
+             <property name="maximum">
+              <number>999</number>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QLabel" name="lblVidMax">
+             <property name="text">
+              <string>Max:</string>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QSpinBox" name="spnVidMax">
+             <property name="maximum">
+              <number>999</number>
+             </property>
+            </widget>
+           </item>
+          </layout>
+         </item>
+         <item>
+          <layout class="QHBoxLayout" name="layReels">
+           <item>
+            <widget class="QCheckBox" name="chkScrollReels">
+             <property name="text">
+              <string>Scroll Reels</string>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QLabel" name="lblReelsMin">
+             <property name="text">
+              <string>Min:</string>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QSpinBox" name="spnReelsMin">
+             <property name="maximum">
+              <number>999</number>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QLabel" name="lblReelsMax">
+             <property name="text">
+              <string>Max:</string>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QSpinBox" name="spnReelsMax">
+             <property name="maximum">
+              <number>999</number>
+             </property>
+            </widget>
+           </item>
+          </layout>
+         </item>
+        </layout>
+       </widget>
+      </item>
+      <item>
+       <widget class="QGroupBox" name="grpFriends">
+        <property name="title">
+         <string>Friends Management</string>
+        </property>
+        <layout class="QVBoxLayout" name="layFriends">
+         <item>
+          <layout class="QHBoxLayout" name="layFriendAdd">
+           <item>
+            <widget class="QCheckBox" name="chkCheckReq">
+             <property name="text">
+              <string>Check Requests</string>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QCheckBox" name="chkAddFriend">
+             <property name="text">
+              <string>Add Friends</string>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QSpinBox" name="spnAddMin">
+             <property name="maximum">
+              <number>999</number>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QSpinBox" name="spnAddMax">
+             <property name="maximum">
+              <number>999</number>
+             </property>
+            </widget>
+           </item>
+          </layout>
+         </item>
+         <item>
+          <layout class="QHBoxLayout" name="layFriendConfirm">
+           <item>
+            <widget class="QCheckBox" name="chkConfirmFriend">
+             <property name="text">
+              <string>Confirm Friends</string>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QSpinBox" name="spnConfirmMin">
+             <property name="maximum">
+              <number>999</number>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QSpinBox" name="spnConfirmMax">
+             <property name="maximum">
+              <number>999</number>
+             </property>
+            </widget>
+           </item>
+          </layout>
+         </item>
+        </layout>
+       </widget>
+      </item>
+      <item>
+       <widget class="QGroupBox" name="grpCheckIn">
+        <property name="title">
+         <string>Check-In Settings</string>
+        </property>
+        <layout class="QVBoxLayout" name="layCheckIn">
+         <item>
+          <layout class="QHBoxLayout" name="layCheckInOpts">
+           <item>
+            <widget class="QCheckBox" name="chkCreateCheckIn">
+             <property name="text">
+              <string>Create Check-In</string>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QCheckBox" name="chkUseIPLoc">
+             <property name="text">
+              <string>Use IP Location</string>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QCheckBox" name="chkMarketplace">
+             <property name="text">
+              <string>Check Marketplace</string>
+             </property>
+            </widget>
+           </item>
+          </layout>
+         </item>
+         <item>
+          <layout class="QHBoxLayout" name="layLocSearch">
+           <item>
+            <widget class="QLabel" name="lblLocSearch">
+             <property name="text">
+              <string>Location:</string>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QLineEdit" name="edtLocSearch"/>
+           </item>
+          </layout>
+         </item>
+         <item>
+          <widget class="QTextEdit" name="txtCaption"/>
+         </item>
+        </layout>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+   </item>
+   <item>
+    <widget class="QGroupBox" name="grpDevices">
+     <property name="title">
+      <string>Device Control Options</string>
+     </property>
+     <layout class="QVBoxLayout" name="layDevices">
+      <item>
+       <layout class="QHBoxLayout" name="layDevTop">
+        <item>
+         <widget class="QCheckBox" name="chkSelectAll">
+          <property name="text">
+           <string>Select All</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QSpinBox" name="spnSelMin">
+          <property name="maximum">
+           <number>999</number>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QSpinBox" name="spnSelMax">
+          <property name="maximum">
+           <number>999</number>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QToolButton" name="btnApply">
+          <property name="text">
+           <string>Apply</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+      <item>
+       <widget class="QTableWidget" name="tblEmulator">
+        <property name="lineWidth">
+         <number>1</number>
+        </property>
+        <property name="columnCount">
+         <number>3</number>
+        </property>
+        <column>
+         <property name="text">
+          <string>No.</string>
+         </property>
+        </column>
+        <column>
+         <property name="text">
+          <string>LD Name</string>
+         </property>
+        </column>
+        <column>
+         <property name="text">
+          <string>Status</string>
+         </property>
+        </column>
+       </widget>
+      </item>
+      <item>
+       <layout class="QHBoxLayout" name="layDevBottom">
+        <item>
+         <widget class="QLabel" name="lblTotal">
+          <property name="text">
+           <string>0 Total</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QLabel" name="lblSelected">
+          <property name="text">
+           <string>0 Selected</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+     </layout>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

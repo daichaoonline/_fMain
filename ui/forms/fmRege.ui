@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>RegeWorkspace</class>
+ <widget class="QWidget" name="RegeWorkspace">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1008</width>
+    <height>629</height>
+   </rect>
+  </property>
+  <layout class="QHBoxLayout" name="main_layout">
+   <item>
+    <widget class="QGroupBox" name="groupBox_regeFacebook">
+     <property name="title">
+      <string>Rege Facebook</string>
+     </property>
+     <layout class="QVBoxLayout" name="verticalLayout_regeFacebook">
+      <item>
+       <widget class="QGroupBox" name="groupBox_radio">
+        <property name="title">
+         <string>Mode Selection</string>
+        </property>
+        <layout class="QHBoxLayout" name="radio_layout_modeSelection">
+         <item>
+          <widget class="QCheckBox" name="checkBox_enableRege">
+           <property name="text">
+            <string>Enable Rege</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QRadioButton" name="radioButton_regBackup">
+           <property name="text">
+            <string>Reg Backup</string>
+           </property>
+           <property name="checked">
+            <bool>true</bool>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QRadioButton" name="radioButton_regNovery">
+           <property name="text">
+            <string>Reg Novery</string>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </widget>
+      </item>
+      <item>
+       <widget class="QGroupBox" name="groupBox_appDevice">
+        <property name="title">
+         <string>App | Device Options</string>
+        </property>
+        <layout class="QHBoxLayout" name="layout_deviceOptions">
+         <item>
+          <widget class="QCheckBox" name="checkBox_clearCache">
+           <property name="text">
+            <string>Clear Cache</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QCheckBox" name="checkBox_reinstallApp">
+           <property name="text">
+            <string>Re-install App</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLabel" name="label">
+           <property name="text">
+            <string>APK File:</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QComboBox" name="comboBox_listFileApk"/>
+         </item>
+        </layout>
+       </widget>
+      </item>
+      <item>
+       <widget class="QGroupBox" name="groupBox_vpnDelay">
+        <property name="title">
+         <string>VPN | Delay Options</string>
+        </property>
+        <layout class="QHBoxLayout" name="layout_delay">
+         <item>
+          <widget class="QCheckBox" name="checkBox_showIpStatus">
+           <property name="text">
+            <string>Show IP Status</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLabel" name="label">
+           <property name="text">
+            <string>Delay App(s):</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QSpinBox" name="spinBox_delayApp">
+           <property name="maximum">
+            <number>300</number>
+           </property>
+           <property name="value">
+            <number>5</number>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLabel" name="label">
+           <property name="text">
+            <string>Delay Click(s):</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QSpinBox" name="spinBox_delayClick">
+           <property name="maximum">
+            <number>60</number>
+           </property>
+           <property name="value">
+            <number>2</number>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </widget>
+      </item>
+      <item>
+       <widget class="QGroupBox" name="groupBox_options">
+        <property name="title">
+         <string>Options</string>
+        </property>
+        <layout class="QVBoxLayout" name="options_layout">
+         <item>
+          <layout class="QHBoxLayout" name="layout_customPassword">
+           <item>
+            <widget class="QCheckBox" name="checkBox_customPassword">
+             <property name="text">
+              <string>Custom Password</string>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QLineEdit" name="lineEdit_password">
+             <property name="echoMode">
+              <enum>QLineEdit::Password</enum>
+             </property>
+             <property name="placeholderText">
+              <string>Enter password</string>
+             </property>
+            </widget>
+           </item>
+          </layout>
+         </item>
+         <item>
+          <layout class="QHBoxLayout" name="layout_randomPassword">
+           <item>
+            <widget class="QCheckBox" name="checkBox_randomPassword">
+             <property name="text">
+              <string>Random Password</string>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QLabel" name="label">
+             <property name="text">
+              <string>Min:</string>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QSpinBox" name="spinBox_digitMin">
+             <property name="value">
+              <number>12</number>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QLabel" name="label">
+             <property name="text">
+              <string>Max:</string>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QSpinBox" name="spinBox_digitMax">
+             <property name="value">
+              <number>20</number>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QLineEdit" name="lineEdit_symbols">
+             <property name="placeholderText">
+              <string>Symbols (e.g. @#$%)</string>
+             </property>
+            </widget>
+           </item>
+          </layout>
+         </item>
+        </layout>
+       </widget>
+      </item>
+      <item>
+       <widget class="QGroupBox" name="groupBox_verify">
+        <property name="title">
+         <string>Verify Contact Code</string>
+        </property>
+        <layout class="QHBoxLayout" name="layout_verifyContact">
+         <item>
+          <widget class="QRadioButton" name="radioButton_yandexMail">
+           <property name="text">
+            <string>Yandex Mail</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QRadioButton" name="radioButton_zohoMail">
+           <property name="text">
+            <string>Zoho Mail</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QRadioButton" name="radioButton_gmailOTP">
+           <property name="text">
+            <string>Gmail OTP</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLineEdit" name="lineEdit_customGmailOtp">
+           <property name="echoMode">
+            <enum>QLineEdit::Password</enum>
+           </property>
+           <property name="placeholderText">
+            <string>Enter Gmail OTP</string>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </widget>
+      </item>
+      <item>
+       <layout class="QHBoxLayout" name="layout_category">
+        <item>
+         <widget class="QLabel" name="label">
+          <property name="text">
+           <string>Category:</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QComboBox" name="comboBox_saveCategory"/>
+        </item>
+        <item>
+         <widget class="QToolButton" name="toolsButton_createCategory">
+          <property name="styleSheet">
+           <string>background-color: #4CAF50; color: white;</string>
+          </property>
+          <property name="text">
+           <string>Create Category</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QToolButton" name="toolsButton_deleteCategory">
+          <property name="styleSheet">
+           <string>background-color: #f44336; color: white;</string>
+          </property>
+          <property name="text">
+           <string>Delete Category</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+      <item>
+       <widget class="QTableWidget" name="tableWidget_registerAccounts">
+        <property name="alternatingRowColors">
+         <bool>true</bool>
+        </property>
+        <property name="selectionMode">
+         <enum>QAbstractItemView::MultiSelection</enum>
+        </property>
+        <property name="selectionBehavior">
+         <enum>QAbstractItemView::SelectRows</enum>
+        </property>
+        <property name="columnCount">
+         <number>23</number>
+        </property>
+        <column>
+         <property name="text">
+          <string>No.</string>
+         </property>
+        </column>
+        <column>
+         <property name="text">
+          <string>Uid</string>
+         </property>
+        </column>
+        <column>
+         <property name="text">
+          <string>Pass</string>
+         </property>
+        </column>
+        <column>
+         <property name="text">
+          <string>2Fa</string>
+         </property>
+        </column>
+        <column>
+         <property name="text">
+          <string>Mail</string>
+         </property>
+        </column>
+        <column>
+         <property name="text">
+          <string>PassMail</string>
+         </property>
+        </column>
+        <column>
+         <property name="text">
+          <string>Phone</string>
+         </property>
+        </column>
+        <column>
+         <property name="text">
+          <string>Full Name</string>
+         </property>
+        </column>
+        <column>
+         <property name="text">
+          <string>Category</string>
+         </property>
+        </column>
+        <column>
+         <property name="text">
+          <string>Type</string>
+         </property>
+        </column>
+        <column>
+         <property name="text">
+          <string>Status</string>
+         </property>
+        </column>
+        <column>
+         <property name="text">
+          <string>Primary Location</string>
+         </property>
+        </column>
+        <column>
+         <property name="text">
+          <string>Created Date</string>
+         </property>
+        </column>
+        <column>
+         <property name="text">
+          <string>Cookie</string>
+         </property>
+        </column>
+        <column>
+         <property name="text">
+          <string>Token</string>
+         </property>
+        </column>
+        <column>
+         <property name="text">
+          <string>Ip Address</string>
+         </property>
+        </column>
+        <column>
+         <property name="text">
+          <string>Age</string>
+         </property>
+        </column>
+        <column>
+         <property name="text">
+          <string>Birthday</string>
+         </property>
+        </column>
+        <column>
+         <property name="text">
+          <string>Gender</string>
+         </property>
+        </column>
+        <column>
+         <property name="text">
+          <string>Mode</string>
+         </property>
+        </column>
+        <column>
+         <property name="text">
+          <string>Storage</string>
+         </property>
+        </column>
+        <column>
+         <property name="text">
+          <string>Success</string>
+         </property>
+        </column>
+        <column>
+         <property name="text">
+          <string>Failed</string>
+         </property>
+        </column>
+       </widget>
+      </item>
+      <item>
+       <layout class="QHBoxLayout" name="layout_bottom">
+        <item>
+         <widget class="QLabel" name="label_total">
+          <property name="text">
+           <string>Total: 0</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QLabel" name="label_success">
+          <property name="text">
+           <string>Success: 0</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QLabel" name="label_failed">
+          <property name="text">
+           <string>Failed: 0</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QLabel" name="label_checklive">
+          <property name="text">
+           <string>Live: 0</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QLabel" name="label_checkpoint">
+          <property name="text">
+           <string>Checkpoint: 0</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QLabel" name="label_novery">
+          <property name="text">
+           <string>Novery: 0</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QLabel" name="label_verify">
+          <property name="text">
+           <string>Verified: 0</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+     </layout>
+    </widget>
+   </item>
+   <item>
+    <widget class="QGroupBox" name="groupBox_deviceControlOptions">
+     <property name="title">
+      <string>Device Control Options</string>
+     </property>
+     <layout class="QVBoxLayout" name="verticalLayout_deviceControlOptions">
+      <item>
+       <layout class="QHBoxLayout" name="topLayout">
+        <item>
+         <widget class="QCheckBox" name="checkBox_selectAllEmulators">
+          <property name="text">
+           <string>Select All</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QLabel" name="label">
+          <property name="text">
+           <string>Min:</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QSpinBox" name="spinBox_selectedMin">
+          <property name="maximum">
+           <number>999</number>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QLabel" name="label">
+          <property name="text">
+           <string>Max:</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QSpinBox" name="spinBox_selectedMax">
+          <property name="maximum">
+           <number>999</number>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <spacer>
+          <property name="orientation">
+           <enum>Qt::Horizontal</enum>
+          </property>
+          <property name="sizeHint" stdset="0">
+           <size>
+            <width>0</width>
+            <height>0</height>
+           </size>
+          </property>
+         </spacer>
+        </item>
+        <item>
+         <widget class="QToolButton" name="toolsButton_apply">
+          <property name="styleSheet">
+           <string>background-color: #4CAF50; color: white;</string>
+          </property>
+          <property name="text">
+           <string>Apply</string>
+          </property>
+          <property name="toolButtonStyle">
+           <enum>Qt::ToolButtonTextBesideIcon</enum>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+      <item>
+       <widget class="QTableWidget" name="tableWidget_listEmulator">
+        <property name="alternatingRowColors">
+         <bool>true</bool>
+        </property>
+        <property name="selectionMode">
+         <enum>QAbstractItemView::MultiSelection</enum>
+        </property>
+        <property name="selectionBehavior">
+         <enum>QAbstractItemView::SelectRows</enum>
+        </property>
+        <property name="columnCount">
+         <number>4</number>
+        </property>
+        <column>
+         <property name="text">
+          <string>No.</string>
+         </property>
+        </column>
+        <column>
+         <property name="text">
+          <string>LD Name</string>
+         </property>
+        </column>
+        <column>
+         <property name="text">
+          <string>Status</string>
+         </property>
+        </column>
+        <column>
+         <property name="text">
+          <string>Size Vms</string>
+         </property>
+        </column>
+       </widget>
+      </item>
+      <item>
+       <layout class="QHBoxLayout" name="bottomLayout_deviceOptions">
+        <item>
+         <widget class="QLabel" name="label_totalEmulators">
+          <property name="text">
+           <string>0 Selected</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QLabel" name="label_selectedStatus"/>
+        </item>
+        <item>
+         <spacer>
+          <property name="orientation">
+           <enum>Qt::Horizontal</enum>
+          </property>
+          <property name="sizeHint" stdset="0">
+           <size>
+            <width>0</width>
+            <height>0</height>
+           </size>
+          </property>
+         </spacer>
+        </item>
+       </layout>
+      </item>
+     </layout>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
