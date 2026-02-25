@@ -1,3 +1,4 @@
+from .access import GetProfile, WriteData
 from .emulator import (
     CountdownTimer, EmulatorPopulator,
     EmulatorOptimizer)
@@ -6,6 +7,8 @@ from .google import GoogleDrive, ResourceItems
 from .updater.updater import CheckUpdates
 
 __all__ = [
+    'GetProfile',
+    'WriteData',
     'CountdownTimer',
     'EmulatorPopulator',
     'EmulatorOptimizer',

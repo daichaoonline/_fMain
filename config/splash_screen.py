@@ -1,8 +1,8 @@
 from PyQt6.QtWidgets import QWidget, QVBoxLayout, QLabel, QProgressBar
 from PyQt6.QtCore import Qt, QRect, pyqtSignal, QThread, QPropertyAnimation
 from PyQt6.QtGui import QPixmap
-from core.google import ResourceItems
-from modules.selected_items import ItemsGoogle
+from core import ResourceItems
+from modules import ItemsGoogle
 import os
 
 class SplashScreen(QWidget):
