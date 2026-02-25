@@ -1,0 +1,5 @@
+git add.
+git commit -m "Save current changes before cleaning"
+git remote add origin https://github.com/daichaoonline/_fMain.git
+git branch -M main
+git push -u origin main --force
