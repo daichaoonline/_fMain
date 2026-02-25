@@ -1,3 +1,2 @@
-# Ignore environment and config files with secrets
 config/app_config.py
 config/env.py
