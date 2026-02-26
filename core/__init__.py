@@ -1,12 +1,16 @@
-from .access import GetProfile, WriteData
+from .access import (
+    CheckLive, GetProfile, WriteData,
+)
 from .emulator import (
     CountdownTimer, EmulatorPopulator,
-    EmulatorOptimizer)
+    EmulatorOptimizer,
+)
 from thw_emulator import EmulatorManager
 from .google import GoogleDrive, ResourceItems
 from .updater.updater import CheckUpdates
 
 __all__ = [
+    'CheckLive',
     'GetProfile',
     'WriteData',
     'CountdownTimer',
