@@ -1,5 +1,8 @@
 from package import *
 
+project_root = os.path.dirname(os.path.abspath(__file__))
+if project_root not in sys.path:
+    sys.path.insert(0, project_root)
 
 class MainWindow(QMainWindow, fmHFarm):
     def __init__(self):
@@ -33,7 +36,6 @@ class MainWindow(QMainWindow, fmHFarm):
         self.menu_bar()
         self._check_license()
         self.signal_connect()
-        self._load_emulator()
 
         # Theme selector
         self.themeSelector = ThemeSelector(self, '')
@@ -60,6 +62,8 @@ class MainWindow(QMainWindow, fmHFarm):
             self.selector = EmulatorSelector(table, label)
             table.itemSelectionChanged.connect(self.selector.sync_with_table_selection)
             self.selectors.append(self.selector)  
+            
+        self._load_emulator()
 
     def signal_connect(self):
         self.dDevice.btnRefreshPath.clicked.connect(self._load_emulator)
@@ -67,63 +71,56 @@ class MainWindow(QMainWindow, fmHFarm):
     def _load_emulator(self):
         start_time = time.time()
         self.grbTop.setTitle("Loading... (0%)")
+
         self.load_path = LDPlayerPathManager().read_path()
-        if self.load_path and os.path.exists(self.load_path):
-            self.dDevice.txtLdPath.setText(self.load_path)
-        else:
-            self.dDevice.txtLdPath.setText("")
-            
-        self.emulator = EmulatorManager(self.load_path)
-        self.loader_thread = EmulatorPopulator(self.load_path)
+        self.dDevice.txtLdPath.setText(
+            self.load_path
+            if self.load_path
+            and os.path.exists(
+                self.load_path
+            )
+            else ""
+        )
 
-        self.loader_thread.update_row_signal.connect(self.update_emulator_table)
-        self.loader_thread.start()
+        self.threads = EmulatorPopulator(self.load_path)
 
-        def update_progress(p):
+        def update_progress(percent):
             elapsed = int(time.time() - start_time)
             minutes, seconds = divmod(elapsed, 60)
-            self.grbTop.setTitle(
-                f"Loading... ({p}%)  [{minutes:02d}:{seconds:02d}]"
-            )
-
-        self.loader_thread.progress_signal.connect(update_progress)
+            self.grbTop.setTitle(f"Loading... ({percent}%)  [{minutes:02d}:{seconds:02d}]")
         
-        def update_labels(total):
+        self.threads.progress_signal.connect(update_progress)
+        self.threads.emulator_signal.connect(self.update_emulator_table)
+
+        def finished(total):
             for label in self.lbl:
                 label.setText(f"Total: {total}")
             self.grbTop.setTitle("System ready!")
-
-        self.loader_thread.finished_signal.connect(update_labels)
-        self.loader_thread.start()
-                    
-    def update_emulator_table(self, index, em):
-        item_name = QTableWidgetItem(str(em.name))
-        item_name.setTextAlignment(Qt.AlignmentFlag.AlignCenter)
-
-        try:
-            status = str(self.emulator.check_status(index))
-        except Exception as e:
-            status = f"Failed status: {e} + {index}"
             
-        device_status = QTableWidgetItem(status)
-        device_status.setTextAlignment(Qt.AlignmentFlag.AlignCenter)
-
-        for table in self.tbl:
-            table.insertRow(index)
+        self.threads.finished_signal.connect(finished)
+        self.threads.start()
+            
+    def update_emulator_table(self, index):
+        em = index["em"]
+        for tbl in self.tbl:
+            tbl.setUpdatesEnabled(False)
+            
+            _row = tbl.rowCount()
+            tbl.insertRow(_row)
 
             checkbox = QCheckBox()
-            checkbox.setChecked(False)
             cell_widget = QWidget()
             layout = QHBoxLayout(cell_widget)
             layout.addWidget(checkbox)
             layout.setAlignment(Qt.AlignmentFlag.AlignCenter)
             layout.setContentsMargins(0, 0, 0, 0)
-            
-            table.setCellWidget(index, 0, cell_widget)
-            table.setItem(index, 1, QTableWidgetItem(item_name))
-            table.setItem(index, 2, QTableWidgetItem(device_status))
+            tbl.setCellWidget(_row, 0, cell_widget)
 
-            table.scrollToItem(item_name)
+            name_item = QTableWidgetItem(str(em.name))
+            name_item.setTextAlignment(Qt.AlignmentFlag.AlignCenter)
+            tbl.setItem(_row, 1, name_item)
+
+            tbl.setUpdatesEnabled(True)
                                                                     
     def _navigation(self):
         self.btnDevices.setStyleSheet(ColorButton.blue())
@@ -222,6 +219,6 @@ if __name__ == "__main__":
     app = QApplication(sys.argv)
     app.setStyleSheet(LoadStylesheet("light").content)
     app.setWindowIcon(QIcon(meta.__icon__))
-    manager = AppSplashScreen()
-    manager.start()
+    main = AppSplashScreen()
+    main.start()
     sys.exit(app.exec())

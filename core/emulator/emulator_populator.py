@@ -2,18 +2,18 @@ from PyQt6.QtCore import QThread, pyqtSignal
 from thw_emulator import EmulatorManager
 
 class EmulatorPopulator(QThread):
-    update_row_signal = pyqtSignal(int, object)
+    progress_signal = pyqtSignal(int)
     finished_signal = pyqtSignal(int)
     error_signal = pyqtSignal(str)
-    progress_signal = pyqtSignal(int)
+    emulator_signal = pyqtSignal(dict)
 
-    def __init__(self, ld_directory: str):
+    def __init__(self, ld_dir: str):
         super().__init__()
-        self.ld_directory = ld_directory
+        self.ld_dir = ld_dir
 
     def run(self):
         try:
-            emulator = EmulatorManager(self.ld_directory)
+            emulator = EmulatorManager(self.ld_dir)
             total = len(emulator.ldplayer)
 
             if total == 0:
@@ -22,7 +22,11 @@ class EmulatorPopulator(QThread):
                 return
 
             for index, em in enumerate(emulator.ldplayer, start=1):
-                self.update_row_signal.emit(index - 1, em)
+                self.emulator_signal.emit({
+                    "index": index,
+                    "em": em,
+                })
+
                 percent = int((index / total) * 100)
                 self.progress_signal.emit(percent)
                 self.msleep(50)
