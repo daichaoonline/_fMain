@@ -3,7 +3,7 @@ from PyQt6.QtWidgets import (
     QTextEdit, QComboBox, QTimeEdit, QDateEdit
 )
 
-class GetValue:
+class GClass2:
     @staticmethod
     def getSpinBox(spinbox: QSpinBox):
         return spinbox.value() if spinbox else 0

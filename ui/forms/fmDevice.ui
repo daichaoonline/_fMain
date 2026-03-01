@@ -6,7 +6,7 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>1100</width>
+    <width>805</width>
     <height>462</height>
    </rect>
   </property>
@@ -45,9 +45,9 @@
                  </widget>
                 </item>
                 <item>
-                 <widget class="QPushButton" name="btnRefreshPath">
+                 <widget class="QPushButton" name="btnReloadPath">
                   <property name="text">
-                   <string>Refresh</string>
+                   <string>Reload Path</string>
                   </property>
                  </widget>
                 </item>
@@ -72,7 +72,7 @@
                  </widget>
                 </item>
                 <item>
-                 <widget class="QSpinBox" name="spnMaxThread">
+                 <widget class="QSpinBox" name="nudMaxThread">
                   <property name="minimum">
                    <number>1</number>
                   </property>
@@ -89,7 +89,7 @@
                  </widget>
                 </item>
                 <item>
-                 <widget class="QSpinBox" name="spnLoop">
+                 <widget class="QSpinBox" name="nubBetweenLoop">
                   <property name="minimum">
                    <number>1</number>
                   </property>
@@ -106,7 +106,7 @@
                  </widget>
                 </item>
                 <item>
-                 <widget class="QSpinBox" name="spnWait">
+                 <widget class="QSpinBox" name="nubWaitAfter">
                   <property name="minimum">
                    <number>1</number>
                   </property>
@@ -123,7 +123,7 @@
                  </widget>
                 </item>
                 <item>
-                 <widget class="QSpinBox" name="spnRetries">
+                 <widget class="QSpinBox" name="nudMaxRetries">
                   <property name="minimum">
                    <number>1</number>
                   </property>
@@ -151,7 +151,7 @@
                </widget>
               </item>
               <item>
-               <widget class="QSpinBox" name="spnCloseMin">
+               <widget class="QSpinBox" name="nudCloseBeforeFrom">
                 <property name="minimum">
                  <number>1</number>
                 </property>
@@ -161,7 +161,7 @@
                </widget>
               </item>
               <item>
-               <widget class="QSpinBox" name="spnCloseMax">
+               <widget class="QSpinBox" name="nudCloseBeforeTo">
                 <property name="minimum">
                  <number>1</number>
                 </property>
@@ -178,7 +178,7 @@
                </widget>
               </item>
               <item>
-               <widget class="QSpinBox" name="spnRunThread">
+               <widget class="QSpinBox" name="nudRunThread">
                 <property name="minimum">
                  <number>1</number>
                 </property>
@@ -188,14 +188,14 @@
                </widget>
               </item>
               <item>
-               <widget class="QCheckBox" name="chkClearLd">
+               <widget class="QCheckBox" name="cbClearLD">
                 <property name="text">
                  <string>Clear LDPlayer</string>
                 </property>
                </widget>
               </item>
               <item>
-               <widget class="QDoubleSpinBox" name="spnClearGb">
+               <widget class="QDoubleSpinBox" name="nudClearGb">
                 <property name="minimum">
                  <double>1.000000000000000</double>
                 </property>
@@ -224,28 +224,28 @@
              </property>
              <layout class="QHBoxLayout" name="layExtra">
               <item>
-               <widget class="QCheckBox" name="chkArrange">
+               <widget class="QCheckBox" name="cbArrangeWindows">
                 <property name="text">
                  <string>Arrange Windows</string>
                 </property>
                </widget>
               </item>
               <item>
-               <widget class="QCheckBox" name="chkShutdown">
+               <widget class="QCheckBox" name="cbShutdown">
                 <property name="text">
                  <string>Shutdown PC After Tasks</string>
                 </property>
                </widget>
               </item>
               <item>
-               <widget class="QCheckBox" name="chkRealDev">
+               <widget class="QCheckBox" name="cbRealDev">
                 <property name="text">
                  <string>Real Device Startup</string>
                 </property>
                </widget>
               </item>
               <item>
-               <widget class="QCheckBox" name="chkEmuStart">
+               <widget class="QCheckBox" name="cbEmuStart">
                 <property name="text">
                  <string>Emulator Startup</string>
                 </property>
@@ -261,24 +261,24 @@
              </property>
              <layout class="QHBoxLayout" name="layAdvanced">
               <item>
-               <widget class="QCheckBox" name="chkInternet">
+               <widget class="QCheckBox" name="cbInternet">
                 <property name="text">
                  <string>Check Internet</string>
                 </property>
                </widget>
               </item>
               <item>
-               <widget class="QCheckBox" name="chkFakeLoc">
+               <widget class="QCheckBox" name="cbFakeLoc">
                 <property name="text">
                  <string>Fake Location</string>
                 </property>
                </widget>
               </item>
               <item>
-               <widget class="QComboBox" name="cmbLon"/>
+               <widget class="QComboBox" name="cmbFakeLoc"/>
               </item>
               <item>
-               <widget class="QCheckBox" name="chkOptThread">
+               <widget class="QCheckBox" name="cbOptThread">
                 <property name="text">
                  <string>Optimizer</string>
                 </property>
@@ -297,14 +297,14 @@
              </property>
              <layout class="QHBoxLayout" name="layLdConfig">
               <item>
-               <widget class="QCheckBox" name="chkBlockIp">
+               <widget class="QCheckBox" name="cbBlockIp">
                 <property name="text">
                  <string>Allow-Block Ip</string>
                 </property>
                </widget>
               </item>
               <item>
-               <widget class="QCheckBox" name="chkApplyLd">
+               <widget class="QCheckBox" name="cbApplyLD">
                 <property name="text">
                  <string>Apply Settings</string>
                 </property>

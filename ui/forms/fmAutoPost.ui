@@ -93,7 +93,7 @@
            <enum>QAbstractItemView::SelectRows</enum>
           </property>
           <property name="columnCount">
-           <number>3</number>
+           <number>2</number>
           </property>
           <column>
            <property name="text">
@@ -103,11 +103,6 @@
           <column>
            <property name="text">
             <string>LD Name</string>
-           </property>
-          </column>
-          <column>
-           <property name="text">
-            <string>Status</string>
            </property>
           </column>
          </widget>

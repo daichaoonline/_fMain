@@ -6,11 +6,6 @@ class TimerSignals(QObject): # Signals for the timer
     start = pyqtSignal()
 
 
-class TableSignals(QObject): # Signals for the table
-    update_row = pyqtSignal(int, list)
-    remove_row = pyqtSignal(int)
-
-
 class MessageSignals(QObject): # Signals for the message box
     warning = pyqtSignal(str, str)
     info = pyqtSignal(str, str)
@@ -18,5 +13,4 @@ class MessageSignals(QObject): # Signals for the message box
 
 
 Timer = TimerSignals()
-Table = TableSignals()
 Message = MessageSignals()

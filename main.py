@@ -1,3 +1,4 @@
+from core.status.update_status import DeviceUpdate
 from package import *
 
 project_root = os.path.dirname(os.path.abspath(__file__))
@@ -14,6 +15,12 @@ class MainWindow(QMainWindow, fmHFarm):
         
         self.selectors = []
         self.emulator = []
+        self.running_threads = []
+        
+        self.stop_running_task = threading.Event()
+        self.pause_running_task = threading.Event()
+        
+        self.func = GClass0()
 
         self.main = StackPage(
             self.stackWidget,
@@ -60,19 +67,22 @@ class MainWindow(QMainWindow, fmHFarm):
 
         for table, label in zip(self.tbl, self.lbl):
             self.selector = EmulatorSelector(table, label)
-            table.itemSelectionChanged.connect(self.selector.sync_with_table_selection)
+            table.itemSelectionChanged.connect(
+                self.selector.sync_with_table_selection
+            )
             self.selectors.append(self.selector)  
             
         self._load_emulator()
 
     def signal_connect(self):
-        self.dDevice.btnRefreshPath.clicked.connect(self._load_emulator)
+        self.dDevice.btnReloadPath.clicked.connect(self._load_emulator)
+        self.btnStart.clicked.connect(self.start_emulators)
 
     def _load_emulator(self):
         start_time = time.time()
         self.grbTop.setTitle("Loading... (0%)")
 
-        self.load_path = LDPlayerPathManager().read_path()
+        self.load_path = self.func.method_0()
         self.dDevice.txtLdPath.setText(
             self.load_path
             if self.load_path
@@ -82,8 +92,10 @@ class MainWindow(QMainWindow, fmHFarm):
             else ""
         )
 
-        self.threads = EmulatorPopulator(self.load_path)
-
+        self.threads = self.func.method_2()
+        self.threads.start()
+        self.emulator = self.func.method_1()
+        
         def update_progress(percent):
             elapsed = int(time.time() - start_time)
             minutes, seconds = divmod(elapsed, 60)
@@ -157,7 +169,7 @@ class MainWindow(QMainWindow, fmHFarm):
             )
         )
 
-    def _check_license(self):    
+    def _check_license(self):
         if self.services.license_service.validate_local_license():
             return
 
@@ -201,7 +213,7 @@ class MainWindow(QMainWindow, fmHFarm):
         )
         updater.check_for_updates()    
                 
-    def show_about_dialog(self):       
+    def show_about_dialog(self):
         expiry = self.services.license_service.get_online_expiry_date()
         dialog = AboutDialog(
             title=self.meta.__title__,
@@ -213,7 +225,158 @@ class MainWindow(QMainWindow, fmHFarm):
         )
         dialog.exec()
 
+    def start_emulators(self):
+        self.snapshot = GEnum0(
+            self.dDevice,
+            self.aActive,
+            self.aPost,
+            self.mManage,
+            self.lLogin
+        )
+        
+        self.method_109 = self.snapshot.method_77()
 
+        nudRunThread = self.method_109['nudRunThread']
+        nudMaxThread = self.method_109['nudMaxThread']
+        nubWaitAfter = self.method_109['nubWaitAfter']
+        nubBetweenLoop = self.method_109['nubBetweenLoop']
+        
+        # In MainWindow.start_emulators
+        self.update_status = UpdateStatus(
+            self.tblStatus,
+            self.dDevice.lblRunThread
+        )
+        
+        def worker_thread():
+            try:
+                selected_indices = []
+                for table in self.tbl:
+                    for row in range(table.rowCount()):
+                        widget = table.cellWidget(row, 0)
+                        if widget:
+                            checkbox: QCheckBox = widget.findChild(QCheckBox)
+                            if checkbox and checkbox.isChecked():
+                                selected_indices.append(row)
+
+                if not selected_indices:
+                    print("No devices selected")
+                    return
+
+                self.tblStatus.setRowCount(0)
+                self.update_status.index_to_row = {em_index: pos for pos, em_index in enumerate(selected_indices)}
+                to_start = selected_indices[:nudMaxThread]
+                
+                with ThreadPoolExecutor(max_workers=nudRunThread) as executor:
+                    futures = {}
+                    for index in to_start:
+                        if self.stop_running_task.is_set():
+                            logging.debug("Stop signal received before starting index %s", index)
+                            break
+
+                        while self.pause_running_task.is_set():
+                            if self.stop_running_task.is_set():
+                                logging.debug("Stop signal received during optimizer pause")
+                                return
+                            sleep(0.5)        
+                            
+                        if self.stop_running_task.is_set():
+                            logging.debug("Stop signal received before submitting index %s", index)
+                            break
+                    
+                        future = executor.submit(self.manage_emulator_safe, index, nubWaitAfter)
+                        futures[future] = index
+                        sleep(nubBetweenLoop)
+            
+                    for future in as_completed(futures):
+                        if self.stop_running_task.is_set():
+                            logging.debug("Stop signal received while waiting for futures")
+                            break                        
+                        try:
+                            future.result()
+                        except Exception as e:
+                            logging.debug(f"Unhandled error in index {futures[future]}: {e}")
+
+            except Exception as e:
+                logging.critical(f"Application crash in worker_thread thread: {e}", exc_info=True)
+                            
+        self.worker_thread = threading.Thread(target=worker_thread, daemon=True)
+        self.worker_thread.start()
+
+    def manage_emulator_safe(self, index, wait_time):
+        try:
+            max_retries = 2
+            retry_count = 0
+            process_close = 10
+            
+            recoverable_errors = (
+                "Failed to open Facebook app", "Video import failed",
+                "Failed to get profile", "Not Connecting...", "Failed connecting...",
+                "ip", "Failed: Switch Profile")
+            
+            try:
+                while retry_count < max_retries:
+                    self.update_status.update_row_signal.emit(index, [ DeviceUpdate(col=2, status=f"Processing {retry_count + 1}/{max_retries}")])
+                    if self.stop_running_task.is_set():
+                        return
+
+                    if index not in self.running_threads:
+                        self.running_threads.append(index)
+                        
+                    try:
+                        self.emulator.launch_instance(index)
+                        self.emulator.organize_windows()
+
+                        sleep(wait_time)
+                                
+                        sleep(process_close)
+                        self.emulator.stop_instance(index)
+                        return
+
+                    except Exception as einner:
+                        message = str(einner)
+                        logging.debug(f"[ERROR] index={index}, attempt={retry_count+1}, error={message}")
+                        if any(x in message for x in ["Failed connecting...", "Not Connecting...", "ip"]): 
+                            self.emulator.stop_instance(index)
+                            logging.debug(f"[CLOSED] Emulator closed due to 'Failed connecting...' index={index}")
+                            retry_count += 1
+                            sleep(process_close)
+                            continue
+                                                
+                        elif any(error in message for error in recoverable_errors):
+                            retry_count += 1
+                            logging.debug(f"[RETRY] index={index}, retry_count={retry_count}")
+                            sleep(process_close)
+                            continue
+                        
+                        else:
+                            logging.debug(f"[FATAL] index={index}, error={message}")
+                            continue
+                            
+                if retry_count >= max_retries:
+                    self.update_status.update_row_signal.emit(index, [(3, f"Disconnected {index}")])
+
+            finally:
+                sleep(process_close)
+                self.update_status.update_row_signal.emit(index, [(3, f"Close: {process_close}")])
+                self.emulator.stop_instance(index)
+                
+                if index in self.running_threads:
+                    self.running_threads.remove(index)
+                    
+                # self.update_status.remove_row_signal.emit(index)
+                
+        except Exception as e:
+            logging.error(f"[THREAD ERROR] index={index}, error={e}\n{traceback.format_exc()}")
+            self.update_status.update_row_signal.emit(em_index=index, updates=[(3, f"Crash: {str(e)[:50]}...")])
+                
+            try:
+                self.emulator.stop_instance(index)
+            except Exception as e:
+                logging.error(f"[THREAD ERROR] index={index}, error={e}\n{traceback.format_exc()}")
+            
+            return
+
+                        
 if __name__ == "__main__":
     meta = AppMeta()
     app = QApplication(sys.argv)

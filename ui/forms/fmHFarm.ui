@@ -89,6 +89,26 @@
              <property name="selectionBehavior">
               <enum>QAbstractItemView::SelectRows</enum>
              </property>
+             <column>
+              <property name="text">
+               <string>No.</string>
+              </property>
+             </column>
+             <column>
+              <property name="text">
+               <string>LD Name</string>
+              </property>
+             </column>
+             <column>
+              <property name="text">
+               <string>Index</string>
+              </property>
+             </column>
+             <column>
+              <property name="text">
+               <string>Activity</string>
+              </property>
+             </column>
             </widget>
            </item>
            <item>
